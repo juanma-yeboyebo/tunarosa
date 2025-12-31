@@ -1,0 +1,833 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tuna Rosa - Tuna LGTBIQA+</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <style>
+      :root {
+        --color-primary: #e6007e; /* Rosa vibrante */
+        --color-secondary: #9c27b0; /* Morado */
+        --color-accent: #ff9800; /* Naranja */
+        --color-dark: #2c2c54; /* Azul oscuro */
+        --color-light: #f9f9f9; /* Blanco casi puro */
+        --color-text: #333333; /* Gris oscuro */
+        --rainbow-gradient: linear-gradient(
+          90deg,
+          #ff0018 0%,
+          #ffa52c 15%,
+          #ffff41 30%,
+          #008018 45%,
+          #0000f9 60%,
+          #86007d 75%
+        );
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        line-height: 1.6;
+        color: var(--color-text);
+        background-color: var(--color-light);
+      }
+
+      /* Header y Navegación */
+      header {
+        background: var(--rainbow-gradient);
+        color: white;
+        padding: 1rem 0;
+        position: sticky;
+        top: 0;
+        z-index: 1000;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      }
+
+      .container {
+        width: 90%;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 20px;
+      }
+
+      .header-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .logo {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+      }
+
+      .logo-icon {
+        font-size: 2.5rem;
+        color: var(--color-primary);
+        background-color: white;
+        border-radius: 50%;
+        padding: 10px;
+        width: 70px;
+        height: 70px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .logo-text h1 {
+        font-size: 1.8rem;
+        margin-bottom: 5px;
+        text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+      }
+
+      .logo-text p {
+        font-size: 0.9rem;
+        opacity: 0.9;
+      }
+
+      nav ul {
+        display: flex;
+        list-style: none;
+        gap: 25px;
+      }
+
+      nav a {
+        color: white;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 1.1rem;
+        transition: all 0.3s ease;
+        padding: 5px 10px;
+        border-radius: 4px;
+      }
+
+      nav a:hover {
+        background-color: rgba(255, 255, 255, 0.2);
+        transform: translateY(-2px);
+      }
+
+      .mobile-menu-btn {
+        display: none;
+        background: none;
+        border: none;
+        color: white;
+        font-size: 1.5rem;
+        cursor: pointer;
+      }
+
+      /* Hero Section */
+      .hero {
+        background: linear-gradient(
+            rgba(44, 44, 84, 0.85),
+            rgba(156, 39, 176, 0.8)
+          ),
+          url("https://images.unsplash.com/photo-1511379938547-c1f69419868d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80");
+        background-size: cover;
+        background-position: center;
+        color: white;
+        padding: 5rem 0;
+        text-align: center;
+      }
+
+      .hero h2 {
+        font-size: 2.5rem;
+        margin-bottom: 1.5rem;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+      }
+
+      .hero p {
+        font-size: 1.2rem;
+        max-width: 800px;
+        margin: 0 auto 2rem;
+      }
+
+      .hero-intro {
+        background-color: rgba(230, 0, 126, 0.8);
+        padding: 2rem;
+        border-radius: 10px;
+        max-width: 900px;
+        margin: 2rem auto 0;
+        text-align: left;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+      }
+
+      .hero-intro h3 {
+        font-size: 1.8rem;
+        margin-bottom: 1rem;
+        color: white;
+      }
+
+      .hero-intro p {
+        margin-bottom: 1rem;
+        font-size: 1.1rem;
+      }
+
+      /* Main Content */
+      .section {
+        padding: 4rem 0;
+      }
+
+      .section-title {
+        text-align: center;
+        margin-bottom: 3rem;
+        color: var(--color-dark);
+        position: relative;
+      }
+
+      .section-title:after {
+        content: "";
+        display: block;
+        width: 100px;
+        height: 4px;
+        background: var(--rainbow-gradient);
+        margin: 10px auto;
+        border-radius: 2px;
+      }
+
+      .values-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 25px;
+        margin-top: 2rem;
+      }
+
+      .value-card {
+        background-color: white;
+        border-radius: 10px;
+        padding: 25px;
+        text-align: center;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+
+      .value-card:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+      }
+
+      .value-icon {
+        font-size: 2.5rem;
+        color: var(--color-primary);
+        margin-bottom: 15px;
+      }
+
+      .value-card h3 {
+        margin-bottom: 10px;
+        color: var(--color-dark);
+      }
+
+      .content-text {
+        max-width: 900px;
+        margin: 0 auto;
+        font-size: 1.1rem;
+        line-height: 1.7;
+      }
+
+      .content-text p {
+        margin-bottom: 1.5rem;
+      }
+
+      .highlight {
+        background-color: rgba(230, 0, 126, 0.1);
+        border-left: 4px solid var(--color-primary);
+        padding: 1.5rem;
+        margin: 2rem 0;
+        border-radius: 0 8px 8px 0;
+      }
+
+      /* Languages Section */
+      .languages {
+        background-color: var(--color-dark);
+        color: white;
+      }
+
+      .languages .section-title {
+        color: white;
+      }
+
+      .languages-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 20px;
+        margin-top: 2rem;
+      }
+
+      .language-item {
+        background-color: rgba(255, 255, 255, 0.1);
+        padding: 20px;
+        border-radius: 8px;
+        text-align: center;
+        transition: background-color 0.3s ease;
+      }
+
+      .language-item:hover {
+        background-color: rgba(255, 255, 255, 0.2);
+      }
+
+      .language-item i {
+        font-size: 2rem;
+        margin-bottom: 10px;
+        color: var(--color-accent);
+      }
+
+      /* Call to Action */
+      .cta {
+        background: var(--rainbow-gradient);
+        color: white;
+        text-align: center;
+        padding: 4rem 0;
+      }
+
+      .cta h2 {
+        font-size: 2.5rem;
+        margin-bottom: 1.5rem;
+      }
+
+      .cta p {
+        font-size: 1.2rem;
+        max-width: 800px;
+        margin: 0 auto 2rem;
+      }
+
+      .cta-buttons {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        flex-wrap: wrap;
+        margin-top: 2rem;
+      }
+
+      .btn {
+        display: inline-block;
+        padding: 12px 30px;
+        border-radius: 50px;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 1.1rem;
+        transition: all 0.3s ease;
+        border: none;
+        cursor: pointer;
+      }
+
+      .btn-primary {
+        background-color: white;
+        color: var(--color-primary);
+      }
+
+      .btn-primary:hover {
+        background-color: var(--color-dark);
+        color: white;
+        transform: translateY(-3px);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+      }
+
+      .btn-secondary {
+        background-color: transparent;
+        color: white;
+        border: 2px solid white;
+      }
+
+      .btn-secondary:hover {
+        background-color: white;
+        color: var(--color-primary);
+        transform: translateY(-3px);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+      }
+
+      /* Footer */
+      footer {
+        background-color: var(--color-dark);
+        color: white;
+        padding: 3rem 0 1.5rem;
+      }
+
+      .footer-content {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 30px;
+        margin-bottom: 2rem;
+      }
+
+      .footer-section h3 {
+        margin-bottom: 1.5rem;
+        color: var(--color-accent);
+        position: relative;
+        padding-bottom: 10px;
+      }
+
+      .footer-section h3:after {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        width: 50px;
+        height: 3px;
+        background-color: var(--color-primary);
+      }
+
+      .footer-section p {
+        margin-bottom: 1rem;
+      }
+
+      .social-icons {
+        display: flex;
+        gap: 15px;
+        margin-top: 1rem;
+      }
+
+      .social-icons a {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 40px;
+        height: 40px;
+        background-color: rgba(255, 255, 255, 0.1);
+        border-radius: 50%;
+        color: white;
+        font-size: 1.2rem;
+        transition: all 0.3s ease;
+      }
+
+      .social-icons a:hover {
+        background-color: var(--color-primary);
+        transform: translateY(-3px);
+      }
+
+      .copyright {
+        text-align: center;
+        padding-top: 1.5rem;
+        border-top: 1px solid rgba(255, 255, 255, 0.1);
+        font-size: 0.9rem;
+        opacity: 0.8;
+      }
+
+      /* Responsive Design */
+      @media (max-width: 992px) {
+        .header-container {
+          flex-direction: column;
+          gap: 20px;
+        }
+
+        nav ul {
+          gap: 15px;
+        }
+
+        .hero h2 {
+          font-size: 2rem;
+        }
+      }
+
+      @media (max-width: 768px) {
+        .mobile-menu-btn {
+          display: block;
+          position: absolute;
+          top: 25px;
+          right: 20px;
+        }
+
+        nav {
+          width: 100%;
+          display: none;
+        }
+
+        nav.active {
+          display: block;
+        }
+
+        nav ul {
+          flex-direction: column;
+          text-align: center;
+          gap: 10px;
+          margin-top: 1rem;
+        }
+
+        .hero {
+          padding: 3rem 0;
+        }
+
+        .hero h2 {
+          font-size: 1.8rem;
+        }
+
+        .hero-intro {
+          padding: 1.5rem;
+        }
+
+        .cta h2 {
+          font-size: 2rem;
+        }
+
+        .cta-buttons {
+          flex-direction: column;
+          align-items: center;
+        }
+
+        .btn {
+          width: 100%;
+          max-width: 300px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Header y Navegación -->
+    <header>
+      <div class="container header-container">
+        <div class="logo">
+          <div class="logo-icon">
+            <i class="fas fa-music"></i>
+          </div>
+          <div class="logo-text">
+            <h1>Tuna Rosa</h1>
+            <p>Tuna LGTBIQA+</p>
+          </div>
+        </div>
+
+        <button class="mobile-menu-btn" id="mobileMenuBtn">
+          <i class="fas fa-bars"></i>
+        </button>
+
+        <nav id="mainNav">
+          <ul>
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#valores">Valores</a></li>
+            <li><a href="#mensaje">Mensaje</a></li>
+            <li><a href="#lenguas">Lenguas</a></li>
+            <li><a href="#unete">Únete</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero" id="inicio">
+      <div class="container">
+        <h2>Bienvenidos/as/es a la Tuna Rosa LGTBIQA+</h2>
+        <p>
+          Un espacio musical inclusivo donde todas las personas tienen cabida
+        </p>
+
+        <div class="hero-intro">
+          <h3>¡Hola! Soy Isidoro, también conocido como "Bruja" o "Looky"</h3>
+          <p>
+            Soy el Coordinador de la asociación Tuna Rosa, y una de las cabezas
+            visibles de este nuevo proyecto junto a otros hombres, mujeres,
+            trans, queers y personas que no se identifican con los patrones
+            tradicionales de heterosexualidad.
+          </p>
+          <p>
+            Nuestro grupo es una nueva propuesta de diversión a través de la
+            música donde todas las personas tengan cabida, el único requisito
+            para pertenecer a él es el respeto y el cariño entre nosotras/os/es
+            y hacia la sociedad.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Valores Section -->
+    <section class="section" id="valores">
+      <div class="container">
+        <h2 class="section-title">Nuestros Valores</h2>
+        <p class="content-text" style="text-align: center; margin-bottom: 2rem">
+          Queremos ser reflejo de la sociedad del siglo XXI, por eso, en nuestro
+          escudo aparecen estos valores fundamentales:
+        </p>
+
+        <div class="values-container">
+          <div class="value-card">
+            <div class="value-icon">
+              <i class="fas fa-heart"></i>
+            </div>
+            <h3>Respeto</h3>
+            <p>
+              Base fundamental de todas nuestras interacciones y relaciones
+              dentro y fuera del grupo.
+            </p>
+          </div>
+
+          <div class="value-card">
+            <div class="value-icon">
+              <i class="fas fa-users"></i>
+            </div>
+            <h3>Diversidad</h3>
+            <p>
+              Celebramos y valoramos la diversidad en todas sus expresiones y
+              formas.
+            </p>
+          </div>
+
+          <div class="value-card">
+            <div class="value-icon">
+              <i class="fas fa-venus-mars"></i>
+            </div>
+            <h3>Feminismo/Igualdad</h3>
+            <p>
+              Comprometidos con la igualdad de género y la lucha contra el
+              machismo.
+            </p>
+          </div>
+
+          <div class="value-card">
+            <div class="value-icon">
+              <i class="fas fa-eye"></i>
+            </div>
+            <h3>Visibilidad</h3>
+            <p>
+              Dar voz y presencia a las identidades y orientaciones diversas en
+              la sociedad.
+            </p>
+          </div>
+
+          <div class="value-card">
+            <div class="value-icon">
+              <i class="fas fa-flag"></i>
+            </div>
+            <h3>Orgullo</h3>
+            <p>
+              Orgullo de ser quienes somos y de nuestra contribución a una
+              sociedad más justa.
+            </p>
+          </div>
+
+          <div class="value-card">
+            <div class="value-icon">
+              <i class="fas fa-hands-heart"></i>
+            </div>
+            <h3>Maitasuna/Amor</h3>
+            <p>
+              El amor como fuerza transformadora y principio guía de nuestras
+              acciones.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Mensaje Section -->
+    <section class="section" id="mensaje" style="background-color: #f5f5f5">
+      <div class="container">
+        <h2 class="section-title">Nuestro Mensaje</h2>
+
+        <div class="content-text">
+          <p>
+            Queremos unir lo mejor de la tradición estudiantil europea con la
+            música popular actual, con nuestra sociedad abierta, sin complejos
+            ni exclusiones. Cuando se formaron las primeras estudiantinas
+            (Tunas) en España, Portugal s.XV, en Holanda y más tarde en los
+            países iberoamericanos y por todo el mundo, éstas, cantaban y
+            tocaban piezas populares a cambio de un plato de sopa (la sopaboba o
+            el bodrio) en mesones, tabernas o conventos.
+          </p>
+
+          <div class="highlight">
+            <p>
+              Hoy volvemos a tocar en las calles y tabernas para sentirnos
+              juntos parte de una sociedad más justa donde todos podamos aportar
+              "maitasuna" a este mundo del s. XXI.
+            </p>
+          </div>
+
+          <p>
+            Queremos integrar, sumar, invitar a que se una toda persona que
+            venga a divertirse respetando; y lo hacemos a través de la música,
+            de los cantos en grupo. Algunas veces iremos a rondar a las personas
+            amadas, para decirles el amor que sentimos; solo necesitamos saber
+            que ese amor es correspondido.
+          </p>
+
+          <p>
+            Somos más los que creemos en el gran corazón que llevamos dentro, y
+            jamás vamos a prejuzgar la diversidad, al contrario, nos
+            enorgullece. Somos gays, lesbianas, bisexuales, trans, intergéneros,
+            queers, asexuales, y todos los que no se sienten identificados con
+            el modelo heterosexual tradicional, mucho menos con el machismo que
+            tanto dolor ha traído a la sociedad de antes y de ahora.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Lenguas Section -->
+    <section class="section languages" id="lenguas">
+      <div class="container">
+        <h2 class="section-title">Lenguas y Cultura</h2>
+
+        <div class="content-text">
+          <p>
+            Nuestra Tuna no es una Tuna que restrinja su ámbito a un solo país o
+            territorio. Así como las lenguas en que nos expresamos y/o cantamos
+            son todas las que podamos llegar a aprender. Son especialmente
+            protegidas las lenguas minoritarias del estado español:
+            Valenciano-Catalán, Euskera, Gallego.
+          </p>
+
+          <p>
+            Nos encantaría poder cantar en alguna lengua más, ayúdanos a
+            descubrir la belleza de tu lengua en una canción que te guste.
+            Podemos intentarlo, queremos intentarlo.
+          </p>
+        </div>
+
+        <div class="languages-grid">
+          <div class="language-item">
+            <i class="fas fa-language"></i>
+            <h3>Español</h3>
+            <p>Lengua principal de comunicación</p>
+          </div>
+
+          <div class="language-item">
+            <i class="fas fa-leaf"></i>
+            <h3>Euskera</h3>
+            <p>Maitasuna, nuestro valor fundamental</p>
+          </div>
+
+          <div class="language-item">
+            <i class="fas fa-water"></i>
+            <h3>Valenciano-Catalán</h3>
+            <p>Lengua protegida y celebrada</p>
+          </div>
+
+          <div class="language-item">
+            <i class="fas fa-mountain"></i>
+            <h3>Gallego</h3>
+            <p>Parte de nuestra riqueza cultural</p>
+          </div>
+
+          <div class="language-item">
+            <i class="fas fa-globe-europe"></i>
+            <h3>Otras lenguas</h3>
+            <p>¡Queremos aprender más!</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Únete Section -->
+    <section class="cta" id="unete">
+      <div class="container">
+        <h2>¡Únete a nuestra Tuna Rosa!</h2>
+        <p>
+          Nuestra invitación es internacional; puede asociarse toda persona que
+          quiera cantar, tocar y aportar su "buen rollo" al grupo. Únicamente
+          estarán vetadas las personas que intenten separar, ridiculizar,
+          humillar o transmitir odio.
+        </p>
+
+        <div class="cta-buttons">
+          <a href="#contacto" class="btn btn-primary">Hazte socio/a/e</a>
+          <a href="#eventos" class="btn btn-secondary">Únete a cantar</a>
+        </div>
+
+        <p style="margin-top: 2rem; font-size: 1rem">
+          Os esperamos a todas/es/os los que queráis participar de nuestra Tuna
+          Rosa Lgtbiqa+; bien haciéndoos socias/es/os (sin ninguna aportación
+          económica) o bien, simplemente uniéndoos a cantar donde nos
+          encontréis.
+        </p>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer id="contacto">
+      <div class="container">
+        <div class="footer-content">
+          <div class="footer-section">
+            <h3>Contacto</h3>
+            <p><i class="fas fa-user"></i> Isidoro "Bruja/Looky"</p>
+            <p><i class="fas fa-envelope"></i> contacto@tunarosa.org</p>
+            <p>
+              <i class="fas fa-map-marker-alt"></i> Actuamos en toda España y
+              más allá
+            </p>
+          </div>
+
+          <div class="footer-section">
+            <h3>Síguenos</h3>
+            <p>Mantente al día de nuestros eventos y actuaciones</p>
+            <div class="social-icons">
+              <a href="#"><i class="fab fa-facebook-f"></i></a>
+              <a href="#"><i class="fab fa-instagram"></i></a>
+              <a href="#"><i class="fab fa-twitter"></i></a>
+              <a href="#"><i class="fab fa-youtube"></i></a>
+            </div>
+          </div>
+
+          <div class="footer-section">
+            <h3>Nuestro Compromiso</h3>
+            <p>
+              Somos un espacio seguro para todas las identidades y
+              orientaciones. El respeto, la diversidad y el amor son nuestros
+              pilares fundamentales.
+            </p>
+            <p>¡Ven a cantar con nosotros!</p>
+          </div>
+        </div>
+
+        <div class="copyright">
+          <p>
+            &copy; 2023 Tuna Rosa LGTBIQA+. Todos los derechos reservados. |
+            Diseño inclusivo y con orgullo
+          </p>
+        </div>
+      </div>
+    </footer>
+
+    <script>
+      // Menú móvil
+      const mobileMenuBtn = document.getElementById("mobileMenuBtn");
+      const mainNav = document.getElementById("mainNav");
+
+      mobileMenuBtn.addEventListener("click", () => {
+        mainNav.classList.toggle("active");
+        const icon = mobileMenuBtn.querySelector("i");
+        if (mainNav.classList.contains("active")) {
+          icon.classList.remove("fa-bars");
+          icon.classList.add("fa-times");
+        } else {
+          icon.classList.remove("fa-times");
+          icon.classList.add("fa-bars");
+        }
+      });
+
+      // Cerrar menú al hacer clic en un enlace (en móviles)
+      document.querySelectorAll("nav a").forEach((link) => {
+        link.addEventListener("click", () => {
+          if (window.innerWidth <= 768) {
+            mainNav.classList.remove("active");
+            const icon = mobileMenuBtn.querySelector("i");
+            icon.classList.remove("fa-times");
+            icon.classList.add("fa-bars");
+          }
+        });
+      });
+
+      // Scroll suave para enlaces internos
+      document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
+        anchor.addEventListener("click", function (e) {
+          e.preventDefault();
+
+          const targetId = this.getAttribute("href");
+          if (targetId === "#") return;
+
+          const targetElement = document.querySelector(targetId);
+          if (targetElement) {
+            window.scrollTo({
+              top: targetElement.offsetTop - 80,
+              behavior: "smooth",
+            });
+          }
+        });
+      });
+    </script>
+  </body>
+</html>
