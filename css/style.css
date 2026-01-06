@@ -33,7 +33,7 @@ body {
 header {
   background: var(--rainbow-gradient);
   color: white;
-  padding: 1rem 0;
+  padding: 0.5rem 0;
   position: sticky;
   top: 0;
   z-index: 1000;
@@ -51,6 +51,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 0px 50px;
 }
 
 .logo {
@@ -610,7 +611,7 @@ footer {
 /* Responsive Design */
 @media (max-width: 992px) {
   .header-container {
-    flex-direction: column;
+    /* flex-direction: column; */
     gap: 20px;
   }
 
