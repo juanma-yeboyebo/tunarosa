@@ -399,6 +399,12 @@ nav a:hover {
   display: block;
 }
 
+.event-date .range {
+  font-size: 1rem;
+  font-weight: bold;
+  display: block;
+}
+
 .event-date .month {
   font-size: 0.9rem;
   text-transform: uppercase;
