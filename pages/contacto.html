@@ -154,17 +154,38 @@
 
         <!-- Información adicional -->
         <div class="additional-info">
-          <div class="info-card">
-            <h3><i class="fas fa-tshirt"></i>Escudo Bordado</h3>
-            <p>
-              Cómo conseguir el escudo bordado T.Rosa: encargar hacer en
-              tunarosalgtbiqaplus@gmail.com.
-            </p>
-            <p>
-              El escudo se enviará contrareembolso según precio de la empresa
-              que se os informará en el mail.
-            </p>
-          </div>
+
+    <div class="info-card">
+        <h3><i class="fas fa-tshirt"></i> Escudo Bordado</h3>
+        
+        <!-- Galería de imágenes del escudo -->
+        <div class="escudo-gallery">
+            <div class="escudo-item">
+                <img src="../images/1767695303227.jpg" alt="Escudo Tuna Rosa LGTBIQA+" class="escudo-img">
+            </div>
+            <div class="escudo-item">
+                <img src="../images/1767695303243.jpg" alt="Bandera LGTBIQAI" class="escudo-img">
+            </div>
+        </div>
+        
+        <p class="escudo-info">
+            Cómo conseguir el escudo bordado de Tuna Rosa: encargar hacer en
+            <strong>tunarosalgtbiqaplus@gmail.com</strong>.
+        </p>
+        <p class="escudo-info">
+            El escudo se enviará contrareembolso según precio de la empresa
+            que se os informará en el mail.
+        </p>
+        
+        <!-- Botón para pedir el escudo -->
+        <div class="escudo-action">
+            <a href="mailto:tunarosalgtbiqaplus@gmail.com?subject=Solicitud de Escudo Bordado Tuna Rosa&body=Hola,%0D%0A%0D%0AMe gustaría solicitar información sobre el escudo bordado de Tuna Rosa.%0D%0A%0D%0ADatos de contacto:%0D%0A- Nombre: [Tu nombre]%0D%0A- Dirección: [Tu dirección]%0D%0A- Teléfono: [Tu teléfono]%0D%0A%0D%0A¡Gracias!" 
+               class="btn-escudo">
+                <i class="fas fa-shopping-cart"></i> Pedir escudo bordado
+            </a>
+        </div>
+    </div>
+</div>
 
           <div class="info-card">
             <h3><i class="fas fa-question-circle"></i> Preguntas frecuentes</h3>
@@ -189,15 +210,16 @@
         <!-- Contacto directo -->
         <div class="direct-contact">
           <h2><i class="fas fa-comments"></i> ¿Tienes dudas?</h2>
-          <p>Escríbenos directamente a nuestro correo:</p>
+          <p>Nuestro Correo:</p>
+          <p class="email-address">tunarosalgtbiqaplus@gmail.com</p>
           <div class="email-container">
-            <div class="email-box">
+            <!-- <div class="email-box">
               <i class="fas fa-envelope-open-text"></i>
               <div>
                 <h3>Correo oficial</h3>
-                <p class="email-address">tunarosalgtbiqaplus@gmail.com</p>
+                
               </div>
-            </div>
+            </div> -->
             <a href="mailto:tunarosalgtbiqaplus@gmail.com" class="btn-email">
               <i class="fas fa-envelope"></i> Escribir email
             </a>
@@ -328,12 +350,6 @@
             langDropdown.classList.remove("show");
           });
         });
-      }
-
-      // Actualizar año
-      const currentYear = document.getElementById("currentYear");
-      if (currentYear) {
-        currentYear.textContent = new Date().getFullYear();
       }
 
       function changeLanguage(lang) {

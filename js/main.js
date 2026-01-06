@@ -43,3 +43,38 @@ document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
     }
   });
 });
+
+// Selector de idioma
+const langBtn = document.getElementById("langBtn");
+const langDropdown = document.getElementById("langDropdown");
+
+if (langBtn && langDropdown) {
+  langBtn.addEventListener("click", () => {
+    langDropdown.classList.toggle("show");
+  });
+
+  // Cerrar dropdown al hacer clic fuera
+  document.addEventListener("click", (e) => {
+    if (!langBtn.contains(e.target) && !langDropdown.contains(e.target)) {
+      langDropdown.classList.remove("show");
+    }
+  });
+
+  // Cambiar idioma
+  langDropdown.querySelectorAll("a").forEach((link) => {
+    link.addEventListener("click", (e) => {
+      e.preventDefault();
+      const lang = link.getAttribute("data-lang");
+      changeLanguage(lang);
+      langBtn.innerHTML = `<i class="fas fa-globe"></i> ${link.textContent
+        .substring(0, 3)
+        .toUpperCase()}`;
+      langDropdown.classList.remove("show");
+    });
+  });
+}
+
+function changeLanguage(lang) {
+  console.log(`Cambiando idioma a: ${lang}`);
+  // Aquí iría la lógica real de cambio de idioma
+}

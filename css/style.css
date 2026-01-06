@@ -966,7 +966,7 @@ footer {
 }
 
 .email-address {
-  font-size: 1.3rem;
+  font-size: 1rem;
   font-weight: bold;
   margin-top: 5px;
 }
@@ -1015,4 +1015,107 @@ footer {
 /* Active link en navegación */
 nav a.active {
   background-color: rgba(255, 255, 255, 0.3);
+}
+
+/* Galería del escudo */
+.escudo-gallery {
+  display: flex;
+  gap: 20px;
+  margin: 20px 0;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.escudo-item {
+  flex: 1;
+  min-width: 250px;
+  max-width: 300px;
+  text-align: center;
+}
+
+.escudo-img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  border: 3px solid var(--color-primary);
+  /* transition: transform 0.3s ease; */
+}
+
+/* .escudo-img:hover {
+  transform: scale(1.05);
+} */
+
+.escudo-caption {
+  margin-top: 10px;
+  font-size: 0.9rem;
+  color: var(--color-dark);
+  font-weight: 600;
+}
+
+.escudo-info {
+  margin-top: 15px;
+  line-height: 1.6;
+  color: var(--color-text);
+  text-align: center;
+}
+
+.escudo-info strong {
+  color: var(--color-primary);
+}
+
+/* Botón para pedir escudo */
+.escudo-action {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.btn-escudo {
+  display: inline-block;
+  background: linear-gradient(
+    135deg,
+    var(--color-primary),
+    var(--color-secondary)
+  );
+  color: white;
+  padding: 12px 25px;
+  border-radius: 50px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(230, 0, 126, 0.3);
+}
+
+.btn-escudo:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 15px rgba(230, 0, 126, 0.4);
+  background: linear-gradient(
+    135deg,
+    var(--color-secondary),
+    var(--color-primary)
+  );
+}
+
+.btn-escudo i {
+  margin-right: 8px;
+}
+
+/* Responsive para la galería */
+@media (max-width: 768px) {
+  .escudo-gallery {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .escudo-item {
+    max-width: 100%;
+  }
+
+  .btn-escudo {
+    width: 100%;
+    text-align: center;
+  }
 }
