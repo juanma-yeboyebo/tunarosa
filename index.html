@@ -23,7 +23,7 @@
         </div>
 
         <!-- Selector de idioma -->
-        <!-- <div class="language-selector">
+        <div class="language-selector">
           <button class="lang-btn" id="langBtn">
             <i class="fas fa-globe"></i> ES
           </button>
@@ -36,7 +36,7 @@
             <a href="#" data-lang="en">English</a>
             <a href="#" data-lang="fr">Français</a>
           </div>
-        </div> -->
+        </div>
 
         <button class="mobile-menu-btn" id="mobileMenuBtn">
           <i class="fas fa-bars"></i>
@@ -44,12 +44,12 @@
 
         <nav id="mainNav">
           <ul>
-            <li><a href="#inicio">Inicio</a></li>
-            <li><a href="#valores">Valores</a></li>
-            <li><a href="#mensaje">Mensaje</a></li>
-            <li><a href="#lenguas">Lenguas</a></li>
-            <li><a href="#calendario">Calendario</a></li>
-            <li><a href="#unete">Únete</a></li>
+            <li><a href="#inicio" data-i18n="inicio">Inicio</a></li>
+            <li><a href="#valores" data-i18n="valores">Valores</a></li>
+            <li><a href="#mensaje" data-i18n="mensaje">Mensaje</a></li>
+            <li><a href="#lenguas" data-i18n="lenguas">Lenguas</a></li>
+            <li><a href="#calendario" data-i18n="calendario">Calendario</a></li>
+            <li><a href="#unete" data-i18n="unete">Únete</a></li>
           </ul>
         </nav>
       </div>
@@ -58,20 +58,22 @@
     <!-- Hero Section -->
     <section class="hero" id="inicio">
       <div class="container">
-        <h2>Bienvenidos/as/es a la Tuna Rosa LGTBIQA+</h2>
-        <p>
+        <h2 data-i18n="heroTitle">Bienvenidos/as/es a la Tuna Rosa LGTBIQA+</h2>
+        <p data-i18n="heroSubtitle">
           Un espacio musical inclusivo donde todas las personas tienen cabida
         </p>
 
         <div class="hero-intro">
-          <h3>¡Hola! Soy Isidoro, también conocido como "Bruja" o "Looky"</h3>
-          <p>
+          <h3 data-i18n="heroIntro">
+            ¡Hola! Soy Isidoro, también conocido como "Bruja" o "Looky"
+          </h3>
+          <p data-i18n="heroP1">
             Soy el Coordinador de la asociación Tuna Rosa, y una de las cabezas
             visibles de este nuevo proyecto junto a otros hombres, mujeres,
             trans, queers y personas que no se identifican con los patrones
             tradicionales de heterosexualidad.
           </p>
-          <p>
+          <p data-i18n="heroP2">
             Nuestro grupo es una nueva propuesta de diversión a través de la
             música donde todas las personas tengan cabida, el único requisito
             para pertenecer a él es el respeto y el cariño entre nosotras/os/es
@@ -84,8 +86,8 @@
     <!-- Valores Section -->
     <section class="section" id="valores">
       <div class="container">
-        <h2 class="section-title">Nuestros Valores</h2>
-        <p class="content-text center-text">
+        <h2 class="section-title" data-i18n="valoresTitle">Nuestros Valores</h2>
+        <p class="content-text center-text" data-i18n="valoresIntro">
           Queremos ser reflejo de la sociedad del siglo XXI, por eso, en nuestro
           escudo aparecen estos valores fundamentales:
         </p>
@@ -93,8 +95,8 @@
         <div class="values-container">
           <div class="value-card">
             <div class="value-icon"><i class="fas fa-heart"></i></div>
-            <h3>Respeto</h3>
-            <p>
+            <h3 data-i18n="valorRespeto">Respeto</h3>
+            <p data-i18n="valorRespetoDesc">
               Base fundamental de todas nuestras interacciones y relaciones
               dentro y fuera del grupo.
             </p>
@@ -102,8 +104,8 @@
 
           <div class="value-card">
             <div class="value-icon"><i class="fas fa-users"></i></div>
-            <h3>Diversidad</h3>
-            <p>
+            <h3 data-i18n="valorDiversidad">Diversidad</h3>
+            <p data-i18n="valorDiversidadDesc">
               Celebramos y valoramos la diversidad en todas sus expresiones y
               formas.
             </p>
@@ -111,8 +113,8 @@
 
           <div class="value-card">
             <div class="value-icon"><i class="fas fa-venus-mars"></i></div>
-            <h3>Feminismo/Igualdad</h3>
-            <p>
+            <h3 data-i18n="valorFeminismo">Feminismo/Igualdad</h3>
+            <p data-i18n="valorFeminismoDesc">
               Comprometidos con la igualdad de género y la lucha contra el
               machismo.
             </p>
@@ -120,8 +122,8 @@
 
           <div class="value-card">
             <div class="value-icon"><i class="fas fa-eye"></i></div>
-            <h3>Visibilidad</h3>
-            <p>
+            <h3 data-i18n="valorVisibilidad">Visibilidad</h3>
+            <p data-i18n="valorVisibilidadDesc">
               Dar voz y presencia a las identidades y orientaciones diversas en
               la sociedad.
             </p>
@@ -129,8 +131,8 @@
 
           <div class="value-card">
             <div class="value-icon"><i class="fas fa-flag"></i></div>
-            <h3>Orgullo</h3>
-            <p>
+            <h3 data-i18n="valorOrgullo">Orgullo</h3>
+            <p data-i18n="valorOrgulloDesc">
               Orgullo de ser quienes somos y de nuestra contribución a una
               sociedad más justa.
             </p>
@@ -138,8 +140,8 @@
 
           <div class="value-card">
             <div class="value-icon"><i class="fas fa-heart"></i></div>
-            <h3>Maitasuna/Amor</h3>
-            <p>
+            <h3 data-i18n="valorAmor">Maitasuna/Amor</h3>
+            <p data-i18n="valorAmorDesc">
               El amor como fuerza transformadora y principio guía de nuestras
               acciones.
             </p>
@@ -151,9 +153,9 @@
     <!-- Mensaje Section -->
     <section class="section" id="mensaje">
       <div class="container">
-        <h2 class="section-title">Nuestro Mensaje</h2>
+        <h2 class="section-title" data-i18n="mensajeTitle">Nuestro Mensaje</h2>
         <div class="content-text">
-          <p>
+          <p data-i18n="mensajeP1">
             Queremos unir lo mejor de la tradición estudiantil europea con la
             música popular actual, con nuestra sociedad abierta, sin complejos
             ni exclusiones. Cuando se formaron las primeras estudiantinas
@@ -164,14 +166,14 @@
           </p>
 
           <div class="highlight">
-            <p>
+            <p data-i18n="mensajeHighlight">
               Hoy volvemos a tocar en las calles y tabernas para sentirnos
               juntos parte de una sociedad más justa donde todos podamos aportar
               "maitasuna" a este mundo del s. XXI.
             </p>
           </div>
 
-          <p>
+          <p data-i18n="mensajeP2">
             Queremos integrar, sumar, invitar a que se una toda persona que
             venga a divertirse respetando; y lo hacemos a través de la música,
             de los cantos en grupo. Algunas veces iremos a rondar a las personas
@@ -179,7 +181,7 @@
             que ese amor es correspondido.
           </p>
 
-          <p>
+          <p data-i18n="mensajeP3">
             Somos más los que creemos en el gran corazón que llevamos dentro, y
             jamás vamos a prejuzgar la diversidad, al contrario, nos
             enorgullece. Somos gays, lesbianas, bisexuales, trans, intergéneros,
