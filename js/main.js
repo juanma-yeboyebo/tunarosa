@@ -44,37 +44,19 @@ document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
   });
 });
 
-// Selector de idioma
-const langBtn = document.getElementById("langBtn");
-const langDropdown = document.getElementById("langDropdown");
+// Selector de idioma: la lógica real vive en language-switcher.js
 
-if (langBtn && langDropdown) {
-  langBtn.addEventListener("click", () => {
-    langDropdown.classList.toggle("show");
-  });
-
-  // Cerrar dropdown al hacer clic fuera
-  document.addEventListener("click", (e) => {
-    if (!langBtn.contains(e.target) && !langDropdown.contains(e.target)) {
-      langDropdown.classList.remove("show");
-    }
-  });
-
-  // Cambiar idioma
-  langDropdown.querySelectorAll("a").forEach((link) => {
-    link.addEventListener("click", (e) => {
-      e.preventDefault();
-      const lang = link.getAttribute("data-lang");
-      changeLanguage(lang);
-      langBtn.innerHTML = `<i class="fas fa-globe"></i> ${link.textContent
-        .substring(0, 3)
-        .toUpperCase()}`;
-      langDropdown.classList.remove("show");
-    });
-  });
-}
-
-function changeLanguage(lang) {
-  console.log(`Cambiando idioma a: ${lang}`);
-  // Aquí iría la lógica real de cambio de idioma
+// Oculta la extensión .html en la URL una vez cargada la página
+// (solo cambia la barra de direcciones, no la navegación real)
+if (typeof history.replaceState === "function") {
+  const cleanPath = window.location.pathname
+    .replace(/index\.html$/, "")
+    .replace(/\.html$/, "");
+  const cleanUrl = `${cleanPath}${window.location.search}${window.location.hash}`;
+  if (
+    cleanUrl !==
+    window.location.pathname + window.location.search + window.location.hash
+  ) {
+    history.replaceState(null, "", cleanUrl);
+  }
 }

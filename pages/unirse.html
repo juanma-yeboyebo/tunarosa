@@ -1,201 +1,288 @@
-<!-- Incluir header -->
-<?php include('../includes/header.html'); ?>
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Unirse - Tuna Rosa LGTBIQA+</title>
+    <link rel="stylesheet" href="../css/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <header>
+      <div class="header-container">
+        <a class="logo" href="../index.html#inicio">
+          <img src="../images/logo.png" alt="Logo Tuna Rosa" class="logo-img" />
+          <div class="logo-text">
+            <h1>Tuna Rosa</h1>
+            <p>Tuna LGTBIQA+</p>
+          </div>
+        </a>
 
-<section class="page-header">
-  <h1><i class="fas fa-user-plus"></i> Cómo unirse a Tuna Rosa</h1>
-  <p>
-    ¡Te damos la bienvenida! Aquí tienes toda la información para formar parte
-    de nuestra tuna.
-  </p>
-</section>
+        <div class="language-selector">
+          <button class="lang-btn" id="langBtn">
+            <i class="fas fa-globe"></i> ES
+          </button>
+          <div class="lang-dropdown" id="langDropdown">
+            <a href="#" data-lang="es">Español</a>
+            <a href="#" data-lang="cat">Català/Valencià</a>
+            <a href="#" data-lang="gal">Galego</a>
+            <a href="#" data-lang="eus">Euskera</a>
+            <a href="#" data-lang="pt">Português</a>
+            <a href="#" data-lang="en">English</a>
+            <a href="#" data-lang="fr">Français</a>
+          </div>
+        </div>
 
-<div class="membership-options">
-  <div class="option-card">
-    <div class="option-header">
-      <h2><i class="fas fa-heart"></i> Simpatizante</h2>
-      <div class="price">Gratuito</div>
-    </div>
-    <div class="option-body">
-      <ul>
-        <li><i class="fas fa-check"></i> Recibir información de actividades</li>
-        <li><i class="fas fa-check"></i> Asistir a eventos abiertos</li>
-        <li><i class="fas fa-check"></i> Apoyar nuestras iniciativas</li>
-      </ul>
-      <p class="requirements">
-        <strong>Requisitos:</strong> Enviar nombre, dirección postal, teléfono
-        de contacto y email a:
-      </p>
-      <div class="contact-email">
-        <i class="fas fa-envelope"></i>
-        <a href="mailto:tunarosalgtbiqaplus@gmail.com"
-          >tunarosalgtbiqaplus@gmail.com</a
-        >
+        <button class="mobile-menu-btn" id="mobileMenuBtn">
+          <i class="fas fa-bars"></i>
+        </button>
+
+        <nav id="mainNav">
+          <ul>
+            <li><a href="../index.html" data-i18n="navInicio">Inicio</a></li>
+            <li>
+              <a href="../index.html#valores" data-i18n="navValores">Valores</a>
+            </li>
+            <li>
+              <a href="../index.html#lenguas" data-i18n="navLenguas">Lenguas</a>
+            </li>
+            <li>
+              <a href="../index.html#calendario" data-i18n="navCalendario"
+                >Calendario</a
+              >
+            </li>
+            <li><a href="contacto.html" data-i18n="navUnete">Únete</a></li>
+          </ul>
+        </nav>
       </div>
-    </div>
-  </div>
+    </header>
 
-  <div class="option-card featured">
-    <div class="option-header">
-      <h2><i class="fas fa-star"></i> Socio/Miembr@</h2>
-      <div class="price">Cuota anual</div>
-    </div>
-    <div class="option-body">
-      <ul>
-        <li>
-          <i class="fas fa-check"></i>
-          <strong>Todos los beneficios de simpatizante</strong>
-        </li>
-        <li><i class="fas fa-check"></i> Derecho a voto en asambleas</li>
-        <li><i class="fas fa-check"></i> Participación en actuaciones</li>
-        <li><i class="fas fa-check"></i> Acceso a recursos internos</li>
-        <li><i class="fas fa-check"></i> Descuentos en eventos</li>
-      </ul>
-      <p class="requirements">
-        <strong>Requisitos:</strong> Enviar nombre, dirección postal, teléfono
-        de contacto y email.<br />
-        <em
-          >Nota: El derecho de votar en asamblea telemática requiere ser soci@
-          de Tuna Rosa.</em
-        >
-      </p>
-      <div class="contact-email">
-        <i class="fas fa-envelope"></i>
-        <a href="mailto:tunarosalgtbiqaplus@gmail.com"
-          >tunarosalgtbiqaplus@gmail.com</a
-        >
+    <main class="container">
+      <section class="page-header">
+        <h1>
+          <i class="fas fa-user-plus"></i>
+          <span data-i18n="pageHeaderTitle">Cómo unirse a Tuna Rosa</span>
+        </h1>
+        <p data-i18n="pageHeaderSubtitle">
+          ¡Te damos la bienvenida! Aquí tienes toda la información para formar
+          parte de nuestra tuna.
+        </p>
+      </section>
+
+      <div class="membership-options">
+        <div class="option-card">
+          <div class="option-header">
+            <h2>
+              <i class="fas fa-heart"></i>
+              <span data-i18n="simpatizante">Simpatizante</span>
+            </h2>
+            <div class="price" data-i18n="gratuito">Gratuito</div>
+          </div>
+          <div class="option-body">
+            <ul>
+              <li>
+                <i class="fas fa-check"></i>
+                <span data-i18n="simpatizanteBenefit1"
+                  >Recibir información de actividades</span
+                >
+              </li>
+              <li>
+                <i class="fas fa-check"></i>
+                <span data-i18n="simpatizanteBenefit2"
+                  >Asistir a eventos abiertos</span
+                >
+              </li>
+              <li>
+                <i class="fas fa-check"></i>
+                <span data-i18n="simpatizanteBenefit3"
+                  >Apoyar nuestras iniciativas</span
+                >
+              </li>
+            </ul>
+            <p class="requirements" data-i18n="simpatizanteReq">
+              Requisitos: Enviar nombre, dirección postal, teléfono de contacto
+              y email a:
+            </p>
+            <div class="contact-email">
+              <i class="fas fa-envelope"></i>
+              <a
+                href="mailto:tunarosalgtbiqaplus@gmail.com"
+                data-i18n="emailLabel"
+                >tunarosalgtbiqaplus@gmail.com</a
+              >
+            </div>
+          </div>
+        </div>
+
+        <div class="option-card featured">
+          <div class="option-header">
+            <h2>
+              <i class="fas fa-star"></i>
+              <span data-i18n="socio">Socio/Miembr@</span>
+            </h2>
+            <div class="price" data-i18n="cuotaAnual">Cuota anual</div>
+          </div>
+          <div class="option-body">
+            <ul>
+              <li>
+                <i class="fas fa-check"></i>
+                <strong data-i18n="socioBenefit1"
+                  >Todos los beneficios de simpatizante</strong
+                >
+              </li>
+              <li>
+                <i class="fas fa-check"></i>
+                <span data-i18n="socioBenefit2"
+                  >Derecho a voto en asambleas</span
+                >
+              </li>
+              <li>
+                <i class="fas fa-check"></i>
+                <span data-i18n="socioBenefit3"
+                  >Participación en actuaciones</span
+                >
+              </li>
+              <li>
+                <i class="fas fa-check"></i>
+                <span data-i18n="socioBenefit4"
+                  >Acceso a recursos internos</span
+                >
+              </li>
+              <li>
+                <i class="fas fa-check"></i>
+                <span data-i18n="socioBenefit5">Descuentos en eventos</span>
+              </li>
+            </ul>
+            <p class="requirements" data-i18n="socioReq">
+              Requisitos: Enviar nombre, dirección postal, teléfono de contacto
+              y email.
+            </p>
+            <p class="requirements">
+              <em data-i18n="socioNote"
+                >Nota: El derecho de votar en asamblea telemática requiere ser
+                soci@ de Tuna Rosa.</em
+              >
+            </p>
+            <div class="contact-email">
+              <i class="fas fa-envelope"></i>
+              <a
+                href="mailto:tunarosalgtbiqaplus@gmail.com"
+                data-i18n="emailLabel"
+                >tunarosalgtbiqaplus@gmail.com</a
+              >
+            </div>
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-</div>
 
-<section class="faq-section">
-  <h2><i class="fas fa-question-circle"></i> Preguntas frecuentes</h2>
+      <section class="faq-section">
+        <h2>
+          <i class="fas fa-question-circle"></i>
+          <span data-i18n="faqUTitle">Preguntas frecuentes</span>
+        </h2>
 
-  <div class="faq-item">
-    <h3>¿Necesito saber tocar un instrumento?</h3>
-    <p>
-      No es obligatorio. Valoramos las ganas de participar y aprender. Tenemos
-      espacio para músic@s, cantantes y gente con ganas de ayudar en la
-      organización.
-    </p>
-  </div>
+        <div class="faq-item">
+          <h3 data-i18n="faqUQ1">¿Necesito saber tocar un instrumento?</h3>
+          <p data-i18n="faqUA1">
+            No es obligatorio. Valoramos las ganas de participar y aprender.
+            Tenemos espacio para músic@s, cantantes y gente con ganas de ayudar
+            en la organización.
+          </p>
+        </div>
 
-  <div class="faq-item">
-    <h3>¿Hay límite de edad?</h3>
-    <p>
-      ¡No! La tuna es una tradición universitaria, pero acogemos a personas de
-      todas las edades que compartan nuestros valores de diversidad e inclusión.
-    </p>
-  </div>
+        <div class="faq-item">
+          <h3 data-i18n="faqUQ2">¿Hay límite de edad?</h3>
+          <p data-i18n="faqUA2">
+            ¡No! La tuna es una tradición universitaria, pero acogemos a
+            personas de todas las edades que compartan nuestros valores de
+            diversidad e inclusión.
+          </p>
+        </div>
 
-  <div class="faq-item">
-    <h3>¿Dónde ensayamos?</h3>
-    <p>
-      Los ensayos se realizan en [LOCALIZACIÓN] los [DÍAS Y HORAS]. ¡Ponte en
-      contacto para más detalles!
-    </p>
-  </div>
-</section>
+        <div class="faq-item">
+          <h3 data-i18n="faqUQ3">¿Dónde ensayamos?</h3>
+          <p data-i18n="faqUA3">
+            Los ensayos se realizan en [LOCALIZACIÓN] los [DÍAS Y HORAS]. ¡Ponte
+            en contacto para más detalles!
+          </p>
+        </div>
+      </section>
+    </main>
 
-<!-- Incluir footer -->
-<?php include('../includes/footer.html'); ?><!-- Incluir header -->
-<?php include('../includes/header.html'); ?>
+    <footer>
+      <div class="container">
+        <div class="footer-content">
+          <div class="footer-section">
+            <h3 data-i18n="contacto">Contacto</h3>
+            <p><i class="fas fa-user"></i> Isidoro "Bruja/Looky"</p>
+            <p><i class="fas fa-envelope"></i> tunarosalgtbiqaplus@gmail.com</p>
+            <p data-i18n="ubicacion">
+              <i class="fas fa-map-marker-alt"></i> Actuamos en toda España y
+              más allá
+            </p>
+          </div>
 
-<section class="page-header">
-  <h1><i class="fas fa-user-plus"></i> Cómo unirse a Tuna Rosa</h1>
-  <p>
-    ¡Te damos la bienvenida! Aquí tienes toda la información para formar parte
-    de nuestra tuna.
-  </p>
-</section>
+          <div class="footer-section">
+            <h3 data-i18n="quickLinks">Enlaces rápidos</h3>
+            <ul class="footer-links">
+              <li>
+                <a href="../index.html"
+                  ><i class="fas fa-home"></i>
+                  <span data-i18n="navInicio">Inicio</span></a
+                >
+              </li>
+              <li>
+                <a href="../index.html#valores"
+                  ><i class="fas fa-heart"></i>
+                  <span data-i18n="navValores">Valores</span></a
+                >
+              </li>
+              <li>
+                <a href="../index.html#lenguas"
+                  ><i class="fas fa-language"></i>
+                  <span data-i18n="navLenguas">Lenguas</span></a
+                >
+              </li>
+              <li>
+                <a href="contacto.html" class="active"
+                  ><i class="fas fa-user-plus"></i>
+                  <span data-i18n="navUnete">Únete</span></a
+                >
+              </li>
+            </ul>
+          </div>
 
-<div class="membership-options">
-  <div class="option-card">
-    <div class="option-header">
-      <h2><i class="fas fa-heart"></i> Simpatizante</h2>
-      <div class="price">Gratuito</div>
-    </div>
-    <div class="option-body">
-      <ul>
-        <li><i class="fas fa-check"></i> Recibir información de actividades</li>
-        <li><i class="fas fa-check"></i> Asistir a eventos abiertos</li>
-        <li><i class="fas fa-check"></i> Apoyar nuestras iniciativas</li>
-      </ul>
-      <p class="requirements">
-        <strong>Requisitos:</strong> Enviar nombre, dirección postal, teléfono
-        de contacto y email a:
-      </p>
-      <div class="contact-email">
-        <i class="fas fa-envelope"></i>
-        <a href="mailto:tunarosalgtbiqaplus@gmail.com"
-          >tunarosalgtbiqaplus@gmail.com</a
-        >
+          <div class="footer-section">
+            <h3>Tuna Rosa LGTBIQA+</h3>
+            <p data-i18n="footerTagline">
+              Música, diversidad para un mundo más inclusivo.
+            </p>
+            <div class="social-icons">
+              <a
+                href="https://www.instagram.com/tunarosalgtbiqaplus/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i class="fab fa-instagram"></i>
+              </a>
+              <a href="#"><i class="fab fa-youtube"></i></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="copyright">
+          <p data-i18n="copyright">
+            2026 Tuna Rosa LGTBIQA+. Todos los derechos reservados.
+          </p>
+        </div>
       </div>
-    </div>
-  </div>
+    </footer>
 
-  <div class="option-card featured">
-    <div class="option-header">
-      <h2><i class="fas fa-star"></i> Socio/Miembr@</h2>
-      <div class="price">Cuota anual</div>
-    </div>
-    <div class="option-body">
-      <ul>
-        <li>
-          <i class="fas fa-check"></i>
-          <strong>Todos los beneficios de simpatizante</strong>
-        </li>
-        <li><i class="fas fa-check"></i> Derecho a voto en asambleas</li>
-        <li><i class="fas fa-check"></i> Participación en actuaciones</li>
-        <li><i class="fas fa-check"></i> Acceso a recursos internos</li>
-        <li><i class="fas fa-check"></i> Descuentos en eventos</li>
-      </ul>
-      <p class="requirements">
-        <strong>Requisitos:</strong> Enviar nombre, dirección postal, teléfono
-        de contacto y email.<br />
-        <em
-          >Nota: El derecho de votar en asamblea telemática requiere ser soci@
-          de Tuna Rosa.</em
-        >
-      </p>
-      <div class="contact-email">
-        <i class="fas fa-envelope"></i>
-        <a href="mailto:tunarosalgtbiqaplus@gmail.com"
-          >tunarosalgtbiqaplus@gmail.com</a
-        >
-      </div>
-    </div>
-  </div>
-</div>
-
-<section class="faq-section">
-  <h2><i class="fas fa-question-circle"></i> Preguntas frecuentes</h2>
-
-  <div class="faq-item">
-    <h3>¿Necesito saber tocar un instrumento?</h3>
-    <p>
-      No es obligatorio. Valoramos las ganas de participar y aprender. Tenemos
-      espacio para músic@s, cantantes y gente con ganas de ayudar en la
-      organización.
-    </p>
-  </div>
-
-  <div class="faq-item">
-    <h3>¿Hay límite de edad?</h3>
-    <p>
-      ¡No! La tuna es una tradición universitaria, pero acogemos a personas de
-      todas las edades que compartan nuestros valores de diversidad e inclusión.
-    </p>
-  </div>
-
-  <div class="faq-item">
-    <h3>¿Dónde ensayamos?</h3>
-    <p>
-      Los ensayos se realizan en [LOCALIZACIÓN] los [DÍAS Y HORAS]. ¡Ponte en
-      contacto para más detalles!
-    </p>
-  </div>
-</section>
-
-<!-- Incluir footer -->
-<?php include('../includes/footer.html'); ?>
+    <script src="../js/translations.js"></script>
+    <script src="../js/language-switcher.js"></script>
+    <script src="../js/main.js"></script>
+  </body>
+</html>

@@ -11,18 +11,17 @@
     <link rel="stylesheet" href="../css/style.css" />
   </head>
   <body>
-    <!-- Header (mismo que index.html) -->
     <header>
-      <div class="container header-container">
-        <div class="logo">
+      <div class="header-container">
+        <a class="logo" href="../index.html#inicio">
           <img src="../images/logo.png" alt="Logo Tuna Rosa" class="logo-img" />
           <div class="logo-text">
             <h1>Tuna Rosa</h1>
             <p>Tuna LGTBIQA+</p>
           </div>
-        </div>
+        </a>
 
-        <!-- <div class="language-selector">
+        <div class="language-selector">
           <button class="lang-btn" id="langBtn">
             <i class="fas fa-globe"></i> ES
           </button>
@@ -35,7 +34,7 @@
             <a href="#" data-lang="en">English</a>
             <a href="#" data-lang="fr">Français</a>
           </div>
-        </div> -->
+        </div>
 
         <button class="mobile-menu-btn" id="mobileMenuBtn">
           <i class="fas fa-bars"></i>
@@ -43,164 +42,197 @@
 
         <nav id="mainNav">
           <ul>
-            <li><a href="../index.html">Inicio</a></li>
-            <li><a href="../index.html#valores">Valores</a></li>
-            <li><a href="../index.html#lenguas">Lenguas</a></li>
-            <li><a href="../index.html#calendario">Calendario</a></li>
-            <li><a href="contacto.html" class="active">Únete</a></li>
+            <li><a href="../index.html" data-i18n="navInicio">Inicio</a></li>
+            <li>
+              <a href="../index.html#valores" data-i18n="navValores">Valores</a>
+            </li>
+            <li>
+              <a href="../index.html#lenguas" data-i18n="navLenguas">Lenguas</a>
+            </li>
+            <li>
+              <a href="../index.html#calendario" data-i18n="navCalendario"
+                >Calendario</a
+              >
+            </li>
+            <li>
+              <a href="contacto.html" class="active" data-i18n="navUnete"
+                >Únete</a
+              >
+            </li>
           </ul>
         </nav>
       </div>
     </header>
 
-    <!-- Main Content -->
     <main class="container">
       <section class="join-section">
-        <h1 class="section-title">Cómo Unirse a Tuna Rosa</h1>
+        <h1 class="section-title" data-i18n="joinPageTitle">
+          Cómo Unirse a Tuna Rosa
+        </h1>
 
         <div class="intro-text">
-          <p>
+          <p data-i18n="joinIntro">
             ¡Te damos la bienvenida! En Tuna Rosa LGTBIQA+ creemos en la
             diversidad, el respeto y la inclusión. Aquí tienes toda la
             información para formar parte de nuestra familia musical.
           </p>
         </div>
 
-        <!-- Opciones de membresía -->
         <div class="membership-options">
-          <!-- Socio/Miembro -->
           <div class="membership-card socio">
             <div class="card-header">
               <i class="fas fa-star"></i>
-              <h2>Socio/Miembr@</h2>
-              <!-- <span class="badge">Activo</span> -->
+              <h2 data-i18n="membershipTitle">Socio/Miembr@</h2>
             </div>
 
             <div class="card-body">
-              <h3>Beneficios:</h3>
+              <h3 data-i18n="benefitsTitle">Beneficios:</h3>
               <ul>
                 <li>
                   <i class="fas fa-check-circle"></i>
-                  <strong>Derecho a voto en asambleas</strong>
+                  <strong data-i18n="benefitVoto"
+                    >Derecho a voto en asambleas</strong
+                  >
                 </li>
                 <li>
-                  <i class="fas fa-check-circle"></i> Formar parte activa de la
-                  toma de decisiones
+                  <i class="fas fa-check-circle"></i>
+                  <span data-i18n="benefitDecisiones"
+                    >Formar parte activa de la toma de decisiones</span
+                  >
                 </li>
                 <li>
-                  <i class="fas fa-check-circle"></i> Recibir información de
-                  actividades y eventos
+                  <i class="fas fa-check-circle"></i>
+                  <span data-i18n="benefitInfo"
+                    >Recibir información de actividades y eventos</span
+                  >
                 </li>
                 <li>
-                  <i class="fas fa-check-circle"></i> Asistir a conciertos y
-                  actuaciones
+                  <i class="fas fa-check-circle"></i>
+                  <span data-i18n="benefitActuaciones"
+                    >Asistir a conciertos y actuaciones</span
+                  >
                 </li>
                 <li>
-                  <i class="fas fa-check-circle"></i> Seguir nuestras redes
-                  sociales
+                  <i class="fas fa-check-circle"></i>
+                  <span data-i18n="benefitRedes"
+                    >Seguir nuestras redes sociales</span
+                  >
                 </li>
                 <li>
-                  <i class="fas fa-check-circle"></i> Apoyar nuestras
-                  iniciativas LGTBIQA+
+                  <i class="fas fa-check-circle"></i>
+                  <span data-i18n="benefitApoyo"
+                    >Apoyar nuestras iniciativas LGTBIQA+</span
+                  >
                 </li>
               </ul>
 
               <div class="requirements">
-                <h3><i class="fas fa-clipboard-list"></i> Requisitos:</h3>
-                <p>Enviar la siguiente información a nuestro correo:</p>
+                <h3>
+                  <i class="fas fa-clipboard-list"></i>
+                  <span data-i18n="requirementsTitle">Requisitos:</span>
+                </h3>
+                <p data-i18n="requirementsIntro">
+                  Enviar la siguiente información a nuestro correo:
+                </p>
                 <div class="info-list">
                   <div class="info-item">
                     <i class="fas fa-user"></i>
-                    <span>Nombre completo</span>
+                    <span data-i18n="reqNombre">Nombre completo</span>
                   </div>
                   <div class="info-item">
                     <i class="fas fa-map-marker-alt"></i>
-                    <span>Dirección postal</span>
+                    <span data-i18n="reqDireccion">Dirección postal</span>
                   </div>
                   <div class="info-item">
                     <i class="fas fa-phone"></i>
-                    <span>Teléfono de contacto</span>
+                    <span data-i18n="reqTelefono">Teléfono de contacto</span>
                   </div>
                   <div class="info-item">
                     <i class="fas fa-envelope"></i>
-                    <span>Correo electrónico</span>
+                    <span data-i18n="reqEmail">Correo electrónico</span>
                   </div>
                 </div>
-
-                <!-- <div class="important-note">
-                  <i class="fas fa-exclamation-circle"></i>
-                  <p>
-                    <strong>Nota importante:</strong> El derecho de votar en
-                    asamblea telemática se ha de ser soci@ de Tuna Rosa.
-                  </p>
-                </div> -->
               </div>
 
-              <!-- Botón de contacto -->
               <div class="contact-action">
                 <a
                   href="mailto:tunarosalgtbiqaplus@gmail.com?subject=Quiero ser Socio de Tuna Rosa&body=Hola, me gustaría ser socio/miembr@ de Tuna Rosa.%0D%0A%0D%0AMis datos:%0D%0A- Nombre: [Tu nombre]%0D%0A- Dirección: [Tu dirección]%0D%0A- Teléfono: [Tu teléfono]%0D%0A- Email: [Tu email]%0D%0A%0D%0A¡Un saludo!"
                   class="btn-contact"
+                  data-i18n="contactButton"
                 >
-                  <i class="fas fa-paper-plane"></i> Enviar solicitud
+                  Enviar solicitud
                 </a>
                 <p class="email-display">
                   <i class="fas fa-envelope"></i>
-                  <strong>tunarosalgtbiqaplus@gmail.com</strong>
+                  <strong data-i18n="emailLabel"
+                    >tunarosalgtbiqaplus@gmail.com</strong
+                  >
                 </p>
               </div>
             </div>
           </div>
         </div>
 
-        <!-- Información adicional -->
         <div class="additional-info">
+          <div class="info-card">
+            <h3>
+              <i class="fas fa-tshirt"></i>
+              <span data-i18n="escudoSectionTitle">Escudo Bordado</span>
+            </h3>
 
-    <div class="info-card">
-        <h3><i class="fas fa-tshirt"></i> Escudo Bordado</h3>
-        
-        <!-- Galería de imágenes del escudo -->
-        <div class="escudo-gallery">
-            <div class="escudo-item">
-                <img src="../images/1767695303227.jpg" alt="Escudo Tuna Rosa LGTBIQA+" class="escudo-img">
+            <div class="escudo-gallery">
+              <div class="escudo-item">
+                <img
+                  src="../images/1767695303227.jpg"
+                  alt="Escudo Tuna Rosa LGTBIQA+"
+                  class="escudo-img"
+                />
+              </div>
+              <div class="escudo-item">
+                <img
+                  src="../images/1767695303243.jpg"
+                  alt="Bandera LGTBIQAI"
+                  class="escudo-img"
+                />
+              </div>
             </div>
-            <div class="escudo-item">
-                <img src="../images/1767695303243.jpg" alt="Bandera LGTBIQAI" class="escudo-img">
+
+            <p class="escudo-info" data-i18n="escudoInfo1">
+              Cómo conseguir el escudo bordado de Tuna Rosa: encargar hacer en
+              tunarosalgtbiqaplus@gmail.com.
+            </p>
+            <p class="escudo-info" data-i18n="escudoInfo2">
+              El escudo se enviará contrareembolso según precio de la empresa
+              que se os informará en el mail.
+            </p>
+
+            <div class="escudo-action">
+              <a
+                href="mailto:tunarosalgtbiqaplus@gmail.com?subject=Solicitud de Escudo Bordado Tuna Rosa&body=Hola,%0D%0A%0D%0AMe gustaría solicitar información sobre el escudo bordado de Tuna Rosa.%0D%0A%0D%0ADatos de contacto:%0D%0A- Nombre: [Tu nombre]%0D%0A- Dirección: [Tu dirección]%0D%0A- Teléfono: [Tu teléfono]%0D%0A%0D%0A¡Gracias!"
+                class="btn-escudo"
+                data-i18n="escudoCta"
+              >
+                Pedir escudo bordado
+              </a>
             </div>
-        </div>
-        
-        <p class="escudo-info">
-            Cómo conseguir el escudo bordado de Tuna Rosa: encargar hacer en
-            <strong>tunarosalgtbiqaplus@gmail.com</strong>.
-        </p>
-        <p class="escudo-info">
-            El escudo se enviará contrareembolso según precio de la empresa
-            que se os informará en el mail.
-        </p>
-        
-        <!-- Botón para pedir el escudo -->
-        <div class="escudo-action">
-            <a href="mailto:tunarosalgtbiqaplus@gmail.com?subject=Solicitud de Escudo Bordado Tuna Rosa&body=Hola,%0D%0A%0D%0AMe gustaría solicitar información sobre el escudo bordado de Tuna Rosa.%0D%0A%0D%0ADatos de contacto:%0D%0A- Nombre: [Tu nombre]%0D%0A- Dirección: [Tu dirección]%0D%0A- Teléfono: [Tu teléfono]%0D%0A%0D%0A¡Gracias!" 
-               class="btn-escudo">
-                <i class="fas fa-shopping-cart"></i> Pedir escudo bordado
-            </a>
-        </div>
-    </div>
-</div>
+          </div>
 
           <div class="info-card">
-            <h3><i class="fas fa-question-circle"></i> Preguntas frecuentes</h3>
+            <h3>
+              <i class="fas fa-question-circle"></i>
+              <span data-i18n="faqTitle">Preguntas frecuentes</span>
+            </h3>
             <div class="faq-item">
-              <h4>¿Necesito saber música?</h4>
-              <p>
+              <h4 data-i18n="faqQ1">¿Necesito saber música?</h4>
+              <p data-i18n="faqA1">
                 No es obligatorio. Valoramos las ganas de participar. Hay
                 espacio para músicos, cantantes y gente que quiera ayudar en la
                 organización.
               </p>
             </div>
             <div class="faq-item">
-              <h4>¿Hay límite de edad?</h4>
-              <p>
+              <h4 data-i18n="faqQ2">¿Hay límite de edad?</h4>
+              <p data-i18n="faqA2">
                 ¡No! Acogemos a personas de todas las edades que compartan
                 nuestros valores.
               </p>
@@ -208,20 +240,21 @@
           </div>
         </div>
 
-        <!-- Contacto directo -->
         <div class="direct-contact">
-          <h2><i class="fas fa-comments"></i> ¿Tienes dudas?</h2>
-          <p>Nuestro Correo:</p>
-          <p class="email-address">tunarosalgtbiqaplus@gmail.com</p>
+          <h2>
+            <i class="fas fa-comments"></i>
+            <span data-i18n="faqQ3">¿Tienes dudas?</span>
+          </h2>
+          <p data-i18n="faqA3">Nuestro Correo:</p>
+          <p class="email-address" data-i18n="emailLabel">
+            tunarosalgtbiqaplus@gmail.com
+          </p>
           <div class="email-container">
-            <!-- <div class="email-box">
-              <i class="fas fa-envelope-open-text"></i>
-              <div>
-                <h3>Correo oficial</h3>
-                
-              </div>
-            </div> -->
-            <a href="mailto:tunarosalgtbiqaplus@gmail.com" class="btn-email">
+            <a
+              href="mailto:tunarosalgtbiqaplus@gmail.com"
+              class="btn-email"
+              data-i18n="faqButton"
+            >
               <i class="fas fa-envelope"></i> Escribir email
             </a>
           </div>
@@ -229,36 +262,44 @@
       </section>
     </main>
 
-    <!-- Footer -->
     <footer>
       <div class="container">
         <div class="footer-content">
           <div class="footer-section">
-            <h3>Contacto</h3>
+            <h3 data-i18n="contacto">Contacto</h3>
             <p><i class="fas fa-user"></i> Isidoro "Bruja/Looky"</p>
             <p><i class="fas fa-envelope"></i> tunarosalgtbiqaplus@gmail.com</p>
-            <p><i class="fas fa-map-marker-alt"></i> Actuamos en toda España</p>
+            <p data-i18n="ubicacion">
+              <i class="fas fa-map-marker-alt"></i> Actuamos en toda España y
+              más allá
+            </p>
           </div>
 
           <div class="footer-section">
-            <h3>Enlaces rápidos</h3>
+            <h3 data-i18n="quickLinks">Enlaces rápidos</h3>
             <ul class="footer-links">
               <li>
-                <a href="index.html"><i class="fas fa-home"></i> Inicio</a>
-              </li>
-              <li>
-                <a href="index.html#valores"
-                  ><i class="fas fa-heart"></i> Valores</a
+                <a href="../index.html"
+                  ><i class="fas fa-home"></i>
+                  <span data-i18n="navInicio">Inicio</span></a
                 >
               </li>
               <li>
-                <a href="index.html#lenguas"
-                  ><i class="fas fa-language"></i> Lenguas</a
+                <a href="../index.html#valores"
+                  ><i class="fas fa-heart"></i>
+                  <span data-i18n="navValores">Valores</span></a
                 >
               </li>
               <li>
-                <a href="contacto.html"
-                  ><i class="fas fa-user-plus"></i> Únete</a
+                <a href="../index.html#lenguas"
+                  ><i class="fas fa-language"></i>
+                  <span data-i18n="navLenguas">Lenguas</span></a
+                >
+              </li>
+              <li>
+                <a href="contacto.html" class="active"
+                  ><i class="fas fa-user-plus"></i>
+                  <span data-i18n="navUnete">Únete</span></a
                 >
               </li>
             </ul>
@@ -266,9 +307,10 @@
 
           <div class="footer-section">
             <h3>Tuna Rosa LGTBIQA+</h3>
-            <p>Música, diversidad para un mundo más inclusivo.</p>
+            <p data-i18n="footerTagline">
+              Música, diversidad para un mundo más inclusivo.
+            </p>
             <div class="social-icons">
-              <!-- <a href="#"><i class="fab fa-facebook-f"></i></a> -->
               <a
                 href="https://www.instagram.com/tunarosalgtbiqaplus/"
                 target="_blank"
@@ -276,87 +318,21 @@
               >
                 <i class="fab fa-instagram"></i>
               </a>
-              <!-- <a href="#"><i class="fab fa-twitter"></i></a> -->
               <a href="#"><i class="fab fa-youtube"></i></a>
             </div>
           </div>
         </div>
 
         <div class="copyright">
-          <p>
-            &copy; 2023-<span id="currentYear">2026</span> Tuna Rosa LGTBIQA+.
-            Todos los derechos reservados.
+          <p data-i18n="copyright">
+            2026 Tuna Rosa LGTBIQA+. Todos los derechos reservados.
           </p>
         </div>
       </div>
     </footer>
 
-    <!-- JavaScript -->
-    <script>
-      // Menú móvil
-      const mobileMenuBtn = document.getElementById("mobileMenuBtn");
-      const mainNav = document.getElementById("mainNav");
-
-      if (mobileMenuBtn && mainNav) {
-        mobileMenuBtn.addEventListener("click", () => {
-          mainNav.classList.toggle("active");
-          const icon = mobileMenuBtn.querySelector("i");
-          if (mainNav.classList.contains("active")) {
-            icon.classList.remove("fa-bars");
-            icon.classList.add("fa-times");
-          } else {
-            icon.classList.remove("fa-times");
-            icon.classList.add("fa-bars");
-          }
-        });
-      }
-
-      // Cerrar menú al hacer clic en un enlace
-      document.querySelectorAll("nav a").forEach((link) => {
-        link.addEventListener("click", () => {
-          if (window.innerWidth <= 768) {
-            mainNav.classList.remove("active");
-            const icon = mobileMenuBtn.querySelector("i");
-            icon.classList.remove("fa-times");
-            icon.classList.add("fa-bars");
-          }
-        });
-      });
-
-      // Selector de idioma
-      const langBtn = document.getElementById("langBtn");
-      const langDropdown = document.getElementById("langDropdown");
-
-      if (langBtn && langDropdown) {
-        langBtn.addEventListener("click", () => {
-          langDropdown.classList.toggle("show");
-        });
-
-        // Cerrar dropdown al hacer clic fuera
-        document.addEventListener("click", (e) => {
-          if (!langBtn.contains(e.target) && !langDropdown.contains(e.target)) {
-            langDropdown.classList.remove("show");
-          }
-        });
-
-        // Cambiar idioma
-        langDropdown.querySelectorAll("a").forEach((link) => {
-          link.addEventListener("click", (e) => {
-            e.preventDefault();
-            const lang = link.getAttribute("data-lang");
-            changeLanguage(lang);
-            langBtn.innerHTML = `<i class="fas fa-globe"></i> ${link.textContent
-              .substring(0, 3)
-              .toUpperCase()}`;
-            langDropdown.classList.remove("show");
-          });
-        });
-      }
-
-      function changeLanguage(lang) {
-        console.log(`Cambiando idioma a: ${lang}`);
-        // Aquí iría la lógica real de cambio de idioma
-      }
-    </script>
+    <script src="../js/translations.js"></script>
+    <script src="../js/language-switcher.js"></script>
+    <script src="../js/main.js"></script>
   </body>
 </html>

@@ -14,13 +14,13 @@
     <!-- Header y Navegación -->
     <header>
       <div class="header-container">
-        <div class="logo">
+        <a class="logo" href="#inicio">
           <img src="images/logo.png" alt="Logo Tuna Rosa" class="logo-img" />
           <div class="logo-text">
             <h1>Tuna Rosa</h1>
             <p>Tuna LGTBIQA+</p>
           </div>
-        </div>
+        </a>
 
         <!-- Selector de idioma -->
         <div class="language-selector">
@@ -437,20 +437,22 @@
           </div>
 
           <div class="footer-section">
-            <h3>Escudo Bordado</h3>
-            <p>
+            <h3 data-i18n="escudoBordado">Escudo Bordado</h3>
+            <p data-i18n="escudoP1">
               Cómo conseguir el escudo bordado Tuna Rosa: encargar hacer en
               tunarosalgtbiqaplus@gmail.com.
             </p>
-            <p>
+            <p data-i18n="escudoP2">
               El escudo se enviará contrareembolso según precio de la empresa
               que se os informará en el mail.
             </p>
           </div>
 
           <div class="footer-section">
-            <h3>Síguenos</h3>
-            <p>Mantente al día de nuestros eventos y actuaciones</p>
+            <h3 data-i18n="siguenos">Síguenos</h3>
+            <p data-i18n="siguenosDesc">
+              Mantente al día de nuestros eventos y actuaciones
+            </p>
             <div class="social-icons">
               <!-- <a href="#"><i class="fab fa-facebook-f"></i></a> -->
               <a
@@ -467,12 +469,16 @@
         </div>
 
         <div class="copyright">
-          <p>2026 Tuna Rosa LGTBIQA+. Todos los derechos reservados.</p>
+          <p data-i18n="copyright">
+            2026 Tuna Rosa LGTBIQA+. Todos los derechos reservados.
+          </p>
         </div>
       </div>
     </footer>
 
     <!-- JavaScript -->
+    <script src="js/translations.js"></script>
+    <script src="js/language-switcher.js"></script>
     <script src="js/main.js"></script>
   </body>
 </html>
