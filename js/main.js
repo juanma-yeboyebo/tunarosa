@@ -46,6 +46,110 @@ document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
 
 // Selector de idioma: la lógica real vive en language-switcher.js
 
+// Slider de instrumentos
+document.addEventListener("DOMContentLoaded", function () {
+  const slider = document.querySelector(".instruments-slider");
+  const leftBtn = document.querySelector(".slider-nav-left");
+  const rightBtn = document.querySelector(".slider-nav-right");
+  const dotsContainer = document.querySelector(".slider-dots");
+
+  if (!slider || !leftBtn || !rightBtn) return;
+
+  const cards = slider.querySelectorAll(".instrument-card");
+
+  // Función para obtener el ancho de la tarjeta dinámicamente
+  function getCardWidth() {
+    if (cards.length > 0) {
+      const cardRect = cards[0].getBoundingClientRect();
+      const gap = parseInt(getComputedStyle(slider).gap) || 20;
+      return cardRect.width + gap;
+    }
+    return 320 + 25; // fallback
+  }
+
+  // Crear indicadores de puntos
+  cards.forEach((_, index) => {
+    const dot = document.createElement("div");
+    dot.classList.add("slider-dot");
+    if (index === 0) dot.classList.add("active");
+    dot.addEventListener("click", () => {
+      const cardWidth = getCardWidth();
+      slider.scrollTo({
+        left: cardWidth * index,
+        behavior: "smooth",
+      });
+    });
+    dotsContainer.appendChild(dot);
+  });
+
+  const dots = dotsContainer.querySelectorAll(".slider-dot");
+
+  // Actualizar puntos activos según scroll
+  slider.addEventListener("scroll", () => {
+    const cardWidth = getCardWidth();
+    const scrollPosition = slider.scrollLeft;
+    const currentIndex = Math.round(scrollPosition / cardWidth);
+
+    dots.forEach((dot, index) => {
+      if (index === currentIndex) {
+        dot.classList.add("active");
+      } else {
+        dot.classList.remove("active");
+      }
+    });
+  });
+
+  // Navegación con botones
+  leftBtn.addEventListener("click", () => {
+    const cardWidth = getCardWidth();
+    slider.scrollBy({
+      left: -cardWidth,
+      behavior: "smooth",
+    });
+  });
+
+  rightBtn.addEventListener("click", () => {
+    const cardWidth = getCardWidth();
+    slider.scrollBy({
+      left: cardWidth,
+      behavior: "smooth",
+    });
+  });
+
+  // Soporte para arrastre en escritorio
+  let isDown = false;
+  let startX;
+  let scrollLeft;
+
+  slider.addEventListener("mousedown", (e) => {
+    isDown = true;
+    slider.style.cursor = "grabbing";
+    startX = e.pageX - slider.offsetLeft;
+    scrollLeft = slider.scrollLeft;
+  });
+
+  slider.addEventListener("mouseleave", () => {
+    isDown = false;
+    slider.style.cursor = "grab";
+  });
+
+  slider.addEventListener("mouseup", () => {
+    isDown = false;
+    slider.style.cursor = "grab";
+  });
+
+  slider.addEventListener("mousemove", (e) => {
+    if (!isDown) return;
+    e.preventDefault();
+    const x = e.pageX - slider.offsetLeft;
+    const walk = (x - startX) * 2;
+    slider.scrollLeft = scrollLeft - walk;
+  });
+
+  // Cursor de arrastre
+  slider.style.cursor = "grab";
+});
+
 // Oculta la extensión .html en la URL una vez cargada la página
 // (solo cambia la barra de direcciones, no la navegación real)
 if (typeof history.replaceState === "function") {
