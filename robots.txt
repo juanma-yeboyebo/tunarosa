@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+# Especificar el sitemap
+Sitemap: https://tunarosa.es/sitemap.xml
+
+# Delay opcional para bots agresivos
+Crawl-delay: 1

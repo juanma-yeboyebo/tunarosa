@@ -6,6 +6,7 @@ window.TUNA_TRANSLATIONS = {
     inicio: "Inicio",
     valores: "Valores",
     mensaje: "Mensaje",
+    instrumentos: "Instrumentos",
     lenguas: "Lenguas",
     calendario: "Calendario",
     unete: "Únete",
@@ -70,6 +71,35 @@ window.TUNA_TRANSLATIONS = {
     lenguaGallegoDesc: "Parte de nuestra riqueza cultural",
     lenguaOtras: "Otras lenguas",
     lenguaOtrasDesc: "¡Queremos aprender más!",
+
+    // Instrumentos
+    instrumentosTitle: "Instrumentos de Tuna",
+    instrumentosIntro:
+      "La riqueza musical de nuestra tuna se refleja en la diversidad de instrumentos que tocamos. Desde los tradicionales hasta los que representan diferentes culturas musicales.",
+    instrumentoPandereta: "Pandereta",
+    instrumentoPanderetaDesc:
+      "Instrumento de percusión esencial que marca el ritmo y la alegría de nuestras canciones.",
+    instrumentoUkelele: "Ukelele",
+    instrumentoUkeleleDesc:
+      "De sonido dulce y alegre, aporta una dimensión única a nuestras interpretaciones.",
+    instrumentoCuatroVenezolano: "Cuatro Venezolano",
+    instrumentoCuatroVenezolanoDesc:
+      "Instrumento de cuatro cuerdas tradicional de Venezuela, símbolo de la música latinoamericana.",
+    instrumentoBandurria: "Bandurria",
+    instrumentoBandurriaDesc:
+      "Instrumento de púa tradicional español, fundamental en la música de tuna.",
+    instrumentoRequinto: "Requinto",
+    instrumentoRequintoDesc:
+      "Guitarra de tamaño reducido con sonido agudo, perfecta para melodías solistas.",
+    instrumentoCuatroBoliviano: "Cuatro Boliviano",
+    instrumentoCuatroBolivianoDesc:
+      "Variante boliviana del cuatro, que aporta matices andinos a nuestro repertorio.",
+    instrumentoGuitarra: "Guitarra",
+    instrumentoGuitarraDesc:
+      "El instrumento principal y más versátil, alma de toda tuna tradicional.",
+    instrumentoLaud: "Laúd",
+    instrumentoLaudDesc:
+      "Instrumento de cuerda pulsada tradicional, característico de las tunas españolas.",
 
     // Calendario
     calendarioTitle: "Calendario de Eventos",
@@ -182,6 +212,7 @@ window.TUNA_TRANSLATIONS = {
     inicio: "Home",
     valores: "Values",
     mensaje: "Message",
+    instrumentos: "Instruments",
     lenguas: "Languages",
     calendario: "Calendar",
     unete: "Join",
@@ -240,6 +271,35 @@ window.TUNA_TRANSLATIONS = {
     lenguaGallegoDesc: "Part of our cultural richness",
     lenguaOtras: "Other languages",
     lenguaOtrasDesc: "We want to learn more!",
+
+    // Instruments
+    instrumentosTitle: "Tuna Instruments",
+    instrumentosIntro:
+      "The musical richness of our tuna is reflected in the diversity of instruments we play. From traditional to those representing different musical cultures.",
+    instrumentoPandereta: "Tambourine",
+    instrumentoPanderetaDesc:
+      "Essential percussion instrument that sets the rhythm and joy of our songs.",
+    instrumentoUkelele: "Ukulele",
+    instrumentoUkeleleDesc:
+      "With a sweet and cheerful sound, it brings a unique dimension to our performances.",
+    instrumentoCuatroVenezolano: "Venezuelan Cuatro",
+    instrumentoCuatroVenezolanoDesc:
+      "Traditional four-string instrument from Venezuela, symbol of Latin American music.",
+    instrumentoBandurria: "Bandurria",
+    instrumentoBandurriaDesc:
+      "Traditional Spanish plucked string instrument, fundamental in tuna music.",
+    instrumentoRequinto: "Requinto",
+    instrumentoRequintoDesc:
+      "Small guitar with treble sound, perfect for solo melodies.",
+    instrumentoCuatroBoliviano: "Bolivian Cuatro",
+    instrumentoCuatroBolivianoDesc:
+      "Bolivian variant of the cuatro, bringing Andean nuances to our repertoire.",
+    instrumentoGuitarra: "Guitar",
+    instrumentoGuitarraDesc:
+      "The main and most versatile instrument, soul of every traditional tuna.",
+    instrumentoLaud: "Lute",
+    instrumentoLaudDesc:
+      "Traditional plucked string instrument, characteristic of Spanish tunas.",
 
     calendarioTitle: "Events Calendar",
     proximosEventos: "Upcoming Events 2024-2025",
@@ -344,6 +404,7 @@ window.TUNA_TRANSLATIONS = {
     inicio: "Inici",
     valores: "Valors",
     mensaje: "Missatge",
+    instrumentos: "Instruments",
     lenguas: "Llenges",
     calendario: "Calendari",
     unete: "Uneix-te",
@@ -402,6 +463,35 @@ window.TUNA_TRANSLATIONS = {
     lenguaGallegoDesc: "Part de la nostra riquesa cultural",
     lenguaOtras: "Altres llenges",
     lenguaOtrasDesc: "Volem aprendre mes!",
+
+    // Instruments
+    instrumentosTitle: "Instruments de Tuna",
+    instrumentosIntro:
+      "La riquesa musical de la nostra tuna es reflexa en la diversitat d'instruments que toquem. Dels tradicionals als que representen diferents cultures musicals.",
+    instrumentoPandereta: "Pandereta",
+    instrumentoPanderetaDesc:
+      "Instrument de percussio essencial que marca el ritme i l'alegria de les nostres cancons.",
+    instrumentoUkelele: "Ukelele",
+    instrumentoUkeleleDesc:
+      "De so dolc i alegre, aporta una dimensio unica a les nostres interpretacions.",
+    instrumentoCuatroVenezolano: "Cuatro Venezola",
+    instrumentoCuatroVenezolanoDesc:
+      "Instrument de quatre cordes tradicional de Venezuela, simbol de la musica llatinoamericana.",
+    instrumentoBandurria: "Bandurria",
+    instrumentoBandurriaDesc:
+      "Instrument de pua tradicional espanyol, fonamental en la musica de tuna.",
+    instrumentoRequinto: "Requinto",
+    instrumentoRequintoDesc:
+      "Guitarra de mida redui'da amb so agut, perfecta per a melodies solistes.",
+    instrumentoCuatroBoliviano: "Cuatro Bolivia",
+    instrumentoCuatroBolivianoDesc:
+      "Variant boliviana del cuatro, que aporta matisos andins al nostre repertori.",
+    instrumentoGuitarra: "Guitarra",
+    instrumentoGuitarraDesc:
+      "L'instrument principal i mes versatil, anima de tota tuna tradicional.",
+    instrumentoLaud: "Llaut",
+    instrumentoLaudDesc:
+      "Instrument de corda polsada tradicional, caracteristic de les tunes espanyoles.",
 
     calendarioTitle: "Calendari d'esdeveniments",
     proximosEventos: "Propers esdeveniments 2024-2025",
@@ -503,6 +593,7 @@ window.TUNA_TRANSLATIONS = {
     inicio: "Hasiera",
     valores: "Balioak",
     mensaje: "Mezua",
+    instrumentos: "Instrumentuak",
     lenguas: "Hizkuntzak",
     calendario: "Egutegia",
     unete: "Batu",
@@ -511,7 +602,7 @@ window.TUNA_TRANSLATIONS = {
     heroSubtitle: "Musika gune inklusiboa non denek tokia duten",
     heroIntro: 'Kaixo! Isidoro naiz, "Bruja" edo "Looky" bezala ere ezaguna',
     heroP1:
-      "Tuna Rosa elkarteko koordinatzailea naiz, proiektu honen aurpegietako bat beste gizon, emakume, trans eta queer pertsonekin batera, eredue heteronormatiboetatik kanpo.",
+      "Tuna Rosa elkarteko koordinatzailea naiz, proiektu honen aurpegietako bat beste gizon, emakume, trans eta queer pertsonekin batera, eredue heteronormativoetatik kanpo.",
     heroP2:
       "Musikaren bidez gozatzeko proposamen berria gara; baldintza bakarra errespetua eta maitasuna da gure artean eta gizartearekiko.",
 
@@ -560,6 +651,35 @@ window.TUNA_TRANSLATIONS = {
     lenguaGallegoDesc: "Gure aberastasun kulturalaren zatia",
     lenguaOtras: "Beste hizkuntzak",
     lenguaOtrasDesc: "Gehiago ikasi nahi dugu!",
+
+    // Instrumentuak
+    instrumentosTitle: "Tunaren Instrumentuak",
+    instrumentosIntro:
+      "Gure tunaren aberastasun musikala jotzen ditugun instrumentuen aniztasunean islatzen da. Tradizionalenetatik kultura musikal desberdinak ordezkatzen dituztenera.",
+    instrumentoPandereta: "Pandereta",
+    instrumentoPanderetaDesc:
+      "Perkusio-instrumentu ezinbestekoa, gure abestien erritmoa eta alaitasuna markatzen duena.",
+    instrumentoUkelele: "Ukelele",
+    instrumentoUkeleleDesc:
+      "Soinu gozo eta alaia duena, dimentsio berezia ekartzen dio gure interpretazioei.",
+    instrumentoCuatroVenezolano: "Venezuelako Cuatro",
+    instrumentoCuatroVenezolanoDesc:
+      "Venezuelako lau sokako instrumentu tradizionala, Latinoamerikako musikaren ikurra.",
+    instrumentoBandurria: "Bandurria",
+    instrumentoBandurriaDesc:
+      "Espainiako soinu-instrumentu tradizionala, tunaren musikan funtsezkoa.",
+    instrumentoRequinto: "Requinto",
+    instrumentoRequintoDesc:
+      "Tamaina txikiko gitarra soinu zorrotzarekin, melodia solistentzako ezin hobea.",
+    instrumentoCuatroBoliviano: "Boliviako Cuatro",
+    instrumentoCuatroBolivianoDesc:
+      "Cuatroaren Boliviako aldaera, nuantza andinoak ekartzen dituena gure errepertoriora.",
+    instrumentoGuitarra: "Gitarra",
+    instrumentoGuitarraDesc:
+      "Instrumentu nagusia eta dotoreenak, tuna tradizional oroaren arima.",
+    instrumentoLaud: "Lauda",
+    instrumentoLaudDesc:
+      "Soinudun korda-instrumentu tradizionala, Espainiako tunen ezaugarria.",
 
     calendarioTitle: "Gertaeren egutegia",
     proximosEventos: "Hurrengo ekitaldiak 2024-2025",
@@ -664,6 +784,7 @@ window.TUNA_TRANSLATIONS = {
 
   pt: {
     inicio: "Inicio",
+    instrumentos: "Instrumentos",
     valores: "Valores",
     mensaje: "Mensagem",
     lenguas: "Linguas",
@@ -724,6 +845,35 @@ window.TUNA_TRANSLATIONS = {
     lenguaGallegoDesc: "Parte da nossa riqueza cultural",
     lenguaOtras: "Outras linguas",
     lenguaOtrasDesc: "Queremos aprender mais!",
+
+    // Instrumentos
+    instrumentosTitle: "Instrumentos da Tuna",
+    instrumentosIntro:
+      "A riqueza musical da nossa tuna reflete-se na diversidade de instrumentos que tocamos. Dos mais tradicionais aos que representam diferentes culturas musicais.",
+    instrumentoPandereta: "Pandeireta",
+    instrumentoPanderetaDesc:
+      "Instrumento de percussao essencial que marca o ritmo e a alegria das nossas cancoes.",
+    instrumentoUkelele: "Ukulele",
+    instrumentoUkeleleDesc:
+      "De som doce e alegre, traz uma dimensao unica as nossas interpretacoes.",
+    instrumentoCuatroVenezolano: "Cuatro Venezuelano",
+    instrumentoCuatroVenezolanoDesc:
+      "Instrumento tradicional de quatro cordas da Venezuela, simbolo da musica latino-americana.",
+    instrumentoBandurria: "Bandurria",
+    instrumentoBandurriaDesc:
+      "Instrumento de cordas dedilhadas tradicional espanhol, fundamental na musica de tuna.",
+    instrumentoRequinto: "Requinto",
+    instrumentoRequintoDesc:
+      "Guitarra de tamanho reduzido com som agudo, perfeita para melodias solistas.",
+    instrumentoCuatroBoliviano: "Cuatro Boliviano",
+    instrumentoCuatroBolivianoDesc:
+      "Variante boliviana do cuatro, que traz nuances andinas ao nosso repertorio.",
+    instrumentoGuitarra: "Guitarra",
+    instrumentoGuitarraDesc:
+      "O instrumento principal e mais versatil, alma de toda tuna tradicional.",
+    instrumentoLaud: "Alaude",
+    instrumentoLaudDesc:
+      "Instrumento de cordas dedilhadas tradicional, caracteristico das tunas espanholas.",
 
     calendarioTitle: "Calendario de eventos",
     proximosEventos: "Proximos eventos 2024-2025",
@@ -824,6 +974,7 @@ window.TUNA_TRANSLATIONS = {
 
   fr: {
     inicio: "Accueil",
+    instrumentos: "Instruments",
     valores: "Valeurs",
     mensaje: "Message",
     lenguas: "Langues",
@@ -883,6 +1034,35 @@ window.TUNA_TRANSLATIONS = {
     lenguaGallegoDesc: "Partie de notre richesse culturelle",
     lenguaOtras: "Autres langues",
     lenguaOtrasDesc: "Nous voulons en apprendre plus!",
+
+    // Instruments
+    instrumentosTitle: "Instruments de la Tuna",
+    instrumentosIntro:
+      "La richesse musicale de notre tuna se reflete dans la diversite des instruments que nous jouons. Des plus traditionnels a ceux qui representent differentes cultures musicales.",
+    instrumentoPandereta: "Tambourin",
+    instrumentoPanderetaDesc:
+      "Instrument de percussion essentiel qui marque le rythme et la joie de nos chansons.",
+    instrumentoUkelele: "Ukulele",
+    instrumentoUkeleleDesc:
+      "Au son doux et joyeux, il apporte une dimension unique a nos interpretations.",
+    instrumentoCuatroVenezolano: "Cuatro Venezuelien",
+    instrumentoCuatroVenezolanoDesc:
+      "Instrument traditionnel a quatre cordes du Venezuela, symbole de la musique latino-americaine.",
+    instrumentoBandurria: "Bandurria",
+    instrumentoBandurriaDesc:
+      "Instrument a cordes pincees traditionnel espagnol, fondamental dans la musique de tuna.",
+    instrumentoRequinto: "Requinto",
+    instrumentoRequintoDesc:
+      "Guitare de taille reduite au son aigu, parfaite pour les melodies solistes.",
+    instrumentoCuatroBoliviano: "Cuatro Bolivien",
+    instrumentoCuatroBolivianoDesc:
+      "Variante bolivienne du cuatro, apportant des nuances andines a notre repertoire.",
+    instrumentoGuitarra: "Guitare",
+    instrumentoGuitarraDesc:
+      "L'instrument principal et le plus polyvalent, ame de toute tuna traditionnelle.",
+    instrumentoLaud: "Luth",
+    instrumentoLaudDesc:
+      "Instrument a cordes pincees traditionnel, caracteristique des tunas espagnoles.",
 
     calendarioTitle: "Calendrier des evenements",
     proximosEventos: "Evenements a venir 2024-2025",
@@ -981,8 +1161,211 @@ window.TUNA_TRANSLATIONS = {
       "Repetitions a [LIEU] les [JOURS ET HEURES]. Contacte-nous pour les details !",
   },
 
-  // Gallego queda con el fallback a español por ahora
-  gal: {},
+  gal: {
+    // Navegación
+    inicio: "Inicio",
+    instrumentos: "Instrumentos",
+    valores: "Valores",
+    mensaje: "Mensaxe",
+    lenguas: "Linguas",
+    calendario: "Calendario",
+    unete: "Únete",
+
+    // Hero
+    heroTitle: "Benvid@s a Tuna Rosa LGTBIQA+",
+    heroSubtitle: "Un espazo musical inclusivo onde todxs teñen cabida",
+    heroIntro: 'Ola! Son Isidoro, tamén coñecido como "Bruja" ou "Looky"',
+    heroP1:
+      "Son o coordinador da asociación Tuna Rosa, e unha das caras visibles deste novo proxecto xunto a outros homes, mulleres, trans, queers e persoas que non se identifican cos patróns tradicionais de heterosexualidade.",
+    heroP2:
+      "O noso grupo é unha nova proposta de diversión a través da música onde todxs teñan cabida, o único requisito para pertencer a el é o respeto e o cariño entre nós/as/es e cara á sociedade.",
+
+    // Valores
+    valoresTitle: "Os nosos Valores",
+    valoresIntro:
+      "Queremos ser reflexo da sociedade do século XXI, por iso, no noso escudo aparecen estes valores fundamentais:",
+    valorRespeto: "Respeto",
+    valorRespetoDesc:
+      "Base fundamental de todas nosas interaccións e relacións dentro e fora do grupo.",
+    valorDiversidad: "Diversidade",
+    valorDiversidadDesc:
+      "Celebramos e valorizamos a diversidade en tódalas suas expresións e formas.",
+    valorFeminismo: "Feminismo/Igualdade",
+    valorFeminismoDesc:
+      "Comprometidxs coa igualdade de xénero e a loita contra o machismo.",
+    valorVisibilidad: "Visibilidade",
+    valorVisibilidadDesc:
+      "Dar voz e presenza ás identidades e orientacións diversas na sociedade.",
+    valorOrgullo: "Orgullos",
+    valorOrgulloDesc:
+      "Orgullos de ser quenes somos e da nosa contribución a unha sociedade máis xusta.",
+    valorAmor: "Maitasuna/Amor",
+    valorAmorDesc:
+      "O amor como forza transformadora e principio guía das nosas accións.",
+
+    // Mensaje
+    mensajeTitle: "A nosa Mensaxe",
+    mensajeP1:
+      "Queremos unir o mellor da tradición estudantil europea coa música popular actual, coa nosa sociedade aberta, sen complexos nin exclusións. Cando se formaron as primeiras estudiantinas (Tunas) en España, Portugal s.XV, en Holanda e máis tarde nos países iberoamericanos e por todo o mundo, éstas, cantaban e tocaban pezas populares a cambio dun prato de sopa (a sopaboba ou o bodrio) en mesóns, tabernas ou conventos.",
+    mensajeHighlight:
+      'Hoxe volvemos a tocar nas rúas e tabernas para sentirnos xuntos parte dunha sociedade máis xusta onde todxs poiamos aportar "maitasuna" a este mundo do s. XXI.',
+    mensajeP2:
+      "Queremos integrar, sumar, invitar a que se una toda persoa que veña a divertirse respectando; e facémolo a través da música, dos cantos en grupo. Algunhas veces iremos a rondar ás persoas amadas, para decirlle o amor que sentimos; só necesitamos saber que ese amor é correspondido.",
+    mensajeP3:
+      "Somos máis os que cremos no gran corazón que levamos dentro, e nunca vamos a prexuizar a diversidade, ó contrario, nos enorgullece. Somos gays, lesbianas, bisexuais, trans, interxénero, queers, asexuais, e todxs os que non se senten identificadxs co modelo heterosexista, moito menos co machismo que tanto dolor traio á sociedade de antes e de agora.",
+
+    // Lenguas
+    lenguasTitle: "Linguas e Cultura",
+    lenguasP1:
+      "A nosa Tuna non é unha Tuna que restringa o seu ámbito a un só país ou territorio. Así como as linguas en que nos expresamos e/ou cantamos son todas as que poiamos chegar a aprender. Son especialmente protexidas as linguas minoritarias do estado español: Valenciano-Catalán, Euskera, Galego.",
+    lenguasP2:
+      "Nos encantaría poder cantar nalgunha lingua máis, axúdanos a descubrir a beleza da tua lingua nunha canción que che guste. Podemos intentalo, queremos intentalo.",
+    lenguaEspanol: "Español",
+    lenguaEspanolDesc: "Lingua principal de comunicación",
+    lenguaEuskera: "Euskera",
+    lenguaEuskeraDesc: "Maitasuna, o noso valor fundamental",
+    lenguaCatalan: "Valenciano-Catalán",
+    lenguaCatalanDesc: "Lingua protexida e celebrada",
+    lenguaGallego: "Galego",
+    lenguaGallegoDesc: "Parte da nosa riqueza cultural",
+    lenguaOtras: "Outras linguas",
+    lenguaOtrasDesc: "¡Queremos aprender máis!",
+
+    // Instrumentos
+    instrumentosTitle: "Instrumentos da Tuna",
+    instrumentosIntro:
+      "A riqueza musical da nosa tuna reflíctese na diversidade de instrumentos que tocamos. Dos máis tradicionais aos que representan diferentes culturas musicais.",
+    instrumentoPandereta: "Pandeireta",
+    instrumentoPanderetaDesc:
+      "Instrumento de percusión esencial que marca o ritmo e a alegría das nosas cancións.",
+    instrumentoUkelele: "Ukelele",
+    instrumentoUkeleleDesc:
+      "De son doce e alegre, achega unha dimensión única ás nosas interpretacións.",
+    instrumentoCuatroVenezolano: "Cuatro Venezolano",
+    instrumentoCuatroVenezolanoDesc:
+      "Instrumento tradicional de catro cordas de Venezuela, símbolo da música latinoamericana.",
+    instrumentoBandurria: "Bandurria",
+    instrumentoBandurriaDesc:
+      "Instrumento de corda pulsada tradicional español, fundamental na música de tuna.",
+    instrumentoRequinto: "Requinto",
+    instrumentoRequintoDesc:
+      "Guitarra de tamaño reducido con son agudo, perfecta para as melodías solistas.",
+    instrumentoCuatroBoliviano: "Cuatro Boliviano",
+    instrumentoCuatroBolivianoDesc:
+      "Variante boliviana do cuatro, que achega matices andinos ao noso repertorio.",
+    instrumentoGuitarra: "Guitarra",
+    instrumentoGuitarraDesc:
+      "O instrumento principal e máis versátil, alma de toda tuna tradicional.",
+    instrumentoLaud: "Laúde",
+    instrumentoLaudDesc:
+      "Instrumento de corda pulsada tradicional, característico das tunas españolas.",
+
+    // Calendario
+    calendarioTitle: "Calendario de Eventos",
+    proximosEventos: "Próximos Eventos 2024-2025",
+    evento1: "Día internacional contra a homofobia, transfobia e bifobia",
+    fechasImportantes: "Datas Importantes LGTBIQA+",
+
+    // Únete CTA en home
+    uneteTitle: "¡Únete a nosa Tuna Rosa!",
+    uneteP1:
+      'A nosa invitación é internacional; pode asociarse toda persoa que queira cantar, tocar e aportar o seu "buen rollo" ó grupo. Unicamente estarán vetadas as persoas que intenten separar, ridiculizar, humiliar ou transmitir odio.',
+    uneteBtn: "Faste soci@/e",
+    uneteP2:
+      "Vos esperamos a todxs os que querades participar da nosa Tuna Rosa Lgtbiqa+; ben faciéndovos socias/os/es (sen ningún aporte económico) ou ben, simplemente uniéndovos a cantar onde nos atopedes.",
+
+    // Footer
+    contacto: "Contacto",
+    escudoBordado: "Escudo Bordado",
+    escudoP1:
+      "Cómo conseguir o escudo bordado Tuna Rosa: encargar en tunarosalgtbiqaplus@gmail.com.",
+    escudoP2:
+      "O escudo enviarase contra reembolso segundo precio da empresa que se vos informará no mail.",
+    siguenos: "Síguenos",
+    siguenosDesc: "Mantente ao día dos nosos eventos e actuacións",
+    copyright: "2026 Tuna Rosa LGTBIQA+. Todos os dereitos reservados.",
+    ubicacion: "Actuamos en toda España e máis alá",
+    quickLinks: "Ligazóns rápidas",
+    footerTagline: "Música, diversidade para un mundo máis inclusivo.",
+
+    // Página contacto (cómo unirse) nav
+    navInicio: "Inicio",
+    navValores: "Valores",
+    navLenguas: "Linguas",
+    navCalendario: "Calendario",
+    navUnete: "Únete",
+
+    // Página contacto/unirse
+    joinPageTitle: "Cómo Unirse a Tuna Rosa",
+    joinIntro:
+      "¡Tache a benvida! En Tuna Rosa LGTBIQA+ cremos na diversidade, o respeto e a inclusión. Aquí tes toda a información para formar parte da nosa familia musical.",
+    membershipTitle: "Soci@/Miembr@",
+    benefitsTitle: "Beneficios:",
+    benefitVoto: "Dereito a voto en asambleas",
+    benefitDecisiones: "Formar parte activa da toma de decisións",
+    benefitInfo: "Recibir información de actividades e eventos",
+    benefitActuaciones: "Asistir a conciertos e actuacións",
+    benefitRedes: "Seguir as nosas redes sociais",
+    benefitApoyo: "Apoiar as nosas iniciativas LGTBIQA+",
+    requirementsTitle: "Requisitos:",
+    requirementsIntro: "Enviar a seguinte información ao noso correo:",
+    reqNombre: "Nome completo",
+    reqDireccion: "Dirección postal",
+    reqTelefono: "Teléfono de contacto",
+    reqEmail: "Correo electrónico",
+    contactButton: "Enviar solicitude",
+    emailLabel: "tunarosalgtbiqaplus@gmail.com",
+    escudoSectionTitle: "Escudo Bordado",
+    escudoInfo1:
+      "Cómo conseguir o escudo bordado de Tuna Rosa: encargar en tunarosalgtbiqaplus@gmail.com.",
+    escudoInfo2:
+      "O escudo enviarase contra reembolso segundo precio da empresa que se vos informará no mail.",
+    escudoCta: "Pedir escudo bordado",
+    faqTitle: "Preguntas frecuentes",
+    faqQ1: "¿Necesito saber música?",
+    faqA1:
+      "Non é obrigatorio. Valorizamos as ganas de participar. Hai espazo para músicos, cantantes e xente que queira axudar na organización.",
+    faqQ2: "¿Hai límite de idade?",
+    faqA2:
+      "¡Non! Acollemos a persoas de todas as idades que compartan os nosos valores.",
+    faqQ3: "¿Tes dúbidas?",
+    faqA3: "O noso Correo:",
+    faqButton: "Escribir email",
+    joinNavTitle: "Únete",
+
+    // Unirse page (option cards)
+    pageHeaderTitle: "Cómo unirse a Tuna Rosa",
+    pageHeaderSubtitle:
+      "¡Tache a benvida! Aquí tes toda a información para formar parte da nosa tuna.",
+    simpatizante: "Simpatizante",
+    socio: "Soci@/Miembr@",
+    gratuito: "Gratuito",
+    cuotaAnual: "Cuota anual",
+    simpatizanteBenefit1: "Recibir información de actividades",
+    simpatizanteBenefit2: "Asistir a eventos abertos",
+    simpatizanteBenefit3: "Apoiar as nosas iniciativas",
+    simpatizanteReq:
+      "Requisitos: Enviar nome, dirección postal, teléfono de contacto e email a:",
+    socioBenefit1: "Todos os beneficios de simpatizante",
+    socioBenefit2: "Dereito a voto en asambleas",
+    socioBenefit3: "Participación en actuacións",
+    socioBenefit4: "Acceso a recursos internos",
+    socioBenefit5: "Descontos en eventos",
+    socioReq:
+      "Requisitos: Enviar nome, dirección postal, teléfono de contacto e email.",
+    socioNote:
+      "Nota: O dereito de votar en asamblea telemática require ser soci@ de Tuna Rosa.",
+    faqUTitle: "Preguntas frecuentes",
+    faqUQ1: "¿Necesito saber tocar un instrumento?",
+    faqUA1:
+      "Non é obrigatorio. Valorizamos as ganas de participar e aprender. Temos espazo para músic@s, cantantes e xente con ganas de axudar na organización.",
+    faqUQ2: "¿Hai límite de idade?",
+    faqUA2:
+      "¡Non! A tuna é unha tradición universitaria, pero acollemos a persoas de todas as idades que compartan os nosos valores de diversidade e inclusión.",
+    faqUQ3: "¿Onde ensaiamos?",
+    faqUA3:
+      "Os ensaios realízanse en [LOCALIZACIÓN] os [DÍAS Y HORAS]. ¡Ponte en contacto para máis detalles!",
+  },
 };
 
 // Fill placeholders with Spanish defaults to avoid missing keys

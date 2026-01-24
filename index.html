@@ -1,14 +1,71 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Tuna Rosa - Tuna LGTBIQA+</title>
+    <meta
+      name="description"
+      content="Tuna Rosa LGTBIQA+ - Una tuna inclusiva, musical y diversa en España. Únete a nuestro proyecto de música, igualdad y diversidad sexual."
+    />
+    <meta
+      name="keywords"
+      content="tuna rosa, tuna LGTBIQA+, tuna inclusiva, música LGTB, asociación LGTBIQA+, tuna España, música diversidad, tuna feminista, inclusión"
+    />
+    <meta name="author" content="Tuna Rosa LGTBIQA+" />
+    <meta name="robots" content="index, follow" />
+    <meta name="language" content="es" />
+
+    <!-- Open Graph para redes sociales -->
+    <meta
+      property="og:title"
+      content="Tuna Rosa LGTBIQA+ - Música Inclusiva y Diversa"
+    />
+    <meta
+      property="og:description"
+      content="Una tuna musical inclusiva donde todas las personas tienen cabida. Celebramos la diversidad, el feminismo, la visibilidad y el amor."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://tunarosa.es" />
+    <meta property="og:image" content="https://tunarosa.es/images/logo.png" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Tuna Rosa LGTBIQA+" />
+    <meta
+      name="twitter:description"
+      content="Tuna inclusiva, diversa y feminista. Únete a nuestra comunidad musical."
+    />
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://tunarosa.es" />
+
+    <!-- Google Site Verification (cambiar por tu código) -->
+    <!-- <meta name="google-site-verification" content="TU_CODIGO_AQUI" /> -->
+
+    <title>Tuna Rosa LGTBIQA+ - Música Inclusiva, Diversa y Feminista</title>
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
     />
     <link rel="stylesheet" href="css/style.css" />
+
+    <!-- Schema.org Markup JSON-LD -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Tuna Rosa LGTBIQA+",
+        "url": "https://tunarosa.es",
+        "logo": "https://tunarosa.es/images/logo.png",
+        "description": "Una tuna musical inclusiva donde todas las personas tienen cabida. Celebramos la diversidad, el feminismo, la visibilidad y el amor.",
+        "sameAs": ["https://www.instagram.com/tunarosalgtbiqaplus/"],
+        "contact": {
+          "@type": "ContactPoint",
+          "contactType": "General",
+          "email": "tunarosalgtbiqaplus@gmail.com"
+        }
+      }
+    </script>
   </head>
   <body>
     <!-- Header y Navegación -->
@@ -47,6 +104,9 @@
             <li><a href="#inicio" data-i18n="inicio">Inicio</a></li>
             <li><a href="#valores" data-i18n="valores">Valores</a></li>
             <li><a href="#mensaje" data-i18n="mensaje">Mensaje</a></li>
+            <li>
+              <a href="#instrumentos" data-i18n="instrumentos">Instrumentos</a>
+            </li>
             <li><a href="#lenguas" data-i18n="lenguas">Lenguas</a></li>
             <li><a href="#calendario" data-i18n="calendario">Calendario</a></li>
             <li><a href="#unete" data-i18n="unete">Únete</a></li>
@@ -58,15 +118,15 @@
     <!-- Hero Section -->
     <section class="hero" id="inicio">
       <div class="container">
-        <h2 data-i18n="heroTitle">Bienvenidos/as/es a la Tuna Rosa LGTBIQA+</h2>
+        <h1 data-i18n="heroTitle">Bienvenidos/as/es a la Tuna Rosa LGTBIQA+</h1>
         <p data-i18n="heroSubtitle">
           Un espacio musical inclusivo donde todas las personas tienen cabida
         </p>
 
         <div class="hero-intro">
-          <h3 data-i18n="heroIntro">
+          <h2 data-i18n="heroIntro">
             ¡Hola! Soy Isidoro, también conocido como "Bruja" o "Looky"
-          </h3>
+          </h2>
           <p data-i18n="heroP1">
             Soy el Coordinador de la asociación Tuna Rosa, y una de las cabezas
             visibles de este nuevo proyecto junto a otros hombres, mujeres,
@@ -189,6 +249,116 @@
             el modelo heterosexista, mucho menos con el machismo que tanto dolor
             ha traído a la sociedad de antes y de ahora.
           </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Instrumentos Section -->
+    <section class="section instruments" id="instrumentos">
+      <div class="container">
+        <h2 class="section-title" data-i18n="instrumentosTitle">
+          Instrumentos de Tuna
+        </h2>
+        <p class="content-text center-text" data-i18n="instrumentosIntro">
+          La riqueza musical de nuestra tuna se refleja en la diversidad de
+          instrumentos que tocamos. Desde los tradicionales hasta los que
+          representan diferentes culturas musicales.
+        </p>
+
+        <div class="instruments-grid">
+          <div class="instrument-card">
+            <div class="instrument-image">
+              <img src="images/instruments/pandereta.jpg" alt="Pandereta" />
+            </div>
+            <h3 data-i18n="instrumentoPandereta">Pandereta</h3>
+            <p data-i18n="instrumentoPanderetaDesc">
+              Instrumento de percusión esencial que marca el ritmo y la alegría
+              de nuestras canciones.
+            </p>
+          </div>
+
+          <div class="instrument-card">
+            <div class="instrument-image">
+              <img src="images/instruments/ukelele.jpg" alt="Ukelele" />
+            </div>
+            <h3 data-i18n="instrumentoUkelele">Ukelele</h3>
+            <p data-i18n="instrumentoUkeleleDesc">
+              De sonido dulce y alegre, aporta una dimensión única a nuestras
+              interpretaciones.
+            </p>
+          </div>
+
+          <div class="instrument-card">
+            <div class="instrument-image">
+              <img
+                src="images/instruments/cuatro-venezolano.jpg"
+                alt="Cuatro Venezolano"
+              />
+            </div>
+            <h3 data-i18n="instrumentoCuatroVenezolano">Cuatro Venezolano</h3>
+            <p data-i18n="instrumentoCuatroVenezolanoDesc">
+              Instrumento de cuatro cuerdas tradicional de Venezuela, símbolo de
+              la música latinoamericana.
+            </p>
+          </div>
+
+          <div class="instrument-card">
+            <div class="instrument-image">
+              <img src="images/instruments/bandurria.jpg" alt="Bandurria" />
+            </div>
+            <h3 data-i18n="instrumentoBandurria">Bandurria</h3>
+            <p data-i18n="instrumentoBandurriaDesc">
+              Instrumento de púa tradicional español, fundamental en la música
+              de tuna.
+            </p>
+          </div>
+
+          <div class="instrument-card">
+            <div class="instrument-image">
+              <img src="images/instruments/requinto.jpg" alt="Requinto" />
+            </div>
+            <h3 data-i18n="instrumentoRequinto">Requinto</h3>
+            <p data-i18n="instrumentoRequintoDesc">
+              Guitarra de tamaño reducido con sonido agudo, perfecta para
+              melodías solistas.
+            </p>
+          </div>
+
+          <div class="instrument-card">
+            <div class="instrument-image">
+              <img
+                src="images/instruments/cuatro-boliviano.jpg"
+                alt="Cuatro Boliviano"
+              />
+            </div>
+            <h3 data-i18n="instrumentoCuatroBoliviano">Cuatro Boliviano</h3>
+            <p data-i18n="instrumentoCuatroBolivianoDesc">
+              Variante boliviana del cuatro, que aporta matices andinos a
+              nuestro repertorio.
+            </p>
+          </div>
+
+          <div class="instrument-card">
+            <div class="instrument-image">
+              <img src="images/instruments/guitarra.jpg" alt="Guitarra" />
+            </div>
+            <h3 data-i18n="instrumentoGuitarra">Guitarra</h3>
+            <p data-i18n="instrumentoGuitarraDesc">
+              El instrumento principal y más versátil, alma de toda tuna
+              tradicional.
+            </p>
+          </div>
+
+          <div class="instrument-card">
+            <div class="instrument-image">
+              <img src="images/instruments/laud.jpg" alt="Laúd" />
+            </div>
+            <h3 data-i18n="instrumentoLaud">Laúd</h3>
+            <p data-i18n="instrumentoLaudDesc">
+              Instrumento de cuerda pulsada tradicional, característico de las
+              tunas españolas.
+            </p>
+          </div>
         </div>
       </div>
     </section>
