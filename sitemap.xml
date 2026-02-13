@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tunarosa.es/</loc>
-    <lastmod>2026-01-24</lastmod>
+    <lastmod>2026-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <!-- Alternate language versions -->
+    <xhtml:link rel="alternate" hreflang="es" href="https://tunarosa.es/" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://tunarosa.es/" />
+    <xhtml:link rel="alternate" hreflang="gl" href="https://tunarosa.es/" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://tunarosa.es/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://tunarosa.es/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tunarosa.es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tunarosa.es/" />
   </url>
   <url>
     <loc>https://tunarosa.es/pages/contacto.html</loc>
-    <lastmod>2026-01-24</lastmod>
+    <lastmod>2026-02-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tunarosa.es/pages/contacto.html" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://tunarosa.es/pages/contacto.html" />
+    <xhtml:link rel="alternate" hreflang="gl" href="https://tunarosa.es/pages/contacto.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://tunarosa.es/pages/contacto.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://tunarosa.es/pages/contacto.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tunarosa.es/pages/contacto.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tunarosa.es/pages/contacto.html" />
   </url>
 </urlset>
