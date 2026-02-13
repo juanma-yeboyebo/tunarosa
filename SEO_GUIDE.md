@@ -125,7 +125,7 @@ Revisa regularmente en Google Search Console:
 
 Asegúrate de que tus URLs sean:
 
-- ✅ Legibles: `/pages/unirse.html`
+- ✅ Legibles: `/pages/contacto.html`
 - ✅ Descriptivas
 - ✅ Sin parámetros innecesarios
 - ✅ HTTPS (cuando sea posible)

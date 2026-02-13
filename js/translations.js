@@ -150,12 +150,12 @@ window.TUNA_TRANSLATIONS = {
     benefitApoyo: "Apoyar nuestras iniciativas LGTBIQA+",
     requirementsTitle: "¿Cómo unirse?",
     requirementsIntro:
-      "Simplemente escríbenos un correo contándonos un poco sobre ti y tus ganas de formar parte de Tuna Rosa. ¡Así de fácil!",
+      "¡Nos encantaría conocerte! Escríbenos por Instagram o envíanos un correo.",
     reqNombre: "Nombre completo",
     reqDireccion: "Dirección postal",
     reqTelefono: "Teléfono de contacto",
     reqEmail: "Correo electrónico",
-    contactButton: "Enviar solicitud",
+    contactButton: "Escribir email",
     emailLabel: "tunarosalgtbiqaplus@gmail.com",
     escudoSectionTitle: "Escudo Bordado",
     escudoInfo1:
@@ -179,6 +179,10 @@ window.TUNA_TRANSLATIONS = {
     pageHeaderTitle: "Cómo unirse a Tuna Rosa",
     pageHeaderSubtitle:
       "¡Te damos la bienvenida! Aquí tienes toda la información para formar parte de nuestra tuna.",
+    instagramJoinTitle: "Únete por Instagram",
+    instagramJoinText:
+      "Puedes escribirnos por mensaje directo en Instagram o por correo.",
+    instagramJoinButton: "Escribir por Instagram",
     simpatizante: "Simpatizante",
     socio: "Socio/Miembr@",
     gratuito: "Gratuito",
@@ -186,15 +190,13 @@ window.TUNA_TRANSLATIONS = {
     simpatizanteBenefit1: "Recibir información de actividades",
     simpatizanteBenefit2: "Asistir a eventos abiertos",
     simpatizanteBenefit3: "Apoyar nuestras iniciativas",
-    simpatizanteReq:
-      "Requisitos: Enviar nombre, dirección postal, teléfono de contacto y email a:",
+    simpatizanteReq: "Para unirte, escríbenos a:",
     socioBenefit1: "Todos los beneficios de simpatizante",
     socioBenefit2: "Derecho a voto en asambleas",
     socioBenefit3: "Participación en actuaciones",
     socioBenefit4: "Acceso a recursos internos",
     socioBenefit5: "Descuentos en eventos",
-    socioReq:
-      "Requisitos: Enviar nombre, dirección postal, teléfono de contacto y email.",
+    socioReq: "Para unirte, escríbenos a:",
     socioNote:
       "Nota: El derecho de votar en asamblea telemática requiere ser soci@ de Tuna Rosa.",
     faqUTitle: "Preguntas frecuentes",
@@ -346,12 +348,12 @@ window.TUNA_TRANSLATIONS = {
     benefitApoyo: "Support our LGTBIQA+ initiatives",
     requirementsTitle: "How to join?",
     requirementsIntro:
-      "Just write us an email telling us a bit about you and your desire to be part of Tuna Rosa. It's that easy!",
+      "We'd love to meet you! Message us on Instagram or send us an email.",
     reqNombre: "Full name",
     reqDireccion: "Postal address",
     reqTelefono: "Contact phone",
     reqEmail: "Email",
-    contactButton: "Send request",
+    contactButton: "Write email",
     emailLabel: "tunarosalgtbiqaplus@gmail.com",
     escudoSectionTitle: "Embroidered Patch",
     escudoInfo1:
@@ -373,6 +375,10 @@ window.TUNA_TRANSLATIONS = {
     pageHeaderTitle: "How to join Tuna Rosa",
     pageHeaderSubtitle:
       "Welcome! Here is all the information to join our tuna.",
+    instagramJoinTitle: "Join via Instagram",
+    instagramJoinText:
+      "You can send us a direct message on Instagram or by email.",
+    instagramJoinButton: "Message us on Instagram",
     simpatizante: "Supporter",
     socio: "Member",
     gratuito: "Free",
@@ -380,14 +386,13 @@ window.TUNA_TRANSLATIONS = {
     simpatizanteBenefit1: "Receive activity updates",
     simpatizanteBenefit2: "Attend open events",
     simpatizanteBenefit3: "Support our initiatives",
-    simpatizanteReq:
-      "Requirements: send your name, postal address, phone, and email to:",
+    simpatizanteReq: "To join, write us at:",
     socioBenefit1: "All supporter benefits",
     socioBenefit2: "Voting rights in assemblies",
     socioBenefit3: "Perform in shows",
     socioBenefit4: "Access internal resources",
     socioBenefit5: "Discounts on events",
-    socioReq: "Requirements: send your name, postal address, phone, and email.",
+    socioReq: "To join, write us at:",
     socioNote:
       "Note: Voting in online assemblies requires being a member of Tuna Rosa.",
     faqUTitle: "Frequently asked questions",
@@ -538,12 +543,12 @@ window.TUNA_TRANSLATIONS = {
     benefitApoyo: "Donar suport a les iniciatives LGTBIQA+",
     requirementsTitle: "Com unir-se?",
     requirementsIntro:
-      "Només cal que ens escriguis un correu explicant una mica sobre tu i les ganes de formar part de Tuna Rosa. És així de fàcil!",
+      "Ens encantaria conèixer-te! Escriu-nos per Instagram o envia'ns un correu.",
     reqNombre: "Nom complet",
     reqDireccion: "Adreça postal",
     reqTelefono: "Telèfon de contacte",
     reqEmail: "Correu electrònic",
-    contactButton: "Enviar sol·licitud",
+    contactButton: "Escriure correu",
     emailLabel: "tunarosalgtbiqaplus@gmail.com",
     escudoSectionTitle: "Escut brodat",
     escudoInfo1:
@@ -564,6 +569,10 @@ window.TUNA_TRANSLATIONS = {
     pageHeaderTitle: "Com unir-se a la Tuna Rosa",
     pageHeaderSubtitle:
       "Benvinguda! Aquí tens tota la informació per formar part de la tuna.",
+    instagramJoinTitle: "Uneix-te per Instagram",
+    instagramJoinText:
+      "Pots escriure'ns per missatge directe a Instagram o per correu.",
+    instagramJoinButton: "Escriu-nos per Instagram",
     simpatizante: "Simpatitzant",
     socio: "Membre",
     gratuito: "Gratuit",
@@ -571,13 +580,13 @@ window.TUNA_TRANSLATIONS = {
     simpatizanteBenefit1: "Rebre informació d'activitats",
     simpatizanteBenefit2: "Assistir a esdeveniments oberts",
     simpatizanteBenefit3: "Recolzar les nostres iniciatives",
-    simpatizanteReq: "Requisits: envia nom, adreça postal, telèfon i correu a:",
+    simpatizanteReq: "Per unir-te, escriu-nos a:",
     socioBenefit1: "Tots els beneficis de simpatitzant",
     socioBenefit2: "Dret a vot a les assemblees",
     socioBenefit3: "Participació en actuacions",
     socioBenefit4: "Accés a recursos interns",
     socioBenefit5: "Descomptes en esdeveniments",
-    socioReq: "Requisits: envia nom, adreça postal, telèfon i correu.",
+    socioReq: "Per unir-te, escriu-nos a:",
     socioNote:
       "Nota: votar en assemblea telemàtica requereix ser membre de la Tuna Rosa.",
     faqUTitle: "Preguntes freqüents",
@@ -729,12 +738,12 @@ window.TUNA_TRANSLATIONS = {
     benefitApoyo: "LGTBIQA+ ekimenak babestea",
     requirementsTitle: "Nola batu?",
     requirementsIntro:
-      "Nahikoa da mezu bat bidaltzea, zuri buruz pixka bat eta Tuna Rosan parte hartzeko gogoari buruz kontatuz. Horrela erraza!",
+      "Zu ezagutu nahiko genuke! Idatzi Instagram bidez edo bidali mezu bat.",
     reqNombre: "Izen-abizenak",
     reqDireccion: "Posta helbidea",
     reqTelefono: "Harremanetarako telefonoa",
     reqEmail: "Emaila",
-    contactButton: "Eskaria bidali",
+    contactButton: "Idatzi emaila",
     emailLabel: "tunarosalgtbiqaplus@gmail.com",
     escudoSectionTitle: "Brodatutako armarria",
     escudoInfo1:
@@ -757,6 +766,10 @@ window.TUNA_TRANSLATIONS = {
     pageHeaderTitle: "Nola batu Tuna Rosara",
     pageHeaderSubtitle:
       "Ongi etorri! Hemen duzu tuna parte izateko informazio guztia.",
+    instagramJoinTitle: "Instagram bidez batu",
+    instagramJoinText:
+      "Instagramen mezu zuzena edo posta elektronikoa erabil dezakezu.",
+    instagramJoinButton: "Idatzi Instagramen",
     simpatizante: "Laguntzaile",
     socio: "Bazkide",
     gratuito: "Doan",
@@ -764,14 +777,13 @@ window.TUNA_TRANSLATIONS = {
     simpatizanteBenefit1: "Jarduera informazioa jasotzea",
     simpatizanteBenefit2: "Ekitaldi irekietara joatea",
     simpatizanteBenefit3: "Gure ekimenak babestea",
-    simpatizanteReq:
-      "Baldintzak: bidali izena, helbidea, telefonoa eta emaila:",
+    simpatizanteReq: "Batzeko, idatzi helbide honetara:",
     socioBenefit1: "Laguntzailearen onura guztiak",
     socioBenefit2: "Boto eskubidea batzarretan",
     socioBenefit3: "Emanaldietan parte hartzea",
     socioBenefit4: "Barne baliabideetara sarbidea",
     socioBenefit5: "Ekitaldietan deskontuak",
-    socioReq: "Baldintzak: bidali izena, helbidea, telefonoa eta emaila.",
+    socioReq: "Batzeko, idatzi helbide honetara:",
     socioNote:
       "Oharra: batzar telematikoetan bozkatzeko, Tuna Rosako bazkide izan behar da.",
     faqUTitle: "Ohiko galderak",
@@ -922,12 +934,12 @@ window.TUNA_TRANSLATIONS = {
     benefitApoyo: "Apoiar iniciativas LGTBIQA+",
     requirementsTitle: "Como juntar-se?",
     requirementsIntro:
-      "Basta enviares um email contando um pouco sobre ti e a tua vontade de fazer parte da Tuna Rosa. E simples!",
+      "Adoraríamos conhecê-lo/a! Escreva-nos no Instagram ou envie-nos um email.",
     reqNombre: "Nome completo",
     reqDireccion: "Endereco postal",
     reqTelefono: "Telefone de contacto",
     reqEmail: "Email",
-    contactButton: "Enviar pedido",
+    contactButton: "Escrever email",
     emailLabel: "tunarosalgtbiqaplus@gmail.com",
     escudoSectionTitle: "Escudo bordado",
     escudoInfo1:
@@ -949,6 +961,10 @@ window.TUNA_TRANSLATIONS = {
     pageHeaderTitle: "Como juntar-se a Tuna Rosa",
     pageHeaderSubtitle:
       "Bem-vind@! Aqui tens toda a informacao para fazer parte da tuna.",
+    instagramJoinTitle: "Junte-se pelo Instagram",
+    instagramJoinText:
+      "Pode enviar-nos uma mensagem direta no Instagram ou por email.",
+    instagramJoinButton: "Escrever no Instagram",
     simpatizante: "Simpatizante",
     socio: "Membro",
     gratuito: "Gratuito",
@@ -956,13 +972,13 @@ window.TUNA_TRANSLATIONS = {
     simpatizanteBenefit1: "Receber informacao de atividades",
     simpatizanteBenefit2: "Ir a eventos abertos",
     simpatizanteBenefit3: "Apoiar nossas iniciativas",
-    simpatizanteReq: "Requisitos: envia nome, endereco, telefone e email:",
+    simpatizanteReq: "Para se juntar, escreve-nos em:",
     socioBenefit1: "Todos os beneficios de simpatizante",
     socioBenefit2: "Direito a voto nas assembleias",
     socioBenefit3: "Participacao em atuacoes",
     socioBenefit4: "Acesso a recursos internos",
     socioBenefit5: "Descontos em eventos",
-    socioReq: "Requisitos: envia nome, endereco, telefone e email.",
+    socioReq: "Para se juntar, escreve-nos em:",
     socioNote:
       "Nota: para votar em assembleia online e preciso ser membro da Tuna Rosa.",
     faqUTitle: "Perguntas frequentes",
@@ -1113,12 +1129,12 @@ window.TUNA_TRANSLATIONS = {
     benefitApoyo: "Soutenir nos initiatives LGTBIQA+",
     requirementsTitle: "Comment rejoindre ?",
     requirementsIntro:
-      "Il suffit de nous ecrire un email en nous parlant un peu de toi et de ton envie de faire partie de Tuna Rosa. C'est aussi simple que ca !",
+      "Nous aimerions te rencontrer ! Écris-nous sur Instagram ou envoie-nous un e-mail.",
     reqNombre: "Nom complet",
     reqDireccion: "Adresse postale",
     reqTelefono: "Telephone",
     reqEmail: "Email",
-    contactButton: "Envoyer la demande",
+    contactButton: "Ecrire un email",
     emailLabel: "tunarosalgtbiqaplus@gmail.com",
     escudoSectionTitle: "Blason brode",
     escudoInfo1:
@@ -1139,6 +1155,10 @@ window.TUNA_TRANSLATIONS = {
     pageHeaderTitle: "Comment rejoindre la Tuna Rosa",
     pageHeaderSubtitle:
       "Bienvenue ! Voici toutes les informations pour faire partie de la tuna.",
+    instagramJoinTitle: "Rejoignez-nous via Instagram",
+    instagramJoinText:
+      "Vous pouvez nous ecrire en message prive sur Instagram ou par e-mail.",
+    instagramJoinButton: "Écrire sur Instagram",
     simpatizante: "Sympathisant",
     socio: "Membre",
     gratuito: "Gratuit",
@@ -1146,13 +1166,13 @@ window.TUNA_TRANSLATIONS = {
     simpatizanteBenefit1: "Recevoir des infos d'activites",
     simpatizanteBenefit2: "Assister a des evenements ouverts",
     simpatizanteBenefit3: "Soutenir nos initiatives",
-    simpatizanteReq: "Conditions : envoie nom, adresse, telephone et email :",
+    simpatizanteReq: "Pour nous rejoindre, ecris-nous a :",
     socioBenefit1: "Tous les avantages de sympathisant",
     socioBenefit2: "Droit de vote aux assemblees",
     socioBenefit3: "Participation aux spectacles",
     socioBenefit4: "Acces aux ressources internes",
     socioBenefit5: "Reductions sur les evenements",
-    socioReq: "Conditions : envoie nom, adresse, telephone et email.",
+    socioReq: "Pour nous rejoindre, ecris-nous a :",
     socioNote:
       "Note : pour voter en assemblee en ligne, il faut etre membre de la Tuna Rosa.",
     faqUTitle: "Questions frequentes",
@@ -1315,12 +1335,12 @@ window.TUNA_TRANSLATIONS = {
     benefitApoyo: "Apoiar as nosas iniciativas LGTBIQA+",
     requirementsTitle: "Como unirse?",
     requirementsIntro:
-      "Abonda con escribires un correo contandonos un pouco sobre ti e as ganas de formar parte de Tuna Rosa. Asi de facil!",
+      "Encantaríanos coñecerte! Escríbenos por Instagram ou envíanos un correo.",
     reqNombre: "Nome completo",
     reqDireccion: "Dirección postal",
     reqTelefono: "Teléfono de contacto",
     reqEmail: "Correo electrónico",
-    contactButton: "Enviar solicitude",
+    contactButton: "Escribir email",
     emailLabel: "tunarosalgtbiqaplus@gmail.com",
     escudoSectionTitle: "Escudo Bordado",
     escudoInfo1:
@@ -1344,6 +1364,10 @@ window.TUNA_TRANSLATIONS = {
     pageHeaderTitle: "Cómo unirse a Tuna Rosa",
     pageHeaderSubtitle:
       "¡Tache a benvida! Aquí tes toda a información para formar parte da nosa tuna.",
+    instagramJoinTitle: "Únete por Instagram",
+    instagramJoinText:
+      "Podes escribirnos por mensaxe directa en Instagram ou por correo.",
+    instagramJoinButton: "Escríbenos por Instagram",
     simpatizante: "Simpatizante",
     socio: "Soci@/Miembr@",
     gratuito: "Gratuito",
@@ -1351,15 +1375,13 @@ window.TUNA_TRANSLATIONS = {
     simpatizanteBenefit1: "Recibir información de actividades",
     simpatizanteBenefit2: "Asistir a eventos abertos",
     simpatizanteBenefit3: "Apoiar as nosas iniciativas",
-    simpatizanteReq:
-      "Requisitos: Enviar nome, dirección postal, teléfono de contacto e email a:",
+    simpatizanteReq: "Para unirte, escríbenos a:",
     socioBenefit1: "Todos os beneficios de simpatizante",
     socioBenefit2: "Dereito a voto en asambleas",
     socioBenefit3: "Participación en actuacións",
     socioBenefit4: "Acceso a recursos internos",
     socioBenefit5: "Descontos en eventos",
-    socioReq:
-      "Requisitos: Enviar nome, dirección postal, teléfono de contacto e email.",
+    socioReq: "Para unirte, escríbenos a:",
     socioNote:
       "Nota: O dereito de votar en asamblea telemática require ser soci@ de Tuna Rosa.",
     faqUTitle: "Preguntas frecuentes",
