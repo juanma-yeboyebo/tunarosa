@@ -21,7 +21,7 @@ window.TUNA_TRANSLATIONS = {
     pasabaresP1:
       "El 16 de mayo de 2026 celebramos nuestro primer pasabares por las calles de Alicante, una cita muy especial que supuso un nuevo paso en la historia de Tuna Rosa. Entre canciones, risas y el cariño de quienes nos encontramos por el camino, recorrimos distintos establecimientos llevando la esencia de la tuna a vecinos y visitantes.",
     pasabaresP2:
-      "Queremos expresar un agradecimiento muy especial a Restaurante Matinar, cuyo apoyo y acogida fueron fundamentales para que esta jornada pudiera celebrarse. Contar con personas y negocios que creen en la cultura, la música en directo y la diversidad hace posible que proyectos como Tuna Rosa sigan creciendo.",
+      "Queremos expresar un agradecimiento muy especial a Restaurante Marimar, cuyo apoyo y acogida fueron fundamentales para que esta jornada pudiera celebrarse. Contar con personas y negocios que creen en la cultura, la música en directo y la diversidad hace posible que proyectos como Tuna Rosa sigan creciendo.",
     pasabaresP3:
       "Este fue solo el comienzo. Continuaremos recorriendo Alicante y muchos otros lugares con el objetivo de compartir nuestra música, mantener viva la tradición de la tuna y demostrar que la inclusión y la cultura pueden caminar de la mano.",
     pasabaresP4:
@@ -254,7 +254,7 @@ window.TUNA_TRANSLATIONS = {
     pasabaresP1:
       "On May 16, 2026, we celebrated our first pub crawl through the streets of Alicante, a very special date that marked a new step in Tuna Rosa's journey. Between songs, laughter and the warmth of the people we met, we visited different venues sharing the spirit of tuna music with locals and visitors.",
     pasabaresP2:
-      "We want to give special thanks to Restaurante Matinar, whose support and hospitality were essential to make this day possible. Having people and businesses that believe in culture, live music and diversity helps projects like Tuna Rosa keep growing.",
+      "We want to give special thanks to Restaurante Marimar, whose support and hospitality were essential to make this day possible. Having people and businesses that believe in culture, live music and diversity helps projects like Tuna Rosa keep growing.",
     pasabaresP3:
       "This was only the beginning. We will keep touring Alicante and many other places to share our music, keep tuna tradition alive, and show that inclusion and culture can walk hand in hand.",
     pasabaresP4:
@@ -474,7 +474,7 @@ window.TUNA_TRANSLATIONS = {
     pasabaresP1:
       "El 16 de maig de 2026 vam celebrar el nostre primer passabars pels carrers d'Alacant, una cita molt especial que va suposar un nou pas en la història de Tuna Rosa. Entre cançons, rialles i l'afecte de la gent que ens vam trobar, vam recórrer diferents establiments portant l'essència de la tuna a veïns i visitants.",
     pasabaresP2:
-      "Volem expressar un agraïment molt especial al Restaurante Matinar, el suport i l'acollida del qual van ser fonamentals perquè aquesta jornada es poguera celebrar. Comptar amb persones i negocis que creuen en la cultura, la música en directe i la diversitat fa possible que projectes com Tuna Rosa continuen creixent.",
+      "Volem expressar un agraïment molt especial al Restaurante Marimar, el suport i l'acollida del qual van ser fonamentals perquè aquesta jornada es poguera celebrar. Comptar amb persones i negocis que creuen en la cultura, la música en directe i la diversitat fa possible que projectes com Tuna Rosa continuen creixent.",
     pasabaresP3:
       "Això només va ser el començament. Continuarem recorrent Alacant i molts altres llocs amb l'objectiu de compartir la nostra música, mantenir viva la tradició de la tuna i demostrar que la inclusió i la cultura poden caminar plegades.",
     pasabaresP4:
@@ -692,7 +692,7 @@ window.TUNA_TRANSLATIONS = {
     pasabaresP1:
       "2026ko maiatzaren 16an gure lehen pasabarrak ospatu genituen Alacanteko kaleetan. Egun berezia izan zen Tuna Rosaren historian urrats berri bat markatuz. Kantu, barre eta bidean aurkitutako jendearen maitasunarekin, hainbat taberna eta lokal zeharkatu genituen tunaren espiritua auzokide eta bisitariei hurbilduz.",
     pasabaresP2:
-      "Eskerrik beroenak Restaurante Matinar-i: haien laguntza eta harrera ezinbestekoak izan ziren jardunaldi hau egiteko. Kulturan, zuzeneko musikan eta aniztasunean sinesten duten pertsona eta negozioekin, Tuna Rosa bezalako proiektuek hazten jarraitzen dute.",
+      "Eskerrik beroenak Restaurante Marimar-i: haien laguntza eta harrera ezinbestekoak izan ziren jardunaldi hau egiteko. Kulturan, zuzeneko musikan eta aniztasunean sinesten duten pertsona eta negozioekin, Tuna Rosa bezalako proiektuek hazten jarraitzen dute.",
     pasabaresP3:
       "Hau hasiera besterik ez da izan. Alacante eta beste hiri askotan jarraituko dugu gure musika partekatzen, tunaren tradizioa bizirik mantentzen eta inklusioa eta kultura batera joan daitezkeela erakusten.",
     pasabaresP4:
@@ -913,7 +913,7 @@ window.TUNA_TRANSLATIONS = {
     pasabaresP1:
       "No dia 16 de maio de 2026 celebramos o nosso primeiro pasabares pelas ruas de Alicante, um encontro muito especial que marcou um novo passo na historia da Tuna Rosa. Entre cancoes, risos e o carinho das pessoas que encontramos, percorremos varios estabelecimentos levando a essencia da tuna a moradores e visitantes.",
     pasabaresP2:
-      "Queremos deixar um agradecimento especial ao Restaurante Matinar, cujo apoio e acolhimento foram fundamentais para esta jornada acontecer. Contar com pessoas e negocios que acreditam na cultura, na musica ao vivo e na diversidade permite que projetos como a Tuna Rosa continuem a crescer.",
+      "Queremos deixar um agradecimento especial ao Restaurante Marimar, cujo apoio e acolhimento foram fundamentais para esta jornada acontecer. Contar com pessoas e negocios que acreditam na cultura, na musica ao vivo e na diversidade permite que projetos como a Tuna Rosa continuem a crescer.",
     pasabaresP3:
       "Isto foi apenas o comeco. Vamos continuar por Alicante e muitos outros lugares com o objetivo de partilhar a nossa musica, manter viva a tradicao da tuna e mostrar que inclusao e cultura podem caminhar lado a lado.",
     pasabaresP4:
@@ -1132,7 +1132,7 @@ window.TUNA_TRANSLATIONS = {
     pasabaresP1:
       "Le 16 mai 2026, nous avons celebre notre premier pasabares dans les rues d'Alicante, une date tres speciale qui a marque une nouvelle etape dans l'histoire de Tuna Rosa. Entre chansons, rires et l'affection des personnes rencontrees, nous avons parcouru differents etablissements en partageant l'essence de la tuna avec habitants et visiteurs.",
     pasabaresP2:
-      "Nous voulons adresser un remerciement particulier au Restaurante Matinar, dont le soutien et l'accueil ont ete essentiels pour que cette journee puisse avoir lieu. Compter sur des personnes et des commerces qui croient en la culture, la musique live et la diversite permet a des projets comme Tuna Rosa de continuer a grandir.",
+      "Nous voulons adresser un remerciement particulier au Restaurante Marimar, dont le soutien et l'accueil ont ete essentiels pour que cette journee puisse avoir lieu. Compter sur des personnes et des commerces qui croient en la culture, la musique live et la diversite permet a des projets comme Tuna Rosa de continuer a grandir.",
     pasabaresP3:
       "Ce n'etait que le debut. Nous continuerons a parcourir Alicante et bien d'autres lieux avec l'objectif de partager notre musique, maintenir vivante la tradition de la tuna et montrer que inclusion et culture peuvent avancer ensemble.",
     pasabaresP4:
@@ -1351,7 +1351,7 @@ window.TUNA_TRANSLATIONS = {
     pasabaresP1:
       "O 16 de maio de 2026 celebramos o noso primeiro pasabares polas rúas de Alacante, unha cita moi especial que supuxo un novo paso na historia de Tuna Rosa. Entre cancións, risas e o cariño de quen atopamos no camiño, percorremos distintos locais levando a esencia da tuna a veciñanza e visitantes.",
     pasabaresP2:
-      "Queremos expresar un agradecemento moi especial a Restaurante Matinar, cuxo apoio e acollida foron fundamentais para que esta xornada se puidese celebrar. Contar con persoas e negocios que cren na cultura, na música en directo e na diversidade fai posible que proxectos como Tuna Rosa sigan medrando.",
+      "Queremos expresar un agradecemento moi especial a Restaurante Marimar, cuxo apoio e acollida foron fundamentais para que esta xornada se puidese celebrar. Contar con persoas e negocios que cren na cultura, na música en directo e na diversidade fai posible que proxectos como Tuna Rosa sigan medrando.",
     pasabaresP3:
       "Este foi só o comezo. Continuaremos percorrendo Alacante e moitos outros lugares co obxectivo de compartir a nosa música, manter viva a tradición da tuna e demostrar que inclusión e cultura poden camiñar da man.",
     pasabaresP4:
