@@ -150,6 +150,62 @@ document.addEventListener("DOMContentLoaded", function () {
   slider.style.cursor = "grab";
 });
 
+// Mini-galerias de eventos
+document.addEventListener("DOMContentLoaded", function () {
+  const galleries = document.querySelectorAll(".event-mini-gallery");
+  if (!galleries.length) return;
+
+  galleries.forEach((gallery) => {
+    const track = gallery.querySelector(".event-gallery-track");
+    const items = gallery.querySelectorAll(".event-gallery-item");
+    const dotsWrap = gallery.querySelector(".event-gallery-dots");
+    const prevBtn = gallery.querySelector('[data-dir="prev"]');
+    const nextBtn = gallery.querySelector('[data-dir="next"]');
+
+    if (!track || !items.length || !dotsWrap || !prevBtn || !nextBtn) return;
+
+    dotsWrap.innerHTML = "";
+    items.forEach((_, idx) => {
+      const dot = document.createElement("span");
+      dot.className = "event-gallery-dot";
+      if (idx === 0) dot.classList.add("active");
+      dot.addEventListener("click", () => {
+        const slideWidth = track.clientWidth;
+        track.scrollTo({ left: slideWidth * idx, behavior: "smooth" });
+      });
+      dotsWrap.appendChild(dot);
+    });
+
+    const dots = dotsWrap.querySelectorAll(".event-gallery-dot");
+
+    function activeIndex() {
+      const slideWidth = track.clientWidth || 1;
+      return Math.round(track.scrollLeft / slideWidth);
+    }
+
+    function paintDots() {
+      const idx = Math.max(0, Math.min(items.length - 1, activeIndex()));
+      dots.forEach((dot, i) => {
+        dot.classList.toggle("active", i === idx);
+      });
+    }
+
+    prevBtn.addEventListener("click", () => {
+      const slideWidth = track.clientWidth;
+      track.scrollBy({ left: -slideWidth, behavior: "smooth" });
+    });
+
+    nextBtn.addEventListener("click", () => {
+      const slideWidth = track.clientWidth;
+      track.scrollBy({ left: slideWidth, behavior: "smooth" });
+    });
+
+    track.addEventListener("scroll", paintDots);
+    window.addEventListener("resize", paintDots);
+    paintDots();
+  });
+});
+
 // Oculta la extensión .html en la URL una vez cargada la página
 // (solo cambia la barra de direcciones, no la navegación real)
 if (typeof history.replaceState === "function") {

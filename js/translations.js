@@ -10,6 +10,31 @@ window.TUNA_TRANSLATIONS = {
     lenguas: "Lenguas",
     calendario: "Calendario",
     unete: "Únete",
+    fotos: "Fotos",
+
+    // Fotos y eventos
+    heroHighlightCaption: "Inauguración de Tuna Rosa",
+    fotosTitle: "Tuna Rosa en la calle",
+    fotosIntro:
+      "Dos paradas clave de nuestro camino: primer pasacalles y Orgullo de Santa Pola.",
+    pasabaresTitle: "Primer Pasabares de Tuna Rosa por Alicante",
+    pasabaresP1:
+      "El 16 de mayo de 2026 celebramos nuestro primer pasabares por las calles de Alicante, una cita muy especial que supuso un nuevo paso en la historia de Tuna Rosa. Entre canciones, risas y el cariño de quienes nos encontramos por el camino, recorrimos distintos establecimientos llevando la esencia de la tuna a vecinos y visitantes.",
+    pasabaresP2:
+      "Queremos expresar un agradecimiento muy especial a Restaurante Matinar, cuyo apoyo y acogida fueron fundamentales para que esta jornada pudiera celebrarse. Contar con personas y negocios que creen en la cultura, la música en directo y la diversidad hace posible que proyectos como Tuna Rosa sigan creciendo.",
+    pasabaresP3:
+      "Este fue solo el comienzo. Continuaremos recorriendo Alicante y muchos otros lugares con el objetivo de compartir nuestra música, mantener viva la tradición de la tuna y demostrar que la inclusión y la cultura pueden caminar de la mano.",
+    pasabaresP4:
+      "Gracias a todos los que formasteis parte de este primer pasabares. Nos veremos muy pronto bajo las capas, con las guitarras afinadas y muchas canciones por cantar.",
+    santaPolaTitle: "Tuna Rosa en el Orgullo de Santa Pola 2026",
+    santaPolaP1:
+      "El 17 de mayo de 2026 vivimos una jornada que quedará para siempre en la historia de Tuna Rosa. Participamos en el Orgullo de Santa Pola llevando nuestra música, nuestras capas y nuestra alegría a las calles, demostrando que la tradición también puede ser un espacio de diversidad, respeto y convivencia.",
+    santaPolaP2:
+      "Uno de los momentos más emotivos fue compartir este día con la primera Reina de la Tercera Edad Trans de las fiestas de Santa Pola, Carla Martinez Garcia, un símbolo de visibilidad, valentía e inclusión. Su presencia hizo que esta actuación tuviera un significado aún más especial para todos los que formamos parte de Tuna Rosa.",
+    santaPolaP3:
+      "Cada actuación es una oportunidad para acercar la música de tuna a nuevos públicos, crear recuerdos y demostrar que la cultura popular evoluciona sin perder sus raíces.",
+    santaPolaP4:
+      "Gracias a todas las personas que nos acompañasteis e hicisteis de este Orgullo una celebración inolvidable. Seguiremos llevando nuestra música allí donde haya ganas de compartir, cantar y celebrar la diversidad.",
 
     // Hero
     heroTitle: "Bienvenidos/as/es a la Tuna Rosa LGTBIQA+",
@@ -219,6 +244,30 @@ window.TUNA_TRANSLATIONS = {
     lenguas: "Languages",
     calendario: "Calendar",
     unete: "Join",
+    fotos: "Photos",
+
+    heroHighlightCaption: "Tuna Rosa launch",
+    fotosTitle: "Tuna Rosa in the streets",
+    fotosIntro:
+      "Two key milestones in our path: our first pub crawl and Santa Pola Pride.",
+    pasabaresTitle: "Tuna Rosa's first pub crawl in Alicante",
+    pasabaresP1:
+      "On May 16, 2026, we celebrated our first pub crawl through the streets of Alicante, a very special date that marked a new step in Tuna Rosa's journey. Between songs, laughter and the warmth of the people we met, we visited different venues sharing the spirit of tuna music with locals and visitors.",
+    pasabaresP2:
+      "We want to give special thanks to Restaurante Matinar, whose support and hospitality were essential to make this day possible. Having people and businesses that believe in culture, live music and diversity helps projects like Tuna Rosa keep growing.",
+    pasabaresP3:
+      "This was only the beginning. We will keep touring Alicante and many other places to share our music, keep tuna tradition alive, and show that inclusion and culture can walk hand in hand.",
+    pasabaresP4:
+      "Thank you to everyone who was part of this first pub crawl. We will see each other very soon under our capes, with tuned guitars and many songs to sing.",
+    santaPolaTitle: "Tuna Rosa at Santa Pola Pride 2026",
+    santaPolaP1:
+      "On May 17, 2026, we lived a day that will remain forever in Tuna Rosa's history. We took part in Santa Pola Pride bringing our music, our capes and our joy to the streets, proving that tradition can also be a space for diversity, respect and coexistence.",
+    santaPolaP2:
+      "One of the most moving moments was sharing this day with Carla Martinez Garcia, the first Trans Senior Queen of the Santa Pola festivities, a symbol of visibility, courage and inclusion. Her presence gave this performance an even deeper meaning for everyone in Tuna Rosa.",
+    santaPolaP3:
+      "Every performance is an opportunity to bring tuna music to new audiences, create memories and show that popular culture can evolve without losing its roots.",
+    santaPolaP4:
+      "Thank you to everyone who joined us and made this Pride celebration unforgettable. We will keep bringing our music wherever people want to share, sing and celebrate diversity.",
 
     heroTitle: "Welcome to Tuna Rosa LGTBIQA+",
     heroSubtitle: "An inclusive musical space where everyone has a place",
@@ -415,6 +464,30 @@ window.TUNA_TRANSLATIONS = {
     lenguas: "Llengües",
     calendario: "Calendari",
     unete: "Uneix-te",
+    fotos: "Fotos",
+
+    heroHighlightCaption: "Inauguració de Tuna Rosa",
+    fotosTitle: "Tuna Rosa al carrer",
+    fotosIntro:
+      "Dues parades clau del nostre camí: primer passabars i Orgull de Santa Pola.",
+    pasabaresTitle: "Primer passabars de Tuna Rosa per Alacant",
+    pasabaresP1:
+      "El 16 de maig de 2026 vam celebrar el nostre primer passabars pels carrers d'Alacant, una cita molt especial que va suposar un nou pas en la història de Tuna Rosa. Entre cançons, rialles i l'afecte de la gent que ens vam trobar, vam recórrer diferents establiments portant l'essència de la tuna a veïns i visitants.",
+    pasabaresP2:
+      "Volem expressar un agraïment molt especial al Restaurante Matinar, el suport i l'acollida del qual van ser fonamentals perquè aquesta jornada es poguera celebrar. Comptar amb persones i negocis que creuen en la cultura, la música en directe i la diversitat fa possible que projectes com Tuna Rosa continuen creixent.",
+    pasabaresP3:
+      "Això només va ser el començament. Continuarem recorrent Alacant i molts altres llocs amb l'objectiu de compartir la nostra música, mantenir viva la tradició de la tuna i demostrar que la inclusió i la cultura poden caminar plegades.",
+    pasabaresP4:
+      "Gràcies a totes les persones que vau formar part d'aquest primer passabars. Ens veurem ben prompte sota les capes, amb les guitarres afinades i moltes cançons per cantar.",
+    santaPolaTitle: "Tuna Rosa a l'Orgull de Santa Pola 2026",
+    santaPolaP1:
+      "El 17 de maig de 2026 vam viure una jornada que quedarà per sempre en la història de Tuna Rosa. Vam participar en l'Orgull de Santa Pola portant la nostra música, les nostres capes i la nostra alegria als carrers, demostrant que la tradició també pot ser un espai de diversitat, respecte i convivència.",
+    santaPolaP2:
+      "Un dels moments més emotius va ser compartir aquest dia amb Carla Martinez Garcia, primera Reina de la Tercera Edat Trans de les festes de Santa Pola, símbol de visibilitat, valentia i inclusió. La seua presència va donar a l'actuació un significat encara més especial per a tota Tuna Rosa.",
+    santaPolaP3:
+      "Cada actuació és una oportunitat per acostar la música de tuna a nous públics, crear records i demostrar que la cultura popular evoluciona sense perdre les arrels.",
+    santaPolaP4:
+      "Gràcies a totes les persones que ens vau acompanyar i vau fer d'aquest Orgull una celebració inoblidable. Continuarem portant la nostra música allà on hi haja ganes de compartir, cantar i celebrar la diversitat.",
 
     heroTitle: "Benvinguts/des a la Tuna Rosa LGTBIQA+",
     heroSubtitle: "Un espai musical inclusiu on tothom té cabuda",
@@ -609,6 +682,30 @@ window.TUNA_TRANSLATIONS = {
     lenguas: "Hizkuntzak",
     calendario: "Egutegia",
     unete: "Batu",
+    fotos: "Argazkiak",
+
+    heroHighlightCaption: "Tuna Rosaren inaugurazioa",
+    fotosTitle: "Tuna Rosa kalean",
+    fotosIntro:
+      "Gure bideko bi une garrantzitsu: lehen pasabarrak eta Santa Polako Harrotasuna.",
+    pasabaresTitle: "Tuna Rosaren lehen pasabarrak Alacanten",
+    pasabaresP1:
+      "2026ko maiatzaren 16an gure lehen pasabarrak ospatu genituen Alacanteko kaleetan. Egun berezia izan zen Tuna Rosaren historian urrats berri bat markatuz. Kantu, barre eta bidean aurkitutako jendearen maitasunarekin, hainbat taberna eta lokal zeharkatu genituen tunaren espiritua auzokide eta bisitariei hurbilduz.",
+    pasabaresP2:
+      "Eskerrik beroenak Restaurante Matinar-i: haien laguntza eta harrera ezinbestekoak izan ziren jardunaldi hau egiteko. Kulturan, zuzeneko musikan eta aniztasunean sinesten duten pertsona eta negozioekin, Tuna Rosa bezalako proiektuek hazten jarraitzen dute.",
+    pasabaresP3:
+      "Hau hasiera besterik ez da izan. Alacante eta beste hiri askotan jarraituko dugu gure musika partekatzen, tunaren tradizioa bizirik mantentzen eta inklusioa eta kultura batera joan daitezkeela erakusten.",
+    pasabaresP4:
+      "Eskerrik asko lehen pasabarr honen parte izan zineten guztioi. Laster ikusiko gara berriro kapa azpian, gitarrak afinatuta eta abesti asko prest.",
+    santaPolaTitle: "Tuna Rosa Santa Polako Harrotasunean 2026",
+    santaPolaP1:
+      "2026ko maiatzaren 17an Tuna Rosaren historian betiko geratuko den eguna bizi izan genuen. Santa Polako Harrotasunean parte hartu genuen gure musika, gure kapak eta gure poza kaleetara eramanez, tradizioa ere aniztasun, errespetu eta elkarbizitzarako espazioa izan daitekeela erakutsiz.",
+    santaPolaP2:
+      "Une hunkigarrienetako bat Carla Martinez Garciarekin eguna partekatzea izan zen: Santa Polako jaietako Hirugarren Adineko Trans lehen Erregina, ikusgarritasunaren, ausardiaren eta inklusioaren ikurra. Bere presentziak esanahi berezia eman zion emanaldi honi.",
+    santaPolaP3:
+      "Emanaldi bakoitza aukera bat da tunaren musika publiko berrietara hurbiltzeko, oroitzapenak sortzeko eta herri-kultura bere sustraiak galdu gabe eboluzionatzen dela erakusteko.",
+    santaPolaP4:
+      "Eskerrik asko gurekin egon zineten eta Harrotasun hau ospakizun ahaztezina bihurtu zenuten guztioi. Gure musika partekatu, abestu eta aniztasuna ospatzeko gogoa dagoen tokietara eramaten jarraituko dugu.",
 
     heroTitle: "Ongi etorri Tuna Rosa LGTBIQA+ra",
     heroSubtitle: "Musika gune inklusiboa non denek tokia duten",
@@ -806,6 +903,30 @@ window.TUNA_TRANSLATIONS = {
     lenguas: "Linguas",
     calendario: "Calendario",
     unete: "Junta-te",
+    fotos: "Fotos",
+
+    heroHighlightCaption: "Inauguracao da Tuna Rosa",
+    fotosTitle: "Tuna Rosa na rua",
+    fotosIntro:
+      "Duas paragens-chave do nosso caminho: primeiro pasabares e Orgulho de Santa Pola.",
+    pasabaresTitle: "Primeiro pasabares da Tuna Rosa por Alicante",
+    pasabaresP1:
+      "No dia 16 de maio de 2026 celebramos o nosso primeiro pasabares pelas ruas de Alicante, um encontro muito especial que marcou um novo passo na historia da Tuna Rosa. Entre cancoes, risos e o carinho das pessoas que encontramos, percorremos varios estabelecimentos levando a essencia da tuna a moradores e visitantes.",
+    pasabaresP2:
+      "Queremos deixar um agradecimento especial ao Restaurante Matinar, cujo apoio e acolhimento foram fundamentais para esta jornada acontecer. Contar com pessoas e negocios que acreditam na cultura, na musica ao vivo e na diversidade permite que projetos como a Tuna Rosa continuem a crescer.",
+    pasabaresP3:
+      "Isto foi apenas o comeco. Vamos continuar por Alicante e muitos outros lugares com o objetivo de partilhar a nossa musica, manter viva a tradicao da tuna e mostrar que inclusao e cultura podem caminhar lado a lado.",
+    pasabaresP4:
+      "Obrigado a todas as pessoas que fizeram parte deste primeiro pasabares. Vemo-nos em breve sob as capas, com as guitarras afinadas e muitas cancoes para cantar.",
+    santaPolaTitle: "Tuna Rosa no Orgulho de Santa Pola 2026",
+    santaPolaP1:
+      "No dia 17 de maio de 2026 vivemos uma jornada que vai ficar para sempre na historia da Tuna Rosa. Participamos no Orgulho de Santa Pola levando a nossa musica, as nossas capas e a nossa alegria para as ruas, mostrando que a tradicao tambem pode ser um espaco de diversidade, respeito e convivencia.",
+    santaPolaP2:
+      "Um dos momentos mais emocionantes foi partilhar este dia com Carla Martinez Garcia, primeira Rainha da Terceira Idade Trans das festas de Santa Pola, simbolo de visibilidade, coragem e inclusao. A sua presenca deu um significado ainda mais especial a esta atuacao para toda a Tuna Rosa.",
+    santaPolaP3:
+      "Cada atuacao e uma oportunidade para aproximar a musica de tuna de novos publicos, criar memorias e mostrar que a cultura popular evolui sem perder as suas raizes.",
+    santaPolaP4:
+      "Obrigado a todas as pessoas que nos acompanharam e fizeram deste Orgulho uma celebracao inesquecivel. Vamos continuar a levar a nossa musica para onde houver vontade de partilhar, cantar e celebrar a diversidade.",
 
     heroTitle: "Bem-vind@s a Tuna Rosa LGTBIQA+",
     heroSubtitle: "Um espaco musical inclusivo onde tod@s cabem",
@@ -1001,6 +1122,30 @@ window.TUNA_TRANSLATIONS = {
     lenguas: "Langues",
     calendario: "Calendrier",
     unete: "Rejoins-nous",
+    fotos: "Photos",
+
+    heroHighlightCaption: "Inauguration de Tuna Rosa",
+    fotosTitle: "Tuna Rosa dans la rue",
+    fotosIntro:
+      "Deux etapes cle de notre parcours : premier pasabares et Pride de Santa Pola.",
+    pasabaresTitle: "Premier pasabares de Tuna Rosa a Alicante",
+    pasabaresP1:
+      "Le 16 mai 2026, nous avons celebre notre premier pasabares dans les rues d'Alicante, une date tres speciale qui a marque une nouvelle etape dans l'histoire de Tuna Rosa. Entre chansons, rires et l'affection des personnes rencontrees, nous avons parcouru differents etablissements en partageant l'essence de la tuna avec habitants et visiteurs.",
+    pasabaresP2:
+      "Nous voulons adresser un remerciement particulier au Restaurante Matinar, dont le soutien et l'accueil ont ete essentiels pour que cette journee puisse avoir lieu. Compter sur des personnes et des commerces qui croient en la culture, la musique live et la diversite permet a des projets comme Tuna Rosa de continuer a grandir.",
+    pasabaresP3:
+      "Ce n'etait que le debut. Nous continuerons a parcourir Alicante et bien d'autres lieux avec l'objectif de partager notre musique, maintenir vivante la tradition de la tuna et montrer que inclusion et culture peuvent avancer ensemble.",
+    pasabaresP4:
+      "Merci a toutes les personnes qui ont fait partie de ce premier pasabares. On se revoit tres vite sous les capes, avec les guitares accordees et beaucoup de chansons a chanter.",
+    santaPolaTitle: "Tuna Rosa a la Pride de Santa Pola 2026",
+    santaPolaP1:
+      "Le 17 mai 2026, nous avons vecu une journee qui restera a jamais dans l'histoire de Tuna Rosa. Nous avons participe a la Pride de Santa Pola en apportant notre musique, nos capes et notre joie dans les rues, prouvant que la tradition peut aussi etre un espace de diversite, de respect et de convivialite.",
+    santaPolaP2:
+      "Un des moments les plus emouvants a ete de partager cette journee avec Carla Martinez Garcia, premiere Reine Trans du Troisieme Age des fetes de Santa Pola, symbole de visibilite, de courage et d'inclusion. Sa presence a donne a cette prestation une signification encore plus forte pour toute Tuna Rosa.",
+    santaPolaP3:
+      "Chaque prestation est une occasion de rapprocher la musique de tuna de nouveaux publics, creer des souvenirs et montrer que la culture populaire evolue sans perdre ses racines.",
+    santaPolaP4:
+      "Merci a toutes les personnes qui nous ont accompagnes et ont fait de cette Pride une celebration inoubliable. Nous continuerons a porter notre musique partout ou il y aura envie de partager, chanter et celebrer la diversite.",
 
     heroTitle: "Bienvenue a la Tuna Rosa LGTBIQA+",
     heroSubtitle: "Un espace musical inclusif ou chacun a sa place",
@@ -1196,6 +1341,30 @@ window.TUNA_TRANSLATIONS = {
     lenguas: "Linguas",
     calendario: "Calendario",
     unete: "Únete",
+    fotos: "Fotos",
+
+    heroHighlightCaption: "Inauguración de Tuna Rosa",
+    fotosTitle: "Tuna Rosa na rúa",
+    fotosIntro:
+      "Dúas paradas clave no noso camiño: primeiro pasabares e Orgullo de Santa Pola.",
+    pasabaresTitle: "Primeiro Pasabares de Tuna Rosa por Alacante",
+    pasabaresP1:
+      "O 16 de maio de 2026 celebramos o noso primeiro pasabares polas rúas de Alacante, unha cita moi especial que supuxo un novo paso na historia de Tuna Rosa. Entre cancións, risas e o cariño de quen atopamos no camiño, percorremos distintos locais levando a esencia da tuna a veciñanza e visitantes.",
+    pasabaresP2:
+      "Queremos expresar un agradecemento moi especial a Restaurante Matinar, cuxo apoio e acollida foron fundamentais para que esta xornada se puidese celebrar. Contar con persoas e negocios que cren na cultura, na música en directo e na diversidade fai posible que proxectos como Tuna Rosa sigan medrando.",
+    pasabaresP3:
+      "Este foi só o comezo. Continuaremos percorrendo Alacante e moitos outros lugares co obxectivo de compartir a nosa música, manter viva a tradición da tuna e demostrar que inclusión e cultura poden camiñar da man.",
+    pasabaresP4:
+      "Grazas a todas as persoas que formastes parte deste primeiro pasabares. Vémonos moi pronto baixo as capas, coas guitarras afinadas e moitas cancións por cantar.",
+    santaPolaTitle: "Tuna Rosa no Orgullo de Santa Pola 2026",
+    santaPolaP1:
+      "O 17 de maio de 2026 vivimos unha xornada que quedará para sempre na historia de Tuna Rosa. Participamos no Orgullo de Santa Pola levando a nosa música, as nosas capas e a nosa alegría ás rúas, demostrando que a tradición tamén pode ser un espazo de diversidade, respecto e convivencia.",
+    santaPolaP2:
+      "Un dos momentos máis emotivos foi compartir este día con Carla Martinez Garcia, primeira Raíña da Terceira Idade Trans das festas de Santa Pola, un símbolo de visibilidade, valentía e inclusión. A súa presenza fixo que esta actuación tivese un significado aínda máis especial para toda Tuna Rosa.",
+    santaPolaP3:
+      "Cada actuación é unha oportunidade para achegar a música de tuna a novos públicos, crear lembranzas e demostrar que a cultura popular evoluciona sen perder as súas raíces.",
+    santaPolaP4:
+      "Grazas a todas as persoas que nos acompañastes e fixestes deste Orgullo unha celebración inesquecible. Seguiremos levando a nosa música alí onde haxa ganas de compartir, cantar e celebrar a diversidade.",
 
     // Hero
     heroTitle: "Benvid@s a Tuna Rosa LGTBIQA+",
