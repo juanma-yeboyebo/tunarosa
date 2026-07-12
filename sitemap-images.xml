@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+  <url>
+    <loc>https://tunarosa.es/</loc>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/logo.png</image:loc>
+      <image:title>Logo Tuna Rosa LGTBIQA+</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/inauguracion.jpg</image:loc>
+      <image:title>Tuna Rosa en su inauguracion</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/inauguracion2.jpg</image:loc>
+      <image:title>Primer pasabares de Tuna Rosa en Alicante</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/inauguracion3.jpg</image:loc>
+      <image:title>Musica en directo de Tuna Rosa</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/inauguracion4.jpg</image:loc>
+      <image:title>Ambiente del pasabares de Tuna Rosa</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/santapola.jpg</image:loc>
+      <image:title>Tuna Rosa en el Orgullo de Santa Pola</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/santapola1.jpg</image:loc>
+      <image:title>Foto de grupo de Tuna Rosa en Santa Pola</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/santapola2.jpg</image:loc>
+      <image:title>Actuacion de Tuna Rosa en Santa Pola</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/santapola3.jpg</image:loc>
+      <image:title>Celebracion de Tuna Rosa en Santa Pola</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://tunarosa.es/pages/contacto.html</loc>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/1767695303227.jpg</image:loc>
+      <image:title>Escudo Tuna Rosa LGTBIQA+</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/1767695303243.jpg</image:loc>
+      <image:title>Bandera LGTBIQAI</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://tunarosa.es/</loc>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/instruments/pandereta.jpg</image:loc>
+      <image:title>Pandereta de tuna</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/instruments/ukelele.jpg</image:loc>
+      <image:title>Ukelele en Tuna Rosa</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/instruments/cuatro-venezolano.jpg</image:loc>
+      <image:title>Cuatro venezolano</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/instruments/bandurria.jpg</image:loc>
+      <image:title>Bandurria tradicional</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/instruments/requinto.jpg</image:loc>
+      <image:title>Requinto</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/instruments/cuatro-boliviano.jpg</image:loc>
+      <image:title>Cuatro boliviano</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/instruments/guitarra.jpg</image:loc>
+      <image:title>Guitarra de tuna</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/instruments/laud.jpg</image:loc>
+      <image:title>Laud</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -4,6 +4,7 @@ Disallow: /admin/
 
 # Especificar el sitemap
 Sitemap: https://tunarosa.es/sitemap.xml
+Sitemap: https://tunarosa.es/sitemap-images.xml
 
 # Delay opcional para bots agresivos
 Crawl-delay: 1

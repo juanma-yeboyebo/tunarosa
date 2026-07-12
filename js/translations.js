@@ -160,6 +160,25 @@ window.TUNA_TRANSLATIONS = {
     navLenguas: "Lenguas",
     navCalendario: "Calendario",
     navUnete: "Únete",
+    navVideos: "Videos",
+
+    homeVideosTitle: "Canal de YouTube y actuaciones",
+    homeVideosText:
+      "Publicamos vídeos de actuaciones, incluyendo Orgullo Totana y otros eventos. Entra en la página de vídeos para verlos y suscribirte al canal oficial de Tuna Rosa.",
+    homeVideosBtn: "Ver vídeos y canal de YouTube",
+    uneteYoutubeBtn: "Visitar canal de YouTube",
+
+    youtubePageTitle: "Canal de YouTube y actuaciones destacadas",
+    youtubePageIntro:
+      "Esta página reúne nuestros vídeos más recientes y especiales, como la actuación en Orgullo Totana. Si te gusta lo que hacemos, suscríbete al canal oficial para no perderte nuevos contenidos.",
+    youtubeChannelBtn: "Ir al canal de YouTube",
+    youtubeVideo1Title: "Orgullo Totana - Video 1",
+    youtubeVideo1Desc:
+      "Actuación de Tuna Rosa en Orgullo Totana. Música en directo, diversidad y celebración en comunidad.",
+    youtubeVideo2Title: "Orgullo Totana - Video 2",
+    youtubeVideo2Desc:
+      "Segundo vídeo de la jornada en Orgullo Totana, con más momentos de la actuación y del ambiente del evento.",
+    watchOnYoutube: "Ver en YouTube",
 
     // Página contacto/unirse
     joinPageTitle: "Cómo Unirse a Tuna Rosa",
@@ -383,6 +402,25 @@ window.TUNA_TRANSLATIONS = {
     navLenguas: "Languages",
     navCalendario: "Calendar",
     navUnete: "Join",
+    navVideos: "Videos",
+
+    homeVideosTitle: "YouTube channel and performances",
+    homeVideosText:
+      "We publish performance videos, including Totana Pride and other events. Visit the videos page to watch them and subscribe to Tuna Rosa's official channel.",
+    homeVideosBtn: "Watch videos and YouTube channel",
+    uneteYoutubeBtn: "Visit YouTube channel",
+
+    youtubePageTitle: "YouTube channel and featured performances",
+    youtubePageIntro:
+      "This page gathers our most recent and special videos, including our Totana Pride performance. If you like what we do, subscribe to the official channel so you don't miss new content.",
+    youtubeChannelBtn: "Go to YouTube channel",
+    youtubeVideo1Title: "Totana Pride - Video 1",
+    youtubeVideo1Desc:
+      "Tuna Rosa performance at Totana Pride. Live music, diversity and celebration in community.",
+    youtubeVideo2Title: "Totana Pride - Video 2",
+    youtubeVideo2Desc:
+      "Second video of the Totana Pride day, with more moments from the performance and event atmosphere.",
+    watchOnYoutube: "Watch on YouTube",
 
     joinPageTitle: "How to Join Tuna Rosa",
     joinIntro:
@@ -602,6 +640,25 @@ window.TUNA_TRANSLATIONS = {
     navLenguas: "Llengües",
     navCalendario: "Calendari",
     navUnete: "Uneix-te",
+    navVideos: "Videos",
+
+    homeVideosTitle: "Canal de YouTube i actuacions",
+    homeVideosText:
+      "Publiquem vídeos d'actuacions, incloent Orgull Totana i altres esdeveniments. Entra a la pàgina de vídeos per veure'ls i subscriure't al canal oficial de Tuna Rosa.",
+    homeVideosBtn: "Veure vídeos i canal de YouTube",
+    uneteYoutubeBtn: "Visitar canal de YouTube",
+
+    youtubePageTitle: "Canal de YouTube i actuacions destacades",
+    youtubePageIntro:
+      "Aquesta pàgina reuneix els nostres vídeos més recents i especials, com l'actuació a Orgull Totana. Si t'agrada el que fem, subscriu-te al canal oficial per no perdre't nous continguts.",
+    youtubeChannelBtn: "Anar al canal de YouTube",
+    youtubeVideo1Title: "Orgull Totana - Video 1",
+    youtubeVideo1Desc:
+      "Actuació de Tuna Rosa a Orgull Totana. Música en directe, diversitat i celebració en comunitat.",
+    youtubeVideo2Title: "Orgull Totana - Video 2",
+    youtubeVideo2Desc:
+      "Segon vídeo de la jornada a Orgull Totana, amb més moments de l'actuació i de l'ambient de l'esdeveniment.",
+    watchOnYoutube: "Veure a YouTube",
 
     joinPageTitle: "Com unir-se a la Tuna Rosa",
     joinIntro:
@@ -821,6 +878,25 @@ window.TUNA_TRANSLATIONS = {
     navLenguas: "Hizkuntzak",
     navCalendario: "Egutegia",
     navUnete: "Batu",
+    navVideos: "Bideoak",
+
+    homeVideosTitle: "YouTube kanala eta emanaldiak",
+    homeVideosText:
+      "Gure emanaldien bideoak argitaratzen ditugu, Totana Harrotasuna eta beste ekitaldi batzuk barne. Sartu bideoen orrian ikusteko eta Tuna Rosaren kanal ofizialera harpidetzeko.",
+    homeVideosBtn: "Ikusi bideoak eta YouTube kanala",
+    uneteYoutubeBtn: "YouTube kanala bisitatu",
+
+    youtubePageTitle: "YouTube kanala eta emanaldi nabarmenak",
+    youtubePageIntro:
+      "Orri honek gure bideo berrienak eta berezienak biltzen ditu, Totana Harrotasuneko emanaldia barne. Gustatzen bazaizu egiten duguna, harpidetu kanal ofizialera eduki berriak ez galtzeko.",
+    youtubeChannelBtn: "Joan YouTube kanalera",
+    youtubeVideo1Title: "Totana Harrotasuna - 1. bideoa",
+    youtubeVideo1Desc:
+      "Tuna Rosaren emanaldia Totana Harrotasunean. Zuzeneko musika, aniztasuna eta komunitate ospakizuna.",
+    youtubeVideo2Title: "Totana Harrotasuna - 2. bideoa",
+    youtubeVideo2Desc:
+      "Totana Harrotasuneko eguneko bigarren bideoa, emanaldiaren eta giroaren une gehiagorekin.",
+    watchOnYoutube: "Ikusi YouTuben",
 
     joinPageTitle: "Nola batu Tuna Rosara",
     joinIntro:
@@ -1041,6 +1117,25 @@ window.TUNA_TRANSLATIONS = {
     navLenguas: "Linguas",
     navCalendario: "Calendario",
     navUnete: "Junta-te",
+    navVideos: "Videos",
+
+    homeVideosTitle: "Canal de YouTube e atuacoes",
+    homeVideosText:
+      "Publicamos videos de atuacoes, incluindo Orgulho Totana e outros eventos. Entra na pagina de videos para os ver e subscrever o canal oficial da Tuna Rosa.",
+    homeVideosBtn: "Ver videos e canal de YouTube",
+    uneteYoutubeBtn: "Visitar canal de YouTube",
+
+    youtubePageTitle: "Canal de YouTube e atuacoes em destaque",
+    youtubePageIntro:
+      "Esta pagina reune os nossos videos mais recentes e especiais, como a atuacao no Orgulho Totana. Se gostas do que fazemos, subscreve o canal oficial para nao perder novos conteudos.",
+    youtubeChannelBtn: "Ir para o canal de YouTube",
+    youtubeVideo1Title: "Orgulho Totana - Video 1",
+    youtubeVideo1Desc:
+      "Atuacao da Tuna Rosa no Orgulho Totana. Musica ao vivo, diversidade e celebracao em comunidade.",
+    youtubeVideo2Title: "Orgulho Totana - Video 2",
+    youtubeVideo2Desc:
+      "Segundo video do dia no Orgulho Totana, com mais momentos da atuacao e do ambiente do evento.",
+    watchOnYoutube: "Ver no YouTube",
 
     joinPageTitle: "Como juntar-se a Tuna Rosa",
     joinIntro:
@@ -1260,6 +1355,25 @@ window.TUNA_TRANSLATIONS = {
     navLenguas: "Langues",
     navCalendario: "Calendrier",
     navUnete: "Rejoins-nous",
+    navVideos: "Videos",
+
+    homeVideosTitle: "Chaine YouTube et concerts",
+    homeVideosText:
+      "Nous publions des videos de concerts, y compris Fierte Totana et d'autres evenements. Va sur la page videos pour les regarder et t'abonner a la chaine officielle de Tuna Rosa.",
+    homeVideosBtn: "Voir les videos et la chaine YouTube",
+    uneteYoutubeBtn: "Visiter la chaine YouTube",
+
+    youtubePageTitle: "Chaine YouTube et concerts a la une",
+    youtubePageIntro:
+      "Cette page rassemble nos videos les plus recentes et speciales, dont notre concert a Fierte Totana. Si tu aimes ce que nous faisons, abonne-toi a la chaine officielle pour ne rien manquer.",
+    youtubeChannelBtn: "Aller a la chaine YouTube",
+    youtubeVideo1Title: "Fierte Totana - Video 1",
+    youtubeVideo1Desc:
+      "Concert de Tuna Rosa a Fierte Totana. Musique live, diversite et celebration en communaute.",
+    youtubeVideo2Title: "Fierte Totana - Video 2",
+    youtubeVideo2Desc:
+      "Deuxieme video de la journee a Fierte Totana, avec plus de moments du concert et de l'ambiance de l'evenement.",
+    watchOnYoutube: "Voir sur YouTube",
 
     joinPageTitle: "Comment rejoindre la Tuna Rosa",
     joinIntro:
@@ -1489,6 +1603,25 @@ window.TUNA_TRANSLATIONS = {
     navLenguas: "Linguas",
     navCalendario: "Calendario",
     navUnete: "Únete",
+    navVideos: "Videos",
+
+    homeVideosTitle: "Canle de YouTube e actuacións",
+    homeVideosText:
+      "Publicamos vídeos de actuacións, incluíndo Orgullo Totana e outros eventos. Entra na páxina de vídeos para velos e subscribirte á canle oficial de Tuna Rosa.",
+    homeVideosBtn: "Ver vídeos e canle de YouTube",
+    uneteYoutubeBtn: "Visitar canle de YouTube",
+
+    youtubePageTitle: "Canle de YouTube e actuacións destacadas",
+    youtubePageIntro:
+      "Esta páxina reúne os nosos vídeos máis recentes e especiais, como a actuación en Orgullo Totana. Se che gusta o que facemos, subscríbete á canle oficial para non perder novos contidos.",
+    youtubeChannelBtn: "Ir á canle de YouTube",
+    youtubeVideo1Title: "Orgullo Totana - Video 1",
+    youtubeVideo1Desc:
+      "Actuación de Tuna Rosa en Orgullo Totana. Música en directo, diversidade e celebración en comunidade.",
+    youtubeVideo2Title: "Orgullo Totana - Video 2",
+    youtubeVideo2Desc:
+      "Segundo vídeo da xornada en Orgullo Totana, con máis momentos da actuación e do ambiente do evento.",
+    watchOnYoutube: "Ver en YouTube",
 
     // Página contacto/unirse
     joinPageTitle: "Cómo Unirse a Tuna Rosa",
