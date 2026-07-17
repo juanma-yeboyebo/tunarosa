@@ -87,6 +87,75 @@
   </url>
 
   <url>
+    <loc>https://tunarosa.es/pages/tuna-murcia.html</loc>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/TunaRosa-totana-escenario.jpg</image:loc>
+      <image:title>Tuna Rosa en el escenario de Totana</image:title>
+      <image:caption>Actuacion de Tuna Rosa en el escenario del Orgullo de Totana</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/totana2.jpg</image:loc>
+      <image:title>Tuna Rosa en Totana junto al publico</image:title>
+      <image:caption>Ambiente del Orgullo de Totana con Tuna Rosa</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/totana3.jpg</image:loc>
+      <image:title>Manifestacion del Orgullo de Totana</image:title>
+      <image:caption>Marcha reivindicativa del Orgullo en Totana</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/TunaRosa-Totana-pruebasonido.jpg</image:loc>
+      <image:title>Prueba de sonido de Tuna Rosa en Totana</image:title>
+      <image:caption>Preparacion tecnica de Tuna Rosa antes de la actuacion</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://tunarosa.es/pages/tuna-valencia.html</loc>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/santapola.jpg</image:loc>
+      <image:title>Tuna Rosa para actuaciones en Valencia</image:title>
+      <image:caption>Imagen representativa de Tuna Rosa para su pagina de actuaciones en Valencia</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://tunarosa.es/pages/tuna-lgtbi-alicante.html</loc>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/inauguracion.jpg</image:loc>
+      <image:title>Tuna LGTBI en Alicante - Tuna Rosa</image:title>
+      <image:caption>Imagen principal de Tuna Rosa para su pagina LGTBI en Alicante</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://tunarosa.es/pages/tuna-lgtbi-espana.html</loc>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/santapola2.jpg</image:loc>
+      <image:title>Tuna LGTBI en Espana - Tuna Rosa</image:title>
+      <image:caption>Actuacion de Tuna Rosa como propuesta de musica inclusiva para toda Espana</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://tunarosa.es/pages/video-orgullo-totana-1.html</loc>
+    <image:image>
+      <image:loc>https://i.ytimg.com/vi/_BmRQRoI9h4/hqdefault.jpg</image:loc>
+      <image:title>Video 1 Orgullo Totana - Tuna Rosa</image:title>
+      <image:caption>Miniatura oficial del Video 1 de Tuna Rosa en Orgullo Totana</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://tunarosa.es/pages/video-orgullo-totana-2.html</loc>
+    <image:image>
+      <image:loc>https://i.ytimg.com/vi/SpSJlA6TMNY/hqdefault.jpg</image:loc>
+      <image:title>Video 2 Orgullo Totana - Tuna Rosa</image:title>
+      <image:caption>Miniatura oficial del Video 2 de Tuna Rosa en Orgullo Totana</image:caption>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://tunarosa.es/</loc>
     <image:image>
       <image:loc>https://tunarosa.es/images/instruments/pandereta.jpg</image:loc>

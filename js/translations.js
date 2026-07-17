@@ -35,6 +35,12 @@ window.TUNA_TRANSLATIONS = {
       "Cada actuación es una oportunidad para acercar la música de tuna a nuevos públicos, crear recuerdos y demostrar que la cultura popular evoluciona sin perder sus raíces.",
     santaPolaP4:
       "Gracias a todas las personas que nos acompañasteis e hicisteis de este Orgullo una celebración inolvidable. Seguiremos llevando nuestra música allí donde haya ganas de compartir, cantar y celebrar la diversidad.",
+    totanaTitle: "Tuna Rosa en el Orgullo de Totana 2026",
+    totanaP1:
+      "El 5 de julio de 2026 participamos en el primer Orgullo de Totana, una movilización histórica con una respuesta ciudadana masiva.",
+    totanaP2:
+      "Tuna Rosa estuvo presente en la calle y en el escenario, aportando música, visibilidad y una defensa clara de la diversidad.",
+    totanaMoreLink: "Crónica completa de Totana en Murcia",
 
     // Hero
     heroTitle: "Bienvenidos/as/es a la Tuna Rosa LGTBIQA+",
@@ -163,6 +169,16 @@ window.TUNA_TRANSLATIONS = {
     navVideos: "Videos",
 
     homeVideosTitle: "Canal de YouTube y actuaciones",
+    homeMetaTitle: "Tuna Rosa | Agrupación musical LGTBIQA+ en Alicante",
+    homeMetaDescription:
+      "Tuna Rosa LGTBIQA+: tuna inclusiva en Alicante y en toda España. Música en la calle, tradición, diversidad y actuaciones en eventos LGTBIQA+.",
+    homeOgTitle: "Tuna Rosa LGTBIQA+ en Alicante - Música Inclusiva y Diversa",
+    homeOgDescription:
+      "Agrupación musical Tuna Rosa LGTBIQA+ en Alicante y toda España. Actuaciones, pasabares y eventos con diversidad, visibilidad y música en directo.",
+    homeOgImageAlt: "Tuna Rosa actuando en un evento en Alicante",
+    homeTwitterTitle: "Tuna Rosa LGTBIQA+ en Alicante",
+    homeTwitterDescription:
+      "Agrupación musical Tuna Rosa en Alicante y en toda España. Únete a nuestra comunidad musical.",
     homeVideosText:
       "Publicamos vídeos de actuaciones, incluyendo Orgullo Totana y otros eventos. Entra en la página de vídeos para verlos y suscribirte al canal oficial de Tuna Rosa.",
     homeVideosBtn: "Ver vídeos y canal de YouTube",
@@ -179,6 +195,88 @@ window.TUNA_TRANSLATIONS = {
     youtubeVideo2Desc:
       "Segundo vídeo de la jornada en Orgullo Totana, con más momentos de la actuación y del ambiente del evento.",
     watchOnYoutube: "Ver en YouTube",
+    videosHubNote:
+      "Esta página funciona como índice. Cada vídeo también dispone de su propia página de visualización para mejorar cobertura SEO.",
+    videoPageLinkLabel: "Ver página individual del video",
+    videosMetaTitle:
+      "Videos de Tuna Rosa en YouTube | Actuaciones y canal oficial",
+    videosMetaDescription:
+      "Mira los videos de Tuna Rosa, agrupación musical LGTBIQA+ en Alicante, en YouTube. Actuaciones como Orgullo Totana y acceso directo al canal oficial para suscribirte.",
+    videosOgTitle: "Videos de Tuna Rosa en YouTube | Canal oficial",
+    videosOgDescription:
+      "Descubre actuaciones de Tuna Rosa, agrupación musical LGTBIQA+, en YouTube, incluyendo Orgullo Totana, y suscríbete al canal oficial.",
+    videosOgImageAlt: "Actuación de Tuna Rosa en un evento del Orgullo",
+    videosTwitterTitle: "Videos de Tuna Rosa en YouTube | Canal oficial",
+    videosTwitterDescription:
+      "Actuaciones de Tuna Rosa, agrupación musical LGTBIQA+, y acceso directo al canal oficial en YouTube.",
+    murciaPageTitle: "Tuna Rosa en Murcia",
+    murciaMetaTitle: "Tuna en Murcia | Tuna Rosa en el Orgullo de Totana",
+    murciaMetaDescription:
+      "Crónica de Tuna Rosa en el Orgullo de Totana (Murcia): actuación, movilización ciudadana y galería de fotos del evento.",
+    murciaOgTitle: "Tuna en Murcia | Tuna Rosa",
+    murciaOgDescription:
+      "Crónica de Tuna Rosa en el Orgullo de Totana (Murcia), con imágenes, contexto y resumen de la actuación.",
+    murciaPageIntro:
+      "Estamos reforzando nuestra presencia musical en Murcia con actuaciones, encuentros y nuevas colaboraciones.",
+    murciaTotanaReserveTitle:
+      "Totana no se rinde: Orgullo, música y resistencia",
+    murciaTotanaReserveText:
+      "Esta sección queda preparada para publicar fotos, crónica y detalles de nuestra participación en el Orgullo de Totana (Murcia).",
+    murciaTotanaReserveItem1: "Galería de fotos oficial del evento",
+    murciaTotanaReserveItem2: "Resumen de la actuación y repertorio",
+    murciaTotanaReserveItem3: "Agradecimientos y próximos pasos en Murcia",
+    murciaTotanaReserveNote:
+      "En cuanto nos pases el material, lo dejamos publicado en este mismo bloque.",
+    murciaVideosBtn: "Ver videos y actuaciones",
+    galleryPrev: "Anterior",
+    galleryNext: "Siguiente",
+    youtubeChannelAria: "Canal de YouTube Tuna Rosa",
+    murciaAltScenario: "Tuna Rosa sobre el escenario del Orgullo de Totana",
+    murciaAltTotana2: "Participación de Tuna Rosa en el Orgullo de Totana",
+    murciaAltTotana3: "Ambiente de la movilización del Orgullo de Totana",
+    murciaAltSoundcheck: "Prueba de sonido de Tuna Rosa en Totana",
+    murciaStoryLeadTitle:
+      "Totana no se rinde: un grito de orgullo que retumbó en toda España",
+    murciaStoryLeadText:
+      "El 5 de julio de 2026, Totana vivió una jornada histórica. Frente a los intentos de invisibilizar al colectivo LGTBIQA+, la respuesta ciudadana fue masiva: el primer Orgullo de la historia de Totana reunió a miles de personas en defensa de la diversidad. Y Tuna Rosa estuvo allí, llevando música, presencia y compromiso.",
+    murciaStoryMassiveTitle: "La respuesta fue masiva",
+    murciaStoryMassiveText:
+      "Entre 1.200 y 1.500 personas llenaron las calles, con asistencia de vecinos de Totana, gente de la Región de Murcia y participantes llegados desde otras comunidades. La marcha arrancó a las 19:00 en el Centro Sociocultural La Cárcel y tuvo un enfoque inclusivo, con un primer tramo sin megafonía para cuidar a personas con sensibilidad acústica.",
+    murciaStoryResistanceTitle: "Tuna Rosa: orgullo y resistencia cultural",
+    murciaStoryResistanceText:
+      "En el tramo más festivo de la movilización, Tuna Rosa se sumó con fuerza. Cada canción fue una forma de reivindicar visibilidad, dignidad y comunidad. Nuestra presencia en Totana fue un acto de resistencia cultural y una afirmación clara: la diversidad no se esconde ni se negocia.",
+    murciaStorySpainTitle: "Toda España es totanera",
+    murciaStorySpainText:
+      "Al llegar a la Plaza del Ayuntamiento, la lectura del manifiesto y el clamor de la gente convirtieron la jornada en un mensaje que trascendió lo local. El cierre en el Auditorio Marcos Ortiz, con artistas actuando de forma solidaria, reforzó una idea compartida: la cultura también es una herramienta de defensa de derechos.",
+    murciaStoryWallTitle: "Un muro de contención",
+    murciaStoryWallText:
+      "Este Orgullo se planteó como un muro de contención frente al odio, y Tuna Rosa formó parte de ese muro. Subir al escenario de Totana fue plantarnos con la música por delante y recordar que la diversidad no es una concesión: es un derecho.",
+    murciaStoryClosing:
+      "Totana no se rinde. Tuna Rosa estuvo allí para demostrarlo.",
+    alicanteMetaTitle: "Tuna en Alicante | Tuna Rosa LGTBIQA+",
+    alicanteMetaDescription:
+      "Tuna Rosa en Alicante: agrupación musical de tuna con actuaciones en la calle, pasabares y eventos en barrios y espacios de Alicante.",
+    alicanteOgTitle: "Tuna en Alicante | Tuna Rosa",
+    alicanteOgDescription:
+      "Conoce la actividad de Tuna Rosa en Alicante: actuaciones, pasabares y presencia musical en distintos espacios de la ciudad.",
+    alicantePageTitle: "Tuna en Alicante: Tuna Rosa LGTBIQA+",
+    alicantePageIntro:
+      "Tuna Rosa desarrolla su actividad musical en Alicante, con actuaciones en la calle, pasabares y encuentros culturales en distintos puntos de la ciudad.",
+    alicanteEventTitle: "Primer Pasabares de Tuna Rosa por Alicante",
+    alicanteEventAlt: "Primer pasabares de Tuna Rosa por Alicante",
+    alicanteEventP1:
+      "El 16 de mayo de 2026 celebramos nuestro primer pasabares por las calles de Alicante, compartiendo música en directo con vecinos y visitantes.",
+    alicanteEventP2:
+      "Esta jornada supuso un paso clave para consolidar a Tuna Rosa como una tuna activa en Alicante, conectada con sus barrios, su gente y sus espacios culturales.",
+    alicantePhotosBtn: "Ver fotos y eventos",
+    alicanteBackHome: "Volver a Inicio",
+    contactMetaTitle:
+      "Cómo Unirse a Tuna Rosa LGTBIQA+ - Membresía y Requisitos",
+    contactMetaDescription:
+      "Cómo unirse a Tuna Rosa LGTBIQA+ desde cualquier lugar. Información sobre membresía, contacto y participación en una comunidad inclusiva y diversa.",
+    contactOgTitle: "Cómo Unirse a Tuna Rosa LGTBIQA+",
+    contactOgDescription:
+      "Descubre cómo formar parte de Tuna Rosa. Membresía gratuita y comunidad inclusiva.",
 
     // Página contacto/unirse
     joinPageTitle: "Cómo Unirse a Tuna Rosa",
@@ -292,6 +390,12 @@ window.TUNA_TRANSLATIONS = {
       "Every performance is an opportunity to bring tuna music to new audiences, create memories and show that popular culture can evolve without losing its roots.",
     santaPolaP4:
       "Thank you to everyone who joined us and made this Pride celebration unforgettable. We will keep bringing our music wherever people want to share, sing and celebrate diversity.",
+    totanaTitle: "Tuna Rosa at Totana Pride 2026",
+    totanaP1:
+      "On July 5, 2026, we took part in the first Totana Pride, a historic mobilization with a massive civic response.",
+    totanaP2:
+      "Tuna Rosa was present in the streets and on stage, bringing music, visibility and a clear defense of diversity.",
+    totanaMoreLink: "Full Totana chronicle in Murcia",
 
     heroTitle: "Welcome to Tuna Rosa LGTBIQA+",
     heroSubtitle: "An inclusive musical space where everyone has a place",
@@ -410,6 +514,16 @@ window.TUNA_TRANSLATIONS = {
     navVideos: "Videos",
 
     homeVideosTitle: "YouTube channel and performances",
+    homeMetaTitle: "Tuna Rosa | LGTBIQA+ music group in Alicante",
+    homeMetaDescription:
+      "Tuna Rosa LGTBIQA+: an inclusive tuna group in Alicante and across Spain. Street music, tradition, diversity, and performances at LGTBIQA+ events.",
+    homeOgTitle: "Tuna Rosa LGTBIQA+ in Alicante - Inclusive and diverse music",
+    homeOgDescription:
+      "Tuna Rosa LGTBIQA+ music group in Alicante and across Spain. Performances, pub crawls, and events with diversity, visibility, and live music.",
+    homeOgImageAlt: "Tuna Rosa performing at an event in Alicante",
+    homeTwitterTitle: "Tuna Rosa LGTBIQA+ in Alicante",
+    homeTwitterDescription:
+      "Tuna Rosa music group in Alicante and across Spain. Join our musical community.",
     homeVideosText:
       "We publish performance videos, including Totana Pride and other events. Visit the videos page to watch them and subscribe to Tuna Rosa's official channel.",
     homeVideosBtn: "Watch videos and YouTube channel",
@@ -426,6 +540,81 @@ window.TUNA_TRANSLATIONS = {
     youtubeVideo2Desc:
       "Second video of the Totana Pride day, with more moments from the performance and event atmosphere.",
     watchOnYoutube: "Watch on YouTube",
+    videosHubNote:
+      "This page works as an index. Each video also has its own viewing page to improve SEO coverage.",
+    videoPageLinkLabel: "Open individual video page",
+    videosMetaTitle:
+      "Tuna Rosa videos on YouTube | Performances and official channel",
+    videosMetaDescription:
+      "Watch Tuna Rosa videos, an LGTBIQA+ music group in Alicante, on YouTube. Performances like Totana Pride and direct access to the official channel.",
+    videosOgTitle: "Tuna Rosa videos on YouTube | Official channel",
+    videosOgDescription:
+      "Discover Tuna Rosa performances on YouTube, including Totana Pride, and subscribe to the official channel.",
+    videosOgImageAlt: "Tuna Rosa performance at a Pride event",
+    videosTwitterTitle: "Tuna Rosa videos on YouTube | Official channel",
+    videosTwitterDescription:
+      "Tuna Rosa performances and direct access to the official YouTube channel.",
+    murciaPageTitle: "Tuna Rosa in Murcia",
+    murciaMetaTitle: "Tuna in Murcia | Tuna Rosa at Totana Pride",
+    murciaMetaDescription:
+      "Chronicle of Tuna Rosa at Totana Pride (Murcia): performance, public mobilization, and event photo gallery.",
+    murciaOgTitle: "Tuna in Murcia | Tuna Rosa",
+    murciaOgDescription:
+      "Chronicle of Tuna Rosa at Totana Pride (Murcia), with images, context, and performance summary.",
+    murciaPageIntro:
+      "We are strengthening our musical presence in Murcia with performances, meetings and new collaborations.",
+    murciaTotanaReserveTitle:
+      "Totana does not give up: Pride, music and resistance",
+    murciaVideosBtn: "Watch videos and performances",
+    galleryPrev: "Previous",
+    galleryNext: "Next",
+    youtubeChannelAria: "Tuna Rosa YouTube channel",
+    murciaAltScenario: "Tuna Rosa on the Totana Pride stage",
+    murciaAltTotana2: "Tuna Rosa taking part in Totana Pride",
+    murciaAltTotana3: "Atmosphere of the Totana Pride mobilization",
+    murciaAltSoundcheck: "Tuna Rosa soundcheck in Totana",
+    murciaStoryLeadTitle:
+      "Totana does not give up: a cry of pride heard across Spain",
+    murciaStoryLeadText:
+      "On July 5, 2026, Totana lived a historic day. Faced with attempts to erase the LGTBIQA+ community, the public response was massive: the first Pride in Totana's history brought together thousands of people in defense of diversity. Tuna Rosa was there, bringing music, presence, and commitment.",
+    murciaStoryMassiveTitle: "The response was massive",
+    murciaStoryMassiveText:
+      "Between 1,200 and 1,500 people filled the streets, including Totana residents, people from the Region of Murcia, and participants from other areas. The march started at 19:00 at La Carcel Sociocultural Center and included an inclusive approach, with a first section without loudspeakers to support people with sound sensitivity.",
+    murciaStoryResistanceTitle: "Tuna Rosa: pride and cultural resistance",
+    murciaStoryResistanceText:
+      "In the most festive part of the mobilization, Tuna Rosa joined in with strength. Every song became a way to claim visibility, dignity, and community. Our presence in Totana was an act of cultural resistance and a clear statement: diversity does not hide and is not negotiable.",
+    murciaStorySpainTitle: "All Spain stood with Totana",
+    murciaStorySpainText:
+      "At the Town Hall Square, the manifesto reading and the crowd's voice turned the day into a message that went beyond the local level. The closing event at Marcos Ortiz Auditorium, with artists performing in solidarity, reinforced a shared idea: culture is also a tool to defend rights.",
+    murciaStoryWallTitle: "A wall of resistance",
+    murciaStoryWallText:
+      "This Pride became a wall of resistance against hate, and Tuna Rosa was part of that wall. Going on stage in Totana meant standing firm with music in front and remembering that diversity is not a concession: it is a right.",
+    murciaStoryClosing:
+      "Totana does not give up. Tuna Rosa was there to prove it.",
+    alicanteMetaTitle: "Tuna in Alicante | Tuna Rosa LGTBIQA+",
+    alicanteMetaDescription:
+      "Tuna Rosa in Alicante: a tuna music group with street performances, pub crawls, and events across Alicante neighborhoods and venues.",
+    alicanteOgTitle: "Tuna in Alicante | Tuna Rosa",
+    alicanteOgDescription:
+      "Learn about Tuna Rosa's activity in Alicante: performances, pub crawls, and musical presence across the city.",
+    alicantePageTitle: "Tuna in Alicante: Tuna Rosa LGTBIQA+",
+    alicantePageIntro:
+      "Tuna Rosa develops its musical activity in Alicante, with street performances, pub crawls, and cultural gatherings across the city.",
+    alicanteEventTitle: "Tuna Rosa's first pub crawl in Alicante",
+    alicanteEventAlt: "Tuna Rosa's first pub crawl in Alicante",
+    alicanteEventP1:
+      "On May 16, 2026, we held our first pub crawl through Alicante streets, sharing live music with locals and visitors.",
+    alicanteEventP2:
+      "This day was a key step to consolidate Tuna Rosa as an active tuna group in Alicante, connected to its neighborhoods, people, and cultural spaces.",
+    alicantePhotosBtn: "See photos and events",
+    alicanteBackHome: "Back to Home",
+    contactMetaTitle:
+      "How to Join Tuna Rosa LGTBIQA+ - Membership and requirements",
+    contactMetaDescription:
+      "How to join Tuna Rosa LGTBIQA+ from anywhere. Information on membership, contact, and participation in an inclusive and diverse community.",
+    contactOgTitle: "How to Join Tuna Rosa LGTBIQA+",
+    contactOgDescription:
+      "Discover how to become part of Tuna Rosa. Free membership and an inclusive community.",
 
     joinPageTitle: "How to Join Tuna Rosa",
     joinIntro:
@@ -536,6 +725,12 @@ window.TUNA_TRANSLATIONS = {
       "Cada actuació és una oportunitat per acostar la música de tuna a nous públics, crear records i demostrar que la cultura popular evoluciona sense perdre les arrels.",
     santaPolaP4:
       "Gràcies a totes les persones que ens vau acompanyar i vau fer d'aquest Orgull una celebració inoblidable. Continuarem portant la nostra música allà on hi haja ganes de compartir, cantar i celebrar la diversitat.",
+    totanaTitle: "Tuna Rosa a l'Orgull de Totana 2026",
+    totanaP1:
+      "El 5 de juliol de 2026 vam participar en el primer Orgull de Totana, una mobilització històrica amb una resposta ciutadana massiva.",
+    totanaP2:
+      "Tuna Rosa va ser present al carrer i a l'escenari, aportant música, visibilitat i una defensa clara de la diversitat.",
+    totanaMoreLink: "Crònica completa de Totana a Múrcia",
 
     heroTitle: "Benvinguts/des a la Tuna Rosa LGTBIQA+",
     heroSubtitle: "Un espai musical inclusiu on tothom té cabuda",
@@ -653,6 +848,16 @@ window.TUNA_TRANSLATIONS = {
     navVideos: "Videos",
 
     homeVideosTitle: "Canal de YouTube i actuacions",
+    homeMetaTitle: "Tuna Rosa | Agrupació musical LGTBIQA+ a Alacant",
+    homeMetaDescription:
+      "Tuna Rosa LGTBIQA+: tuna inclusiva a Alacant i a tot Espanya. Música al carrer, tradició, diversitat i actuacions en esdeveniments LGTBIQA+.",
+    homeOgTitle: "Tuna Rosa LGTBIQA+ a Alacant - Música inclusiva i diversa",
+    homeOgDescription:
+      "Agrupació musical Tuna Rosa LGTBIQA+ a Alacant i a tot Espanya. Actuacions, passabars i esdeveniments amb diversitat, visibilitat i música en directe.",
+    homeOgImageAlt: "Tuna Rosa actuant en un esdeveniment a Alacant",
+    homeTwitterTitle: "Tuna Rosa LGTBIQA+ a Alacant",
+    homeTwitterDescription:
+      "Agrupació musical Tuna Rosa a Alacant i a tot Espanya. Uneix-te a la nostra comunitat musical.",
     homeVideosText:
       "Publiquem vídeos d'actuacions, incloent Orgull Totana i altres esdeveniments. Entra a la pàgina de vídeos per veure'ls i subscriure't al canal oficial de Tuna Rosa.",
     homeVideosBtn: "Veure vídeos i canal de YouTube",
@@ -669,6 +874,81 @@ window.TUNA_TRANSLATIONS = {
     youtubeVideo2Desc:
       "Segon vídeo de la jornada a Orgull Totana, amb més moments de l'actuació i de l'ambient de l'esdeveniment.",
     watchOnYoutube: "Veure a YouTube",
+    videosHubNote:
+      "Aquesta pàgina funciona com a índex. Cada vídeo també té la seua pròpia pàgina de visualització per millorar la cobertura SEO.",
+    videoPageLinkLabel: "Veure pàgina individual del vídeo",
+    videosMetaTitle:
+      "Vídeos de Tuna Rosa a YouTube | Actuacions i canal oficial",
+    videosMetaDescription:
+      "Mira els vídeos de Tuna Rosa, agrupació musical LGTBIQA+ a Alacant, a YouTube. Actuacions com l'Orgull de Totana i accés directe al canal oficial.",
+    videosOgTitle: "Vídeos de Tuna Rosa a YouTube | Canal oficial",
+    videosOgDescription:
+      "Descobreix actuacions de Tuna Rosa a YouTube, incloent l'Orgull de Totana, i subscriu-te al canal oficial.",
+    videosOgImageAlt: "Actuació de Tuna Rosa en un esdeveniment de l'Orgull",
+    videosTwitterTitle: "Vídeos de Tuna Rosa a YouTube | Canal oficial",
+    videosTwitterDescription:
+      "Actuacions de Tuna Rosa i accés directe al canal oficial de YouTube.",
+    murciaPageTitle: "Tuna Rosa a Múrcia",
+    murciaMetaTitle: "Tuna a Múrcia | Tuna Rosa a l'Orgull de Totana",
+    murciaMetaDescription:
+      "Crònica de Tuna Rosa a l'Orgull de Totana (Múrcia): actuació, mobilització ciutadana i galeria de fotos de l'esdeveniment.",
+    murciaOgTitle: "Tuna a Múrcia | Tuna Rosa",
+    murciaOgDescription:
+      "Crònica de Tuna Rosa a l'Orgull de Totana (Múrcia), amb imatges, context i resum de l'actuació.",
+    murciaPageIntro:
+      "Estem reforçant la nostra presència musical a Múrcia amb actuacions, trobades i noves col·laboracions.",
+    murciaTotanaReserveTitle:
+      "Totana no es rendeix: orgull, música i resistència",
+    murciaVideosBtn: "Veure vídeos i actuacions",
+    galleryPrev: "Anterior",
+    galleryNext: "Següent",
+    youtubeChannelAria: "Canal de YouTube de Tuna Rosa",
+    murciaAltScenario: "Tuna Rosa sobre l'escenari de l'Orgull de Totana",
+    murciaAltTotana2: "Participació de Tuna Rosa en l'Orgull de Totana",
+    murciaAltTotana3: "Ambient de la mobilització de l'Orgull de Totana",
+    murciaAltSoundcheck: "Prova de so de Tuna Rosa a Totana",
+    murciaStoryLeadTitle:
+      "Totana no es rendeix: un crit d'orgull que va ressonar a tot Espanya",
+    murciaStoryLeadText:
+      "El 5 de juliol de 2026, Totana va viure una jornada històrica. Davant els intents d'invisibilitzar el col·lectiu LGTBIQA+, la resposta ciutadana va ser massiva: el primer Orgull de la història de Totana va reunir milers de persones en defensa de la diversitat. I Tuna Rosa hi va ser, portant música, presència i compromís.",
+    murciaStoryMassiveTitle: "La resposta va ser massiva",
+    murciaStoryMassiveText:
+      "Entre 1.200 i 1.500 persones van omplir els carrers, amb assistència de veïnat de Totana, gent de la Regió de Múrcia i participants arribats d'altres comunitats. La marxa va començar a les 19:00 al Centre Sociocultural La Carcel i va tindre un enfocament inclusiu, amb un primer tram sense megafonia per cuidar persones amb sensibilitat acústica.",
+    murciaStoryResistanceTitle: "Tuna Rosa: orgull i resistència cultural",
+    murciaStoryResistanceText:
+      "En el tram més festiu de la mobilització, Tuna Rosa s'hi va sumar amb força. Cada cançó va ser una manera de reivindicar visibilitat, dignitat i comunitat. La nostra presència a Totana va ser un acte de resistència cultural i una afirmació clara: la diversitat no s'amaga ni es negocia.",
+    murciaStorySpainTitle: "Tot Espanya és totanera",
+    murciaStorySpainText:
+      "En arribar a la Plaça de l'Ajuntament, la lectura del manifest i el clam de la gent van convertir la jornada en un missatge que va transcendir allò local. El tancament a l'Auditori Marcos Ortiz, amb artistes actuant de manera solidària, va reforçar una idea compartida: la cultura també és una eina de defensa de drets.",
+    murciaStoryWallTitle: "Un mur de contenció",
+    murciaStoryWallText:
+      "Aquest Orgull es va plantejar com un mur de contenció davant l'odi, i Tuna Rosa en va formar part. Pujar a l'escenari de Totana va ser plantar-nos amb la música al davant i recordar que la diversitat no és una concessió: és un dret.",
+    murciaStoryClosing:
+      "Totana no es rendeix. Tuna Rosa hi va ser per demostrar-ho.",
+    alicanteMetaTitle: "Tuna a Alacant | Tuna Rosa LGTBIQA+",
+    alicanteMetaDescription:
+      "Tuna Rosa a Alacant: agrupació musical de tuna amb actuacions al carrer, passabars i esdeveniments en barris i espais d'Alacant.",
+    alicanteOgTitle: "Tuna a Alacant | Tuna Rosa",
+    alicanteOgDescription:
+      "Coneix l'activitat de Tuna Rosa a Alacant: actuacions, passabars i presència musical en diferents espais de la ciutat.",
+    alicantePageTitle: "Tuna a Alacant: Tuna Rosa LGTBIQA+",
+    alicantePageIntro:
+      "Tuna Rosa desenvolupa la seua activitat musical a Alacant, amb actuacions al carrer, passabars i trobades culturals en diferents punts de la ciutat.",
+    alicanteEventTitle: "Primer passabars de Tuna Rosa per Alacant",
+    alicanteEventAlt: "Primer passabars de Tuna Rosa per Alacant",
+    alicanteEventP1:
+      "El 16 de maig de 2026 vam celebrar el nostre primer passabars pels carrers d'Alacant, compartint música en directe amb veïnat i visitants.",
+    alicanteEventP2:
+      "Aquesta jornada va suposar un pas clau per consolidar Tuna Rosa com una tuna activa a Alacant, connectada amb els seus barris, la seua gent i els seus espais culturals.",
+    alicantePhotosBtn: "Veure fotos i esdeveniments",
+    alicanteBackHome: "Tornar a Inici",
+    contactMetaTitle:
+      "Com unir-se a Tuna Rosa LGTBIQA+ - Membresia i requisits",
+    contactMetaDescription:
+      "Com unir-se a Tuna Rosa LGTBIQA+ des de qualsevol lloc. Informació sobre membresia, contacte i participació en una comunitat inclusiva i diversa.",
+    contactOgTitle: "Com unir-se a Tuna Rosa LGTBIQA+",
+    contactOgDescription:
+      "Descobreix com formar part de Tuna Rosa. Membresia gratuïta i comunitat inclusiva.",
 
     joinPageTitle: "Com unir-se a la Tuna Rosa",
     joinIntro:
@@ -778,6 +1058,12 @@ window.TUNA_TRANSLATIONS = {
       "Emanaldi bakoitza aukera bat da tunaren musika publiko berrietara hurbiltzeko, oroitzapenak sortzeko eta herri-kultura bere sustraiak galdu gabe eboluzionatzen dela erakusteko.",
     santaPolaP4:
       "Eskerrik asko gurekin egon zineten eta Harrotasun hau ospakizun ahaztezina bihurtu zenuten guztioi. Gure musika partekatu, abestu eta aniztasuna ospatzeko gogoa dagoen tokietara eramaten jarraituko dugu.",
+    totanaTitle: "Tuna Rosa Totanako Harrotasunean 2026",
+    totanaP1:
+      "2026ko uztailaren 5ean Totanako lehen Harrotasunean parte hartu genuen, herritarren erantzun masiboa izan zuen mobilizazio historikoan.",
+    totanaP2:
+      "Tuna Rosa kalean eta agertokian egon zen, musika, ikusgarritasuna eta aniztasunaren aldeko defentsa argia eskainiz.",
+    totanaMoreLink: "Totanako kronika osoa Murtzian",
 
     heroTitle: "Ongi etorri Tuna Rosa LGTBIQA+ra",
     heroSubtitle: "Musika gune inklusiboa non denek tokia duten",
@@ -896,6 +1182,16 @@ window.TUNA_TRANSLATIONS = {
     navVideos: "Bideoak",
 
     homeVideosTitle: "YouTube kanala eta emanaldiak",
+    homeMetaTitle: "Tuna Rosa | LGTBIQA+ musika taldea Alacanten",
+    homeMetaDescription:
+      "Tuna Rosa LGTBIQA+: tuna inklusiboa Alacanten eta Espainia osoan. Kaleko musika, tradizioa, aniztasuna eta LGTBIQA+ ekitaldietako emanaldiak.",
+    homeOgTitle: "Tuna Rosa LGTBIQA+ Alacanten - Musika inklusiboa eta anitza",
+    homeOgDescription:
+      "Tuna Rosa LGTBIQA+ musika taldea Alacanten eta Espainia osoan. Emanaldiak, pasabarrak eta ekitaldiak aniztasunarekin, ikusgarritasunarekin eta zuzeneko musikarekin.",
+    homeOgImageAlt: "Tuna Rosa Alacanteko ekitaldi batean jotzen",
+    homeTwitterTitle: "Tuna Rosa LGTBIQA+ Alacanten",
+    homeTwitterDescription:
+      "Tuna Rosa musika taldea Alacanten eta Espainia osoan. Batu gure musika komunitatera.",
     homeVideosText:
       "Gure emanaldien bideoak argitaratzen ditugu, Totana Harrotasuna eta beste ekitaldi batzuk barne. Sartu bideoen orrian ikusteko eta Tuna Rosaren kanal ofizialera harpidetzeko.",
     homeVideosBtn: "Ikusi bideoak eta YouTube kanala",
@@ -912,6 +1208,82 @@ window.TUNA_TRANSLATIONS = {
     youtubeVideo2Desc:
       "Totana Harrotasuneko eguneko bigarren bideoa, emanaldiaren eta giroaren une gehiagorekin.",
     watchOnYoutube: "Ikusi YouTuben",
+    videosHubNote:
+      "Orrialde honek indize gisa funtzionatzen du. Bideo bakoitzak bere ikus-orria ere badu SEO estaldura hobetzeko.",
+    videoPageLinkLabel: "Ireki bideoaren orri indibiduala",
+    videosMetaTitle:
+      "Tuna Rosaren bideoak YouTuben | Emanaldiak eta kanal ofiziala",
+    videosMetaDescription:
+      "Ikusi Tuna Rosaren bideoak, Alacanteko LGTBIQA+ musika taldea, YouTuben. Totanako Harrotasuna bezalako emanaldiak eta kanal ofizialerako sarbide zuzena.",
+    videosOgTitle: "Tuna Rosaren bideoak YouTuben | Kanal ofiziala",
+    videosOgDescription:
+      "Ezagutu Tuna Rosaren emanaldiak YouTuben, Totanako Harrotasuna barne, eta harpidetu kanal ofizialera.",
+    videosOgImageAlt: "Tuna Rosaren emanaldia Harrotasun ekitaldi batean",
+    videosTwitterTitle: "Tuna Rosaren bideoak YouTuben | Kanal ofiziala",
+    videosTwitterDescription:
+      "Tuna Rosaren emanaldiak eta YouTubeko kanal ofizialerako sarbide zuzena.",
+    murciaPageTitle: "Tuna Rosa Murtzian",
+    murciaMetaTitle: "Tuna Murtzian | Tuna Rosa Totanako Harrotasunean",
+    murciaMetaDescription:
+      "Tuna Rosaren kronika Totanako Harrotasunean (Murtzia): emanaldia, herritarren mobilizazioa eta ekitaldiko argazki-galeria.",
+    murciaOgTitle: "Tuna Murtzian | Tuna Rosa",
+    murciaOgDescription:
+      "Tuna Rosaren kronika Totanako Harrotasunean (Murtzia), irudiekin, testuinguruarekin eta emanaldiaren laburpenarekin.",
+    murciaPageIntro:
+      "Murtzian gure presentzia musikala indartzen ari gara emanaldiekin, topaketekin eta lankidetza berriekin.",
+    murciaTotanaReserveTitle:
+      "Totanak ez du amore ematen: harrotasuna, musika eta erresistentzia",
+    murciaVideosBtn: "Ikusi bideoak eta emanaldiak",
+    galleryPrev: "Aurrekoa",
+    galleryNext: "Hurrengoa",
+    youtubeChannelAria: "Tuna Rosaren YouTube kanala",
+    murciaAltScenario: "Tuna Rosa Totanako Harrotasunaren agertokian",
+    murciaAltTotana2: "Tuna Rosaren parte-hartzea Totanako Harrotasunean",
+    murciaAltTotana3: "Totanako Harrotasun mobilizazioaren giroa",
+    murciaAltSoundcheck: "Tuna Rosaren soinu-proba Totanan",
+    murciaStoryLeadTitle:
+      "Totanak ez du amore ematen: Espainia osoan entzun zen harrotasun-oihua",
+    murciaStoryLeadText:
+      "2026ko uztailaren 5ean, Totanak egun historikoa bizi izan zuen. LGTBIQA+ kolektiboa ikusezin bihurtzeko saiakeren aurrean, herritarren erantzuna masiboa izan zen: Totanako historiako lehen Harrotasunak milaka pertsona bildu zituen aniztasunaren alde. Tuna Rosa han egon zen, musika, presentzia eta konpromisoa eramanez.",
+    murciaStoryMassiveTitle: "Erantzuna masiboa izan zen",
+    murciaStoryMassiveText:
+      "1.200 eta 1.500 pertsona artean kaleak bete zituzten, Totanako bizilagunak, Murtziako Eskualdeko jendea eta beste erkidego batzuetatik etorritako parte-hartzaileak barne. Martxa 19:00etan hasi zen La Carcel Gizarte eta Kultur Zentroan, eta ikuspegi inklusiboa izan zuen: lehen zatia bozgorailurik gabe egin zen soinu-sentsibilitatea duten pertsonak zaintzeko.",
+    murciaStoryResistanceTitle:
+      "Tuna Rosa: harrotasuna eta kultura-erresistentzia",
+    murciaStoryResistanceText:
+      "Mobilizazioaren zatirik jai-girokoenean, Tuna Rosa indarrez batu zen. Abesti bakoitza ikusgarritasuna, duintasuna eta komunitatea aldarrikatzeko modu bat izan zen. Totanako gure presentzia kultura-erresistentziako ekintza bat izan zen, eta baieztapen argia: aniztasuna ez da ezkutatzen eta ez da negoziatzen.",
+    murciaStorySpainTitle: "Espainia osoa totanera da",
+    murciaStorySpainText:
+      "Udaletxe plazara iristean, manifestuaren irakurketak eta jendearen oihuak jardunaldia tokikoa gainditu zuen mezu bihurtu zuten. Marcos Ortiz auditoriumeko amaierak, artistek elkartasunez jardunez, ideia partekatu bat indartu zuen: kultura ere eskubideak defendatzeko tresna da.",
+    murciaStoryWallTitle: "Euste-horma bat",
+    murciaStoryWallText:
+      "Harrotasun hau gorrotoaren aurkako euste-horma gisa planteatu zen, eta Tuna Rosa horma horren parte izan zen. Totanako agertokira igotzea musikarekin aurrean tinko jartzea izan zen, eta aniztasuna ez dela kontzesio bat gogoratzea: eskubide bat da.",
+    murciaStoryClosing:
+      "Totanak ez du amore ematen. Tuna Rosa han egon zen hori erakusteko.",
+    alicanteMetaTitle: "Tuna Alacanten | Tuna Rosa LGTBIQA+",
+    alicanteMetaDescription:
+      "Tuna Rosa Alacanten: kaleko emanaldiak, pasabarrak eta Alacanteko auzo eta guneetan ekitaldiak egiten dituen tuna musika taldea.",
+    alicanteOgTitle: "Tuna Alacanten | Tuna Rosa",
+    alicanteOgDescription:
+      "Ezagutu Tuna Rosaren jarduera Alacanten: emanaldiak, pasabarrak eta hiri osoko presentzia musikala.",
+    alicantePageTitle: "Tuna Alacanten: Tuna Rosa LGTBIQA+",
+    alicantePageIntro:
+      "Tuna Rosak bere jarduera musikala Alacanten garatzen du, kaleko emanaldiekin, pasabarrekin eta hiriko hainbat gunetan kultur topaketekin.",
+    alicanteEventTitle: "Tuna Rosaren lehen pasabarrak Alacanten",
+    alicanteEventAlt: "Tuna Rosaren lehen pasabarrak Alacanten",
+    alicanteEventP1:
+      "2026ko maiatzaren 16an gure lehen pasabarrak ospatu genituen Alacanteko kaleetan, zuzeneko musika auzokide eta bisitariekin partekatuz.",
+    alicanteEventP2:
+      "Jardunaldi hau funtsezko pausoa izan zen Tuna Rosa Alacanten tuna aktibo gisa sendotzeko, bere auzoekin, jendearekin eta kultur guneekin lotuta.",
+    alicantePhotosBtn: "Ikusi argazkiak eta ekitaldiak",
+    alicanteBackHome: "Itzuli Hasierara",
+    contactMetaTitle:
+      "Nola batu Tuna Rosa LGTBIQA+ra - Bazkidetza eta baldintzak",
+    contactMetaDescription:
+      "Nola batu Tuna Rosa LGTBIQA+ra edozein tokitatik. Bazkidetzari, kontaktuari eta komunitate inklusibo eta anitz batean parte hartzeari buruzko informazioa.",
+    contactOgTitle: "Nola batu Tuna Rosa LGTBIQA+ra",
+    contactOgDescription:
+      "Ezagutu nola izan Tuna Rosaren parte. Doako bazkidetza eta komunitate inklusiboa.",
 
     joinPageTitle: "Nola batu Tuna Rosara",
     joinIntro:
@@ -1023,6 +1395,12 @@ window.TUNA_TRANSLATIONS = {
       "Cada atuacao e uma oportunidade para aproximar a musica de tuna de novos publicos, criar memorias e mostrar que a cultura popular evolui sem perder as suas raizes.",
     santaPolaP4:
       "Obrigado a todas as pessoas que nos acompanharam e fizeram deste Orgulho uma celebracao inesquecivel. Vamos continuar a levar a nossa musica para onde houver vontade de partilhar, cantar e celebrar a diversidade.",
+    totanaTitle: "Tuna Rosa no Orgulho de Totana 2026",
+    totanaP1:
+      "Em 5 de julho de 2026 participamos no primeiro Orgulho de Totana, uma mobilizacao historica com resposta cidada massiva.",
+    totanaP2:
+      "A Tuna Rosa esteve na rua e no palco, levando musica, visibilidade e uma defesa clara da diversidade.",
+    totanaMoreLink: "Cronica completa de Totana em Murcia",
 
     heroTitle: "Bem-vind@s a Tuna Rosa LGTBIQA+",
     heroSubtitle: "Um espaco musical inclusivo onde tod@s cabem",
@@ -1140,6 +1518,16 @@ window.TUNA_TRANSLATIONS = {
     navVideos: "Videos",
 
     homeVideosTitle: "Canal de YouTube e atuacoes",
+    homeMetaTitle: "Tuna Rosa | Agrupacao musical LGTBIQA+ em Alicante",
+    homeMetaDescription:
+      "Tuna Rosa LGTBIQA+: tuna inclusiva em Alicante e em toda a Espanha. Musica na rua, tradicao, diversidade e atuacoes em eventos LGTBIQA+.",
+    homeOgTitle: "Tuna Rosa LGTBIQA+ em Alicante - Musica inclusiva e diversa",
+    homeOgDescription:
+      "Agrupacao musical Tuna Rosa LGTBIQA+ em Alicante e em toda a Espanha. Atuacoes, pasabares e eventos com diversidade, visibilidade e musica ao vivo.",
+    homeOgImageAlt: "Tuna Rosa a atuar num evento em Alicante",
+    homeTwitterTitle: "Tuna Rosa LGTBIQA+ em Alicante",
+    homeTwitterDescription:
+      "Agrupacao musical Tuna Rosa em Alicante e em toda a Espanha. Junta-te a nossa comunidade musical.",
     homeVideosText:
       "Publicamos videos de atuacoes, incluindo Orgulho Totana e outros eventos. Entra na pagina de videos para os ver e subscrever o canal oficial da Tuna Rosa.",
     homeVideosBtn: "Ver videos e canal de YouTube",
@@ -1156,6 +1544,81 @@ window.TUNA_TRANSLATIONS = {
     youtubeVideo2Desc:
       "Segundo video do dia no Orgulho Totana, com mais momentos da atuacao e do ambiente do evento.",
     watchOnYoutube: "Ver no YouTube",
+    videosHubNote:
+      "Esta pagina funciona como indice. Cada video tambem tem a sua propria pagina de visualizacao para melhorar a cobertura SEO.",
+    videoPageLinkLabel: "Ver pagina individual do video",
+    videosMetaTitle:
+      "Videos da Tuna Rosa no YouTube | Atuacoes e canal oficial",
+    videosMetaDescription:
+      "Veja os videos da Tuna Rosa, agrupacao musical LGTBIQA+ em Alicante, no YouTube. Atuacoes como Orgulho Totana e acesso direto ao canal oficial.",
+    videosOgTitle: "Videos da Tuna Rosa no YouTube | Canal oficial",
+    videosOgDescription:
+      "Descubra atuacoes da Tuna Rosa no YouTube, incluindo Orgulho Totana, e subscreva o canal oficial.",
+    videosOgImageAlt: "Atuacao da Tuna Rosa num evento do Orgulho",
+    videosTwitterTitle: "Videos da Tuna Rosa no YouTube | Canal oficial",
+    videosTwitterDescription:
+      "Atuacoes da Tuna Rosa e acesso direto ao canal oficial no YouTube.",
+    murciaPageTitle: "Tuna Rosa em Murcia",
+    murciaMetaTitle: "Tuna em Murcia | Tuna Rosa no Orgulho de Totana",
+    murciaMetaDescription:
+      "Cronica da Tuna Rosa no Orgulho de Totana (Murcia): atuacao, mobilizacao cidada e galeria de fotos do evento.",
+    murciaOgTitle: "Tuna em Murcia | Tuna Rosa",
+    murciaOgDescription:
+      "Cronica da Tuna Rosa no Orgulho de Totana (Murcia), com imagens, contexto e resumo da atuacao.",
+    murciaPageIntro:
+      "Estamos a reforcar a nossa presenca musical em Murcia com atuacoes, encontros e novas colaboracoes.",
+    murciaTotanaReserveTitle:
+      "Totana nao se rende: orgulho, musica e resistencia",
+    murciaVideosBtn: "Ver videos e atuacoes",
+    galleryPrev: "Anterior",
+    galleryNext: "Seguinte",
+    youtubeChannelAria: "Canal de YouTube da Tuna Rosa",
+    murciaAltScenario: "Tuna Rosa no palco do Orgulho de Totana",
+    murciaAltTotana2: "Participacao da Tuna Rosa no Orgulho de Totana",
+    murciaAltTotana3: "Ambiente da mobilizacao do Orgulho de Totana",
+    murciaAltSoundcheck: "Prova de som da Tuna Rosa em Totana",
+    murciaStoryLeadTitle:
+      "Totana nao se rende: um grito de orgulho que ecoou em toda a Espanha",
+    murciaStoryLeadText:
+      "Em 5 de julho de 2026, Totana viveu uma jornada historica. Perante as tentativas de invisibilizar o coletivo LGTBIQA+, a resposta cidada foi massiva: o primeiro Orgulho da historia de Totana reuniu milhares de pessoas em defesa da diversidade. E a Tuna Rosa esteve la, levando musica, presenca e compromisso.",
+    murciaStoryMassiveTitle: "A resposta foi massiva",
+    murciaStoryMassiveText:
+      "Entre 1.200 e 1.500 pessoas encheram as ruas, com presenca de habitantes de Totana, gente da Regiao de Murcia e participantes vindos de outras comunidades. A marcha arrancou as 19:00 no Centro Sociocultural La Carcel e teve um enfoque inclusivo, com um primeiro troco sem megafonia para cuidar de pessoas com sensibilidade acustica.",
+    murciaStoryResistanceTitle: "Tuna Rosa: orgulho e resistencia cultural",
+    murciaStoryResistanceText:
+      "No tramo mais festivo da mobilizacao, a Tuna Rosa juntou-se com forca. Cada cancao foi uma forma de reivindicar visibilidade, dignidade e comunidade. A nossa presenca em Totana foi um ato de resistencia cultural e uma afirmacao clara: a diversidade nao se esconde nem se negocia.",
+    murciaStorySpainTitle: "Toda a Espanha e totanera",
+    murciaStorySpainText:
+      "Ao chegar a Praca do Ayuntamiento, a leitura do manifesto e o clamor das pessoas transformaram a jornada numa mensagem que ultrapassou o ambito local. O encerramento no Auditorio Marcos Ortiz, com artistas a atuar de forma solidaria, reforcou uma ideia partilhada: a cultura tambem e uma ferramenta de defesa de direitos.",
+    murciaStoryWallTitle: "Um muro de contencao",
+    murciaStoryWallText:
+      "Este Orgulho foi pensado como um muro de contencao frente ao odio, e a Tuna Rosa fez parte desse muro. Subir ao palco de Totana foi plantar-nos com a musica na frente e lembrar que a diversidade nao e uma concessao: e um direito.",
+    murciaStoryClosing:
+      "Totana nao se rende. A Tuna Rosa esteve la para o demonstrar.",
+    alicanteMetaTitle: "Tuna em Alicante | Tuna Rosa LGTBIQA+",
+    alicanteMetaDescription:
+      "Tuna Rosa em Alicante: agrupacao musical de tuna com atuacoes na rua, pasabares e eventos em bairros e espacos de Alicante.",
+    alicanteOgTitle: "Tuna em Alicante | Tuna Rosa",
+    alicanteOgDescription:
+      "Conheca a atividade da Tuna Rosa em Alicante: atuacoes, pasabares e presenca musical em diferentes espacos da cidade.",
+    alicantePageTitle: "Tuna em Alicante: Tuna Rosa LGTBIQA+",
+    alicantePageIntro:
+      "A Tuna Rosa desenvolve a sua atividade musical em Alicante, com atuacoes na rua, pasabares e encontros culturais em varios pontos da cidade.",
+    alicanteEventTitle: "Primeiro pasabares da Tuna Rosa por Alicante",
+    alicanteEventAlt: "Primeiro pasabares da Tuna Rosa por Alicante",
+    alicanteEventP1:
+      "No dia 16 de maio de 2026 celebramos o nosso primeiro pasabares pelas ruas de Alicante, partilhando musica ao vivo com moradores e visitantes.",
+    alicanteEventP2:
+      "Esta jornada foi um passo chave para consolidar a Tuna Rosa como uma tuna ativa em Alicante, ligada aos seus bairros, pessoas e espacos culturais.",
+    alicantePhotosBtn: "Ver fotos e eventos",
+    alicanteBackHome: "Voltar ao Inicio",
+    contactMetaTitle:
+      "Como juntar-se a Tuna Rosa LGTBIQA+ - Membros e requisitos",
+    contactMetaDescription:
+      "Como juntar-se a Tuna Rosa LGTBIQA+ desde qualquer lugar. Informacao sobre membros, contacto e participacao numa comunidade inclusiva e diversa.",
+    contactOgTitle: "Como juntar-se a Tuna Rosa LGTBIQA+",
+    contactOgDescription:
+      "Descubra como fazer parte da Tuna Rosa. Membros gratuitos e comunidade inclusiva.",
 
     joinPageTitle: "Como juntar-se a Tuna Rosa",
     joinIntro:
@@ -1266,6 +1729,12 @@ window.TUNA_TRANSLATIONS = {
       "Chaque prestation est une occasion de rapprocher la musique de tuna de nouveaux publics, creer des souvenirs et montrer que la culture populaire evolue sans perdre ses racines.",
     santaPolaP4:
       "Merci a toutes les personnes qui nous ont accompagnes et ont fait de cette Pride une celebration inoubliable. Nous continuerons a porter notre musique partout ou il y aura envie de partager, chanter et celebrer la diversite.",
+    totanaTitle: "Tuna Rosa a la Fierte de Totana 2026",
+    totanaP1:
+      "Le 5 juillet 2026, nous avons participe a la premiere Fierte de Totana, une mobilisation historique avec une reponse citoyenne massive.",
+    totanaP2:
+      "Tuna Rosa a ete presente dans la rue et sur scene, en apportant musique, visibilite et une defense claire de la diversite.",
+    totanaMoreLink: "Chronique complete de Totana a Murcia",
 
     heroTitle: "Bienvenue a la Tuna Rosa LGTBIQA+",
     heroSubtitle: "Un espace musical inclusif ou chacun a sa place",
@@ -1383,6 +1852,16 @@ window.TUNA_TRANSLATIONS = {
     navVideos: "Videos",
 
     homeVideosTitle: "Chaine YouTube et concerts",
+    homeMetaTitle: "Tuna Rosa | Groupe musical LGTBIQA+ a Alicante",
+    homeMetaDescription:
+      "Tuna Rosa LGTBIQA+ : tuna inclusive a Alicante et dans toute l'Espagne. Musique de rue, tradition, diversite et concerts dans des evenements LGTBIQA+.",
+    homeOgTitle: "Tuna Rosa LGTBIQA+ a Alicante - Musique inclusive et diverse",
+    homeOgDescription:
+      "Groupe musical Tuna Rosa LGTBIQA+ a Alicante et dans toute l'Espagne. Concerts, pasabares et evenements avec diversite, visibilite et musique live.",
+    homeOgImageAlt: "Tuna Rosa en concert lors d'un evenement a Alicante",
+    homeTwitterTitle: "Tuna Rosa LGTBIQA+ a Alicante",
+    homeTwitterDescription:
+      "Groupe musical Tuna Rosa a Alicante et dans toute l'Espagne. Rejoins notre communaute musicale.",
     homeVideosText:
       "Nous publions des videos de concerts, y compris Fierte Totana et d'autres evenements. Va sur la page videos pour les regarder et t'abonner a la chaine officielle de Tuna Rosa.",
     homeVideosBtn: "Voir les videos et la chaine YouTube",
@@ -1399,6 +1878,81 @@ window.TUNA_TRANSLATIONS = {
     youtubeVideo2Desc:
       "Deuxieme video de la journee a Fierte Totana, avec plus de moments du concert et de l'ambiance de l'evenement.",
     watchOnYoutube: "Voir sur YouTube",
+    videosHubNote:
+      "Cette page fonctionne comme index. Chaque video dispose aussi de sa propre page de visionnage pour ameliorer la couverture SEO.",
+    videoPageLinkLabel: "Voir la page individuelle de la video",
+    videosMetaTitle:
+      "Videos de Tuna Rosa sur YouTube | Concerts et chaine officielle",
+    videosMetaDescription:
+      "Regarde les videos de Tuna Rosa, groupe musical LGTBIQA+ a Alicante, sur YouTube. Concerts comme la Fierte de Totana et acces direct a la chaine officielle.",
+    videosOgTitle: "Videos de Tuna Rosa sur YouTube | Chaine officielle",
+    videosOgDescription:
+      "Decouvre les concerts de Tuna Rosa sur YouTube, y compris la Fierte de Totana, et abonne-toi a la chaine officielle.",
+    videosOgImageAlt: "Concert de Tuna Rosa lors d'un evenement de la Fierte",
+    videosTwitterTitle: "Videos de Tuna Rosa sur YouTube | Chaine officielle",
+    videosTwitterDescription:
+      "Concerts de Tuna Rosa et acces direct a la chaine officielle YouTube.",
+    murciaPageTitle: "Tuna Rosa a Murcia",
+    murciaMetaTitle: "Tuna a Murcia | Tuna Rosa a la Fierte de Totana",
+    murciaMetaDescription:
+      "Chronique de Tuna Rosa a la Fierte de Totana (Murcia) : concert, mobilisation citoyenne et galerie photo de l'evenement.",
+    murciaOgTitle: "Tuna a Murcia | Tuna Rosa",
+    murciaOgDescription:
+      "Chronique de Tuna Rosa a la Fierte de Totana (Murcia), avec images, contexte et resume du concert.",
+    murciaPageIntro:
+      "Nous renforcons notre presence musicale a Murcia avec des concerts, des rencontres et de nouvelles collaborations.",
+    murciaTotanaReserveTitle:
+      "Totana ne cede pas : fierte, musique et resistance",
+    murciaVideosBtn: "Voir videos et concerts",
+    galleryPrev: "Precedent",
+    galleryNext: "Suivant",
+    youtubeChannelAria: "Chaine YouTube de Tuna Rosa",
+    murciaAltScenario: "Tuna Rosa sur scene a la Fierte de Totana",
+    murciaAltTotana2: "Participation de Tuna Rosa a la Fierte de Totana",
+    murciaAltTotana3: "Ambiance de la mobilisation de la Fierte de Totana",
+    murciaAltSoundcheck: "Balance son de Tuna Rosa a Totana",
+    murciaStoryLeadTitle:
+      "Totana ne cede pas : un cri de fierte entendu dans toute l'Espagne",
+    murciaStoryLeadText:
+      "Le 5 juillet 2026, Totana a vecu une journee historique. Face aux tentatives d'invisibiliser la communaute LGTBIQA+, la reponse citoyenne a ete massive : la premiere Fierte de l'histoire de Totana a reuni des milliers de personnes pour defendre la diversite. Et Tuna Rosa etait la, avec musique, presence et engagement.",
+    murciaStoryMassiveTitle: "La reponse a ete massive",
+    murciaStoryMassiveText:
+      "Entre 1 200 et 1 500 personnes ont rempli les rues, avec des habitants de Totana, des personnes de la Region de Murcia et des participantes venues d'autres territoires. La marche a commence a 19:00 au Centre Socioculturel La Carcel et a adopte une approche inclusive, avec un premier troncon sans sonorisation pour prendre soin des personnes sensibles au bruit.",
+    murciaStoryResistanceTitle: "Tuna Rosa : fierte et resistance culturelle",
+    murciaStoryResistanceText:
+      "Dans la partie la plus festive de la mobilisation, Tuna Rosa s'est jointe avec force. Chaque chanson est devenue une facon de revendiquer visibilite, dignite et communaute. Notre presence a Totana a ete un acte de resistance culturelle et une affirmation claire : la diversite ne se cache pas et ne se negocie pas.",
+    murciaStorySpainTitle: "Toute l'Espagne est avec Totana",
+    murciaStorySpainText:
+      "A l'arrivee sur la place de la mairie, la lecture du manifeste et le cri du public ont transforme la journee en un message qui depassait le cadre local. La cloture a l'Auditorium Marcos Ortiz, avec des artistes en soutien, a renforce une idee partagee : la culture est aussi un outil de defense des droits.",
+    murciaStoryWallTitle: "Un mur de resistance",
+    murciaStoryWallText:
+      "Cette Fierte s'est construite comme un mur de resistance face a la haine, et Tuna Rosa a fait partie de ce mur. Monter sur scene a Totana, c'etait se tenir debout avec la musique devant, et rappeler que la diversite n'est pas une concession : c'est un droit.",
+    murciaStoryClosing:
+      "Totana ne cede pas. Tuna Rosa etait la pour le prouver.",
+    alicanteMetaTitle: "Tuna a Alicante | Tuna Rosa LGTBIQA+",
+    alicanteMetaDescription:
+      "Tuna Rosa a Alicante : groupe musical de tuna avec concerts de rue, pasabares et evenements dans les quartiers et lieux d'Alicante.",
+    alicanteOgTitle: "Tuna a Alicante | Tuna Rosa",
+    alicanteOgDescription:
+      "Decouvre l'activite de Tuna Rosa a Alicante : concerts, pasabares et presence musicale dans differents lieux de la ville.",
+    alicantePageTitle: "Tuna a Alicante : Tuna Rosa LGTBIQA+",
+    alicantePageIntro:
+      "Tuna Rosa developpe son activite musicale a Alicante, avec des concerts de rue, des pasabares et des rencontres culturelles dans differents points de la ville.",
+    alicanteEventTitle: "Premier pasabares de Tuna Rosa a Alicante",
+    alicanteEventAlt: "Premier pasabares de Tuna Rosa a Alicante",
+    alicanteEventP1:
+      "Le 16 mai 2026, nous avons celebre notre premier pasabares dans les rues d'Alicante, en partageant de la musique live avec habitants et visiteurs.",
+    alicanteEventP2:
+      "Cette journee a ete une etape cle pour consolider Tuna Rosa comme une tuna active a Alicante, connectee a ses quartiers, ses habitants et ses espaces culturels.",
+    alicantePhotosBtn: "Voir photos et evenements",
+    alicanteBackHome: "Retour a l'accueil",
+    contactMetaTitle:
+      "Comment rejoindre Tuna Rosa LGTBIQA+ - Adhesion et conditions",
+    contactMetaDescription:
+      "Comment rejoindre Tuna Rosa LGTBIQA+ depuis n'importe ou. Informations sur l'adhesion, le contact et la participation a une communaute inclusive et diverse.",
+    contactOgTitle: "Comment rejoindre Tuna Rosa LGTBIQA+",
+    contactOgDescription:
+      "Decouvre comment faire partie de Tuna Rosa. Adhesion gratuite et communaute inclusive.",
 
     joinPageTitle: "Comment rejoindre la Tuna Rosa",
     joinIntro:
@@ -1509,6 +2063,12 @@ window.TUNA_TRANSLATIONS = {
       "Cada actuación é unha oportunidade para achegar a música de tuna a novos públicos, crear lembranzas e demostrar que a cultura popular evoluciona sen perder as súas raíces.",
     santaPolaP4:
       "Grazas a todas as persoas que nos acompañastes e fixestes deste Orgullo unha celebración inesquecible. Seguiremos levando a nosa música alí onde haxa ganas de compartir, cantar e celebrar a diversidade.",
+    totanaTitle: "Tuna Rosa no Orgullo de Totana 2026",
+    totanaP1:
+      "O 5 de xullo de 2026 participamos no primeiro Orgullo de Totana, unha mobilización histórica cunha resposta cidadá masiva.",
+    totanaP2:
+      "Tuna Rosa estivo presente na rúa e no escenario, achegando música, visibilidade e unha defensa clara da diversidade.",
+    totanaMoreLink: "Crónica completa de Totana en Murcia",
 
     // Hero
     heroTitle: "Benvid@s a Tuna Rosa LGTBIQA+",
@@ -1636,6 +2196,16 @@ window.TUNA_TRANSLATIONS = {
     navVideos: "Videos",
 
     homeVideosTitle: "Canle de YouTube e actuacións",
+    homeMetaTitle: "Tuna Rosa | Agrupación musical LGTBIQA+ en Alacante",
+    homeMetaDescription:
+      "Tuna Rosa LGTBIQA+: tuna inclusiva en Alacante e en toda España. Música na rúa, tradición, diversidade e actuacións en eventos LGTBIQA+.",
+    homeOgTitle: "Tuna Rosa LGTBIQA+ en Alacante - Música inclusiva e diversa",
+    homeOgDescription:
+      "Agrupación musical Tuna Rosa LGTBIQA+ en Alacante e en toda España. Actuacións, pasabares e eventos con diversidade, visibilidade e música en directo.",
+    homeOgImageAlt: "Tuna Rosa actuando nun evento en Alacante",
+    homeTwitterTitle: "Tuna Rosa LGTBIQA+ en Alacante",
+    homeTwitterDescription:
+      "Agrupación musical Tuna Rosa en Alacante e en toda España. Únete á nosa comunidade musical.",
     homeVideosText:
       "Publicamos vídeos de actuacións, incluíndo Orgullo Totana e outros eventos. Entra na páxina de vídeos para velos e subscribirte á canle oficial de Tuna Rosa.",
     homeVideosBtn: "Ver vídeos e canle de YouTube",
@@ -1652,6 +2222,81 @@ window.TUNA_TRANSLATIONS = {
     youtubeVideo2Desc:
       "Segundo vídeo da xornada en Orgullo Totana, con máis momentos da actuación e do ambiente do evento.",
     watchOnYoutube: "Ver en YouTube",
+    videosHubNote:
+      "Esta páxina funciona como índice. Cada vídeo tamén dispón da súa propia páxina de visualización para mellorar a cobertura SEO.",
+    videoPageLinkLabel: "Ver páxina individual do vídeo",
+    videosMetaTitle:
+      "Vídeos de Tuna Rosa en YouTube | Actuacións e canle oficial",
+    videosMetaDescription:
+      "Mira os vídeos de Tuna Rosa, agrupación musical LGTBIQA+ en Alacante, en YouTube. Actuacións como Orgullo Totana e acceso directo á canle oficial.",
+    videosOgTitle: "Vídeos de Tuna Rosa en YouTube | Canle oficial",
+    videosOgDescription:
+      "Descobre actuacións de Tuna Rosa en YouTube, incluíndo Orgullo Totana, e subscríbete á canle oficial.",
+    videosOgImageAlt: "Actuación de Tuna Rosa nun evento do Orgullo",
+    videosTwitterTitle: "Vídeos de Tuna Rosa en YouTube | Canle oficial",
+    videosTwitterDescription:
+      "Actuacións de Tuna Rosa e acceso directo á canle oficial de YouTube.",
+    murciaPageTitle: "Tuna Rosa en Murcia",
+    murciaMetaTitle: "Tuna en Murcia | Tuna Rosa no Orgullo de Totana",
+    murciaMetaDescription:
+      "Crónica de Tuna Rosa no Orgullo de Totana (Murcia): actuación, mobilización cidadá e galería de fotos do evento.",
+    murciaOgTitle: "Tuna en Murcia | Tuna Rosa",
+    murciaOgDescription:
+      "Crónica de Tuna Rosa no Orgullo de Totana (Murcia), con imaxes, contexto e resumo da actuación.",
+    murciaPageIntro:
+      "Estamos reforzando a nosa presenza musical en Murcia con actuacións, encontros e novas colaboracións.",
+    murciaTotanaReserveTitle:
+      "Totana non se rende: orgullo, música e resistencia",
+    murciaVideosBtn: "Ver vídeos e actuacións",
+    galleryPrev: "Anterior",
+    galleryNext: "Seguinte",
+    youtubeChannelAria: "Canle de YouTube de Tuna Rosa",
+    murciaAltScenario: "Tuna Rosa sobre o escenario do Orgullo de Totana",
+    murciaAltTotana2: "Participación de Tuna Rosa no Orgullo de Totana",
+    murciaAltTotana3: "Ambiente da mobilización do Orgullo de Totana",
+    murciaAltSoundcheck: "Proba de son de Tuna Rosa en Totana",
+    murciaStoryLeadTitle:
+      "Totana non se rende: un berro de orgullo que retumbou en toda España",
+    murciaStoryLeadText:
+      "O 5 de xullo de 2026, Totana viviu unha xornada histórica. Fronte aos intentos de invisibilizar o colectivo LGTBIQA+, a resposta cidadá foi masiva: o primeiro Orgullo da historia de Totana reuniu milleiros de persoas en defensa da diversidade. E Tuna Rosa estivo alí, levando música, presenza e compromiso.",
+    murciaStoryMassiveTitle: "A resposta foi masiva",
+    murciaStoryMassiveText:
+      "Entre 1.200 e 1.500 persoas encheron as rúas, con asistencia de veciñanza de Totana, xente da Rexión de Murcia e participantes chegadas doutras comunidades. A marcha comezou ás 19:00 no Centro Sociocultural La Carcel e tivo un enfoque inclusivo, cun primeiro tramo sen megafonía para coidar as persoas con sensibilidade acústica.",
+    murciaStoryResistanceTitle: "Tuna Rosa: orgullo e resistencia cultural",
+    murciaStoryResistanceText:
+      "No tramo máis festivo da mobilización, Tuna Rosa sumouse con forza. Cada canción foi unha forma de reivindicar visibilidade, dignidade e comunidade. A nosa presenza en Totana foi un acto de resistencia cultural e unha afirmación clara: a diversidade non se agocha nin se negocia.",
+    murciaStorySpainTitle: "Toda España é totaneira",
+    murciaStorySpainText:
+      "Ao chegar á Praza do Concello, a lectura do manifesto e o clamor da xente converteron a xornada nunha mensaxe que transcendeu o local. O peche no Auditorio Marcos Ortiz, con artistas actuando de forma solidaria, reforzou unha idea compartida: a cultura tamén é unha ferramenta de defensa de dereitos.",
+    murciaStoryWallTitle: "Un muro de contención",
+    murciaStoryWallText:
+      "Este Orgullo formulouse como un muro de contención fronte ao odio, e Tuna Rosa formou parte dese muro. Subir ao escenario de Totana foi plantarnos coa música por diante e lembrar que a diversidade non é unha concesión: é un dereito.",
+    murciaStoryClosing:
+      "Totana non se rende. Tuna Rosa estivo alí para demostralo.",
+    alicanteMetaTitle: "Tuna en Alacante | Tuna Rosa LGTBIQA+",
+    alicanteMetaDescription:
+      "Tuna Rosa en Alacante: agrupación musical de tuna con actuacións na rúa, pasabares e eventos en barrios e espazos de Alacante.",
+    alicanteOgTitle: "Tuna en Alacante | Tuna Rosa",
+    alicanteOgDescription:
+      "Coñece a actividade de Tuna Rosa en Alacante: actuacións, pasabares e presenza musical en distintos espazos da cidade.",
+    alicantePageTitle: "Tuna en Alacante: Tuna Rosa LGTBIQA+",
+    alicantePageIntro:
+      "Tuna Rosa desenvolve a súa actividade musical en Alacante, con actuacións na rúa, pasabares e encontros culturais en distintos puntos da cidade.",
+    alicanteEventTitle: "Primeiro Pasabares de Tuna Rosa por Alacante",
+    alicanteEventAlt: "Primeiro pasabares de Tuna Rosa por Alacante",
+    alicanteEventP1:
+      "O 16 de maio de 2026 celebramos o noso primeiro pasabares polas rúas de Alacante, compartindo música en directo con veciñanza e visitantes.",
+    alicanteEventP2:
+      "Esta xornada supuxo un paso clave para consolidar Tuna Rosa como unha tuna activa en Alacante, conectada cos seus barrios, a súa xente e os seus espazos culturais.",
+    alicantePhotosBtn: "Ver fotos e eventos",
+    alicanteBackHome: "Volver a Inicio",
+    contactMetaTitle:
+      "Como unirse a Tuna Rosa LGTBIQA+ - Membrosía e requisitos",
+    contactMetaDescription:
+      "Como unirse a Tuna Rosa LGTBIQA+ desde calquera lugar. Información sobre membrosía, contacto e participación nunha comunidade inclusiva e diversa.",
+    contactOgTitle: "Como unirse a Tuna Rosa LGTBIQA+",
+    contactOgDescription:
+      "Descobre como formar parte de Tuna Rosa. Membrosía gratuíta e comunidade inclusiva.",
 
     // Página contacto/unirse
     joinPageTitle: "Cómo Unirse a Tuna Rosa",

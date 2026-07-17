@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const translations = window.TUNA_TRANSLATIONS || {};
   if (Object.keys(translations).length === 0) {
     console.warn(
-      "TUNA_TRANSLATIONS está vacío; revisa la carga de translations.js"
+      "TUNA_TRANSLATIONS está vacío; revisa la carga de translations.js",
     );
   }
 
@@ -15,10 +15,10 @@ document.addEventListener("DOMContentLoaded", function () {
   const langDropdown = document.getElementById("langDropdown");
 
   // Inicializar
-  if (langBtn && langDropdown) {
-    // Aplicar idioma guardado al cargar
-    changeLanguage(currentLang);
+  // Aplicar idioma guardado al cargar (incluso si la página no tiene selector)
+  changeLanguage(currentLang);
 
+  if (langBtn && langDropdown) {
     // Actualizar botón con idioma actual
     updateLangButton(currentLang);
 
@@ -91,6 +91,51 @@ document.addEventListener("DOMContentLoaded", function () {
       const key = element.getAttribute("data-i18n-html");
       if (t[key]) {
         element.innerHTML = t[key];
+      }
+    });
+
+    // Actualizar atributos traducibles (accesibilidad y textos auxiliares)
+    document.querySelectorAll("[data-i18n-aria-label]").forEach((element) => {
+      const key = element.getAttribute("data-i18n-aria-label");
+      if (t[key]) {
+        element.setAttribute("aria-label", t[key]);
+      }
+    });
+
+    document.querySelectorAll("[data-i18n-alt]").forEach((element) => {
+      const key = element.getAttribute("data-i18n-alt");
+      if (t[key]) {
+        element.setAttribute("alt", t[key]);
+      }
+    });
+
+    document.querySelectorAll("[data-i18n-title]").forEach((element) => {
+      const key = element.getAttribute("data-i18n-title");
+      if (t[key]) {
+        element.setAttribute("title", t[key]);
+      }
+    });
+
+    document.querySelectorAll("[data-i18n-placeholder]").forEach((element) => {
+      const key = element.getAttribute("data-i18n-placeholder");
+      if (t[key]) {
+        element.setAttribute("placeholder", t[key]);
+      }
+    });
+
+    // Actualizar metadatos SEO visibles para el idioma activo
+    const titleElement = document.querySelector("[data-i18n-document-title]");
+    if (titleElement) {
+      const key = titleElement.getAttribute("data-i18n-document-title");
+      if (t[key]) {
+        document.title = t[key];
+      }
+    }
+
+    document.querySelectorAll("[data-i18n-content]").forEach((element) => {
+      const key = element.getAttribute("data-i18n-content");
+      if (t[key]) {
+        element.setAttribute("content", t[key]);
       }
     });
   }

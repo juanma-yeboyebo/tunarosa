@@ -14,10 +14,11 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://tunarosa.es/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://tunarosa.es/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://tunarosa.es/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tunarosa.es/" />
   </url>
   <url>
     <loc>https://tunarosa.es/pages/contacto.html</loc>
-    <lastmod>2026-07-12</lastmod>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://tunarosa.es/pages/contacto.html" />
@@ -27,12 +28,21 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://tunarosa.es/pages/contacto.html" />
     <xhtml:link rel="alternate" hreflang="en" href="https://tunarosa.es/pages/contacto.html" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://tunarosa.es/pages/contacto.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tunarosa.es/pages/contacto.html" />
   </url>
   <url>
     <loc>https://tunarosa.es/pages/tuna-alicante.html</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tunarosa.es/pages/tuna-alicante.html" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://tunarosa.es/pages/tuna-alicante.html" />
+    <xhtml:link rel="alternate" hreflang="gl" href="https://tunarosa.es/pages/tuna-alicante.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://tunarosa.es/pages/tuna-alicante.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://tunarosa.es/pages/tuna-alicante.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tunarosa.es/pages/tuna-alicante.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tunarosa.es/pages/tuna-alicante.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tunarosa.es/pages/tuna-alicante.html" />
   </url>
   <url>
     <loc>https://tunarosa.es/pages/videos-youtube.html</loc>
@@ -46,5 +56,90 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://tunarosa.es/pages/videos-youtube.html" />
     <xhtml:link rel="alternate" hreflang="en" href="https://tunarosa.es/pages/videos-youtube.html" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://tunarosa.es/pages/videos-youtube.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tunarosa.es/pages/videos-youtube.html" />
+  </url>
+  <url>
+    <loc>https://tunarosa.es/pages/tuna-murcia.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tunarosa.es/pages/tuna-murcia.html" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://tunarosa.es/pages/tuna-murcia.html" />
+    <xhtml:link rel="alternate" hreflang="gl" href="https://tunarosa.es/pages/tuna-murcia.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://tunarosa.es/pages/tuna-murcia.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://tunarosa.es/pages/tuna-murcia.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tunarosa.es/pages/tuna-murcia.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tunarosa.es/pages/tuna-murcia.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tunarosa.es/pages/tuna-murcia.html" />
+  </url>
+  <url>
+    <loc>https://tunarosa.es/pages/tuna-valencia.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tunarosa.es/pages/tuna-valencia.html" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://tunarosa.es/pages/tuna-valencia.html" />
+    <xhtml:link rel="alternate" hreflang="gl" href="https://tunarosa.es/pages/tuna-valencia.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://tunarosa.es/pages/tuna-valencia.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://tunarosa.es/pages/tuna-valencia.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tunarosa.es/pages/tuna-valencia.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tunarosa.es/pages/tuna-valencia.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tunarosa.es/pages/tuna-valencia.html" />
+  </url>
+  <url>
+    <loc>https://tunarosa.es/pages/tuna-lgtbi-alicante.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tunarosa.es/pages/tuna-lgtbi-alicante.html" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://tunarosa.es/pages/tuna-lgtbi-alicante.html" />
+    <xhtml:link rel="alternate" hreflang="gl" href="https://tunarosa.es/pages/tuna-lgtbi-alicante.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://tunarosa.es/pages/tuna-lgtbi-alicante.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://tunarosa.es/pages/tuna-lgtbi-alicante.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tunarosa.es/pages/tuna-lgtbi-alicante.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tunarosa.es/pages/tuna-lgtbi-alicante.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tunarosa.es/pages/tuna-lgtbi-alicante.html" />
+  </url>
+  <url>
+    <loc>https://tunarosa.es/pages/tuna-lgtbi-espana.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tunarosa.es/pages/tuna-lgtbi-espana.html" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://tunarosa.es/pages/tuna-lgtbi-espana.html" />
+    <xhtml:link rel="alternate" hreflang="gl" href="https://tunarosa.es/pages/tuna-lgtbi-espana.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://tunarosa.es/pages/tuna-lgtbi-espana.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://tunarosa.es/pages/tuna-lgtbi-espana.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tunarosa.es/pages/tuna-lgtbi-espana.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tunarosa.es/pages/tuna-lgtbi-espana.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tunarosa.es/pages/tuna-lgtbi-espana.html" />
+  </url>
+  <url>
+    <loc>https://tunarosa.es/pages/video-orgullo-totana-1.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tunarosa.es/pages/video-orgullo-totana-1.html" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://tunarosa.es/pages/video-orgullo-totana-1.html" />
+    <xhtml:link rel="alternate" hreflang="gl" href="https://tunarosa.es/pages/video-orgullo-totana-1.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://tunarosa.es/pages/video-orgullo-totana-1.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://tunarosa.es/pages/video-orgullo-totana-1.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tunarosa.es/pages/video-orgullo-totana-1.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tunarosa.es/pages/video-orgullo-totana-1.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tunarosa.es/pages/video-orgullo-totana-1.html" />
+  </url>
+  <url>
+    <loc>https://tunarosa.es/pages/video-orgullo-totana-2.html</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tunarosa.es/pages/video-orgullo-totana-2.html" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://tunarosa.es/pages/video-orgullo-totana-2.html" />
+    <xhtml:link rel="alternate" hreflang="gl" href="https://tunarosa.es/pages/video-orgullo-totana-2.html" />
+    <xhtml:link rel="alternate" hreflang="eu" href="https://tunarosa.es/pages/video-orgullo-totana-2.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://tunarosa.es/pages/video-orgullo-totana-2.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tunarosa.es/pages/video-orgullo-totana-2.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tunarosa.es/pages/video-orgullo-totana-2.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tunarosa.es/pages/video-orgullo-totana-2.html" />
   </url>
 </urlset>
