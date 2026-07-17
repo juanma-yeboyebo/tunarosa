@@ -5,41 +5,51 @@
 >
   <url>
     <loc>https://tunarosa.es/</loc>
+    <!-- Imagen principal prioritaria para Google Imagenes -->
+    <image:image>
+      <image:loc>https://tunarosa.es/images/inauguracion.jpg</image:loc>
+      <image:title>Foto principal oficial de Tuna Rosa en Alicante</image:title>
+      <image:caption>Imagen principal de Tuna Rosa para buscadores y Google Imagenes: actuacion musical en Alicante</image:caption>
+    </image:image>
     <image:image>
       <image:loc>https://tunarosa.es/images/logo.png</image:loc>
       <image:title>Logo Tuna Rosa LGTBIQA+</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://tunarosa.es/images/inauguracion.jpg</image:loc>
-      <image:title>Tuna Rosa en su inauguracion</image:title>
+      <image:caption>Logo oficial de Tuna Rosa, agrupacion musical LGTBIQA+ en Alicante</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://tunarosa.es/images/inauguracion2.jpg</image:loc>
       <image:title>Primer pasabares de Tuna Rosa en Alicante</image:title>
+      <image:caption>Integrantes de Tuna Rosa cantando durante su primer pasabares en Alicante</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://tunarosa.es/images/inauguracion3.jpg</image:loc>
       <image:title>Musica en directo de Tuna Rosa</image:title>
+      <image:caption>Actuacion musical en directo de Tuna Rosa en la calle</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://tunarosa.es/images/inauguracion4.jpg</image:loc>
       <image:title>Ambiente del pasabares de Tuna Rosa</image:title>
+      <image:caption>Publico y ambiente durante el pasabares de Tuna Rosa</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://tunarosa.es/images/santapola.jpg</image:loc>
       <image:title>Tuna Rosa en el Orgullo de Santa Pola</image:title>
+      <image:caption>Tuna Rosa actuando en el Orgullo de Santa Pola 2026</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://tunarosa.es/images/santapola1.jpg</image:loc>
       <image:title>Foto de grupo de Tuna Rosa en Santa Pola</image:title>
+      <image:caption>Foto de grupo de Tuna Rosa tras su actuacion en Santa Pola</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://tunarosa.es/images/santapola2.jpg</image:loc>
       <image:title>Actuacion de Tuna Rosa en Santa Pola</image:title>
+      <image:caption>Actuacion en directo de Tuna Rosa en el Orgullo de Santa Pola</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://tunarosa.es/images/santapola3.jpg</image:loc>
       <image:title>Celebracion de Tuna Rosa en Santa Pola</image:title>
+      <image:caption>Celebracion y convivencia de Tuna Rosa tras la actuacion</image:caption>
     </image:image>
   </url>
 
@@ -48,10 +58,31 @@
     <image:image>
       <image:loc>https://tunarosa.es/images/1767695303227.jpg</image:loc>
       <image:title>Escudo Tuna Rosa LGTBIQA+</image:title>
+      <image:caption>Escudo bordado oficial de Tuna Rosa</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://tunarosa.es/images/1767695303243.jpg</image:loc>
       <image:title>Bandera LGTBIQAI</image:title>
+      <image:caption>Bandera de diversidad en la seccion de contacto de Tuna Rosa</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://tunarosa.es/pages/videos-youtube.html</loc>
+    <image:image>
+      <image:loc>https://tunarosa.es/images/santapola.jpg</image:loc>
+      <image:title>Videos y actuaciones de Tuna Rosa</image:title>
+      <image:caption>Imagen destacada de la pagina de videos de Tuna Rosa en YouTube</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.ytimg.com/vi/_BmRQRoI9h4/hqdefault.jpg</image:loc>
+      <image:title>Tuna Rosa en Orgullo Totana video 1</image:title>
+      <image:caption>Miniatura oficial del video 1 de Tuna Rosa en Orgullo Totana</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.ytimg.com/vi/SpSJlA6TMNY/hqdefault.jpg</image:loc>
+      <image:title>Tuna Rosa en Orgullo Totana video 2</image:title>
+      <image:caption>Miniatura oficial del video 2 de Tuna Rosa en Orgullo Totana</image:caption>
     </image:image>
   </url>
 
@@ -60,34 +91,42 @@
     <image:image>
       <image:loc>https://tunarosa.es/images/instruments/pandereta.jpg</image:loc>
       <image:title>Pandereta de tuna</image:title>
+      <image:caption>Pandereta utilizada por Tuna Rosa en actuaciones musicales</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://tunarosa.es/images/instruments/ukelele.jpg</image:loc>
       <image:title>Ukelele en Tuna Rosa</image:title>
+      <image:caption>Ukelele del repertorio de Tuna Rosa</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://tunarosa.es/images/instruments/cuatro-venezolano.jpg</image:loc>
       <image:title>Cuatro venezolano</image:title>
+      <image:caption>Cuatro venezolano interpretado por Tuna Rosa</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://tunarosa.es/images/instruments/bandurria.jpg</image:loc>
       <image:title>Bandurria tradicional</image:title>
+      <image:caption>Bandurria tocada en actuaciones de Tuna Rosa</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://tunarosa.es/images/instruments/requinto.jpg</image:loc>
       <image:title>Requinto</image:title>
+      <image:caption>Requinto del conjunto musical Tuna Rosa</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://tunarosa.es/images/instruments/cuatro-boliviano.jpg</image:loc>
       <image:title>Cuatro boliviano</image:title>
+      <image:caption>Cuatro boliviano dentro de la instrumentacion de Tuna Rosa</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://tunarosa.es/images/instruments/guitarra.jpg</image:loc>
       <image:title>Guitarra de tuna</image:title>
+      <image:caption>Guitarra usada por Tuna Rosa en actuaciones en directo</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://tunarosa.es/images/instruments/laud.jpg</image:loc>
       <image:title>Laud</image:title>
+      <image:caption>Laud de Tuna Rosa en su repertorio tradicional</image:caption>
     </image:image>
   </url>
 </urlset>

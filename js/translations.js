@@ -184,6 +184,8 @@ window.TUNA_TRANSLATIONS = {
     joinPageTitle: "Cómo Unirse a Tuna Rosa",
     joinIntro:
       "¡Te damos la bienvenida! En Tuna Rosa LGTBIQA+ creemos en la diversidad, el respeto y la inclusión. Aquí tienes toda la información para formar parte de nuestra familia musical.",
+    joinRemoteIntro:
+      "Seas de Alicante, de otra ciudad o de otro país, puedes escribirnos para unirte, colaborar o resolver dudas. Nuestra puerta está abierta a cualquier persona que comparta nuestros valores.",
     membershipTitle: "Socio/Miembr@",
     benefitsTitle: "Beneficios:",
     benefitVoto: "Derecho a voto en asambleas",
@@ -214,6 +216,9 @@ window.TUNA_TRANSLATIONS = {
     faqQ2: "¿Hay límite de edad?",
     faqA2:
       "¡No! Acogemos a personas de todas las edades que compartan nuestros valores.",
+    faqQ4: "¿Solo puede contactar gente de Alicante?",
+    faqA4:
+      "No. Atendemos mensajes y solicitudes desde cualquier lugar. Puedes escribirnos para participar, colaborar o conocernos mejor vivas donde vivas.",
     faqQ3: "¿Tienes dudas?",
     faqA3: "Nuestro Correo:",
     faqButton: "Escribir email",
@@ -425,6 +430,8 @@ window.TUNA_TRANSLATIONS = {
     joinPageTitle: "How to Join Tuna Rosa",
     joinIntro:
       "Welcome! At Tuna Rosa LGTBIQA+ we believe in diversity, respect, and inclusion. Here is all you need to join our musical family.",
+    joinRemoteIntro:
+      "Whether you are in Alicante, another city, or another country, you can write to us to join, collaborate, or ask questions. Our door is open to anyone who shares our values.",
     membershipTitle: "Member",
     benefitsTitle: "Benefits:",
     benefitVoto: "Voting rights in assemblies",
@@ -454,6 +461,9 @@ window.TUNA_TRANSLATIONS = {
       "No. We value the desire to participate. There is room for musicians, singers, and helpers.",
     faqQ2: "Is there an age limit?",
     faqA2: "No. We welcome all ages who share our values.",
+    faqQ4: "Can only people from Alicante contact us?",
+    faqA4:
+      "No. We reply to messages and requests from anywhere. You can contact us to join, collaborate, or get to know us better wherever you live.",
     faqQ3: "Got questions?",
     faqA3: "Our email:",
     faqButton: "Write email",
@@ -663,6 +673,8 @@ window.TUNA_TRANSLATIONS = {
     joinPageTitle: "Com unir-se a la Tuna Rosa",
     joinIntro:
       "Benvinguda! Creiem en la diversitat, el respecte i la inclusió. Aquí tens la informació per sumar-te a la família musical.",
+    joinRemoteIntro:
+      "Siguis d'Alacant, d'una altra ciutat o d'un altre país, pots escriure'ns per unir-te, col·laborar o resoldre dubtes. La nostra porta és oberta a qualsevol persona que comparteixi els nostres valors.",
     membershipTitle: "Membre",
     benefitsTitle: "Beneficis:",
     benefitVoto: "Dret a vot a les assemblees",
@@ -691,6 +703,9 @@ window.TUNA_TRANSLATIONS = {
       "No. Valorem les ganes de participar. Hi ha lloc per a músics, cantants i persones que ajudin.",
     faqQ2: "Hi ha límit d'edat?",
     faqA2: "No. Acollim totes les edats que comparteixin els nostres valors.",
+    faqQ4: "Només pot contactar gent d'Alacant?",
+    faqA4:
+      "No. Atenem missatges i sol·licituds des de qualsevol lloc. Pots escriure'ns per participar, col·laborar o conèixer-nos millor visquis on visquis.",
     faqQ3: "Tens dubtes?",
     faqA3: "El nostre correu:",
     faqButton: "Escriure correu",
@@ -901,6 +916,8 @@ window.TUNA_TRANSLATIONS = {
     joinPageTitle: "Nola batu Tuna Rosara",
     joinIntro:
       "Ongi etorri! Aniztasuna, errespetua eta inklusioa baloratzen ditugu. Hemen duzu behar duzun informazioa.",
+    joinRemoteIntro:
+      "Alacantekoa, beste hiri batekoa edo beste herrialde batekoa izan, idatz diezagukezu batu, lagundu edo zalantzak argitzeko. Gure atea irekita dago gure balioak partekatzen dituen edonorentzat.",
     membershipTitle: "Bazkide",
     benefitsTitle: "Onurak:",
     benefitVoto: "Boto eskubidea batzarretan",
@@ -931,6 +948,9 @@ window.TUNA_TRANSLATIONS = {
     faqQ2: "Adin mugarik al dago?",
     faqA2:
       "Ez. Adin guztietako pertsonak ongi etorriak dira balioak partekatzen badituzte.",
+    faqQ4: "Alacanteko jendeak bakarrik jar daiteke harremanetan?",
+    faqA4:
+      "Ez. Edozein tokitatik jasotzen ditugu mezuak eta eskaerak. Idatz diezagukezu parte hartzeko, laguntzeko edo hobeto ezagutzeko, non bizi zaren kontuan hartu gabe.",
     faqQ3: "Zalantzak dituzu?",
     faqA3: "Gure helbidea:",
     faqButton: "Idatzi emaila",
@@ -1140,6 +1160,8 @@ window.TUNA_TRANSLATIONS = {
     joinPageTitle: "Como juntar-se a Tuna Rosa",
     joinIntro:
       "Bem-vind@! Acreditamos em diversidade, respeito e inclusao. Aqui tens a informacao para te juntares a familia musical.",
+    joinRemoteIntro:
+      "Sejas de Alicante, de outra cidade ou de outro pais, podes escrever-nos para te juntares, colaborar ou tirar duvidas. A nossa porta esta aberta a qualquer pessoa que partilhe os nossos valores.",
     membershipTitle: "Membro",
     benefitsTitle: "Beneficios:",
     benefitVoto: "Direito a voto nas assembleias",
@@ -1169,6 +1191,9 @@ window.TUNA_TRANSLATIONS = {
     faqQ2: "Ha limite de idade?",
     faqA2:
       "Nao. Recebemos pessoas de todas as idades que partilhem os nossos valores.",
+    faqQ4: "So pessoas de Alicante podem contactar?",
+    faqA4:
+      "Nao. Respondemos a mensagens e pedidos de qualquer lugar. Podes escrever-nos para participar, colaborar ou conhecer-nos melhor, vivas onde viveres.",
     faqQ3: "Duvidas?",
     faqA3: "O nosso email:",
     faqButton: "Escrever email",
@@ -1378,6 +1403,8 @@ window.TUNA_TRANSLATIONS = {
     joinPageTitle: "Comment rejoindre la Tuna Rosa",
     joinIntro:
       "Bienvenue ! Nous croyons en la diversite, le respect et l'inclusion. Voici ce qu'il faut pour nous rejoindre.",
+    joinRemoteIntro:
+      "Que vous soyez a Alicante, dans une autre ville ou dans un autre pays, vous pouvez nous ecrire pour rejoindre, collaborer ou poser des questions. Notre porte est ouverte a toute personne qui partage nos valeurs.",
     membershipTitle: "Membre",
     benefitsTitle: "Avantages :",
     benefitVoto: "Droit de vote aux assemblees",
@@ -1406,6 +1433,9 @@ window.TUNA_TRANSLATIONS = {
       "Non. Nous valorisons l'envie de participer. Il y a de la place pour musiciens, chanteurs et aidants.",
     faqQ2: "Y a-t-il une limite d'age?",
     faqA2: "Non. Nous accueillons tous les ages qui partagent nos valeurs.",
+    faqQ4: "Seules les personnes d'Alicante peuvent-elles nous contacter ?",
+    faqA4:
+      "Non. Nous repondons aux messages et demandes venant de partout. Vous pouvez nous ecrire pour participer, collaborer ou mieux nous connaitre, ou que vous viviez.",
     faqQ3: "Des questions?",
     faqA3: "Notre email :",
     faqButton: "Ecrire un email",
@@ -1627,6 +1657,8 @@ window.TUNA_TRANSLATIONS = {
     joinPageTitle: "Cómo Unirse a Tuna Rosa",
     joinIntro:
       "¡Tache a benvida! En Tuna Rosa LGTBIQA+ cremos na diversidade, o respeto e a inclusión. Aquí tes toda a información para formar parte da nosa familia musical.",
+    joinRemoteIntro:
+      "Sexas de Alacante, doutra cidade ou doutro país, podes escribirnos para unirte, colaborar ou resolver dúbidas. A nosa porta está aberta a calquera persoa que comparta os nosos valores.",
     membershipTitle: "Soci@/Miembr@",
     benefitsTitle: "Beneficios:",
     benefitVoto: "Dereito a voto en asambleas",
@@ -1657,6 +1689,9 @@ window.TUNA_TRANSLATIONS = {
     faqQ2: "¿Hai límite de idade?",
     faqA2:
       "¡Non! Acollemos a persoas de todas as idades que compartan os nosos valores.",
+    faqQ4: "¿Só pode contactar xente de Alacante?",
+    faqA4:
+      "Non. Atendemos mensaxes e solicitudes desde calquera lugar. Podes escribirnos para participar, colaborar ou coñecernos mellor vivas onde vivas.",
     faqQ3: "¿Tes dúbidas?",
     faqA3: "O noso Correo:",
     faqButton: "Escribir email",

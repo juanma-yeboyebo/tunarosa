@@ -13,6 +13,7 @@
     />
     <meta name="author" content="Tuna Rosa LGTBIQA+" />
     <meta name="robots" content="index, follow" />
+    <meta name="googlebot-image" content="index, follow" />
     <meta name="language" content="es" />
 
     <!-- Open Graph para redes sociales -->
@@ -22,7 +23,7 @@
     />
     <meta
       property="og:description"
-      content="Tuna inclusiva en Alicante y toda España. Actuaciones, pasabares y eventos con diversidad, visibilidad y música en directo."
+      content="Agrupación musical Tuna Rosa LGTBIQA+ en Alicante y toda España. Actuaciones, pasabares y eventos con diversidad, visibilidad y música en directo."
     />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://tunarosa.es" />
@@ -40,7 +41,7 @@
     <meta name="twitter:title" content="Tuna Rosa LGTBIQA+ en Alicante" />
     <meta
       name="twitter:description"
-      content="Tuna inclusiva en Alicante y en toda España. Únete a nuestra comunidad musical."
+      content="Agrupación musical Tuna Rosa en Alicante y en toda España. Únete a nuestra comunidad musical."
     />
     <meta
       name="twitter:image"
@@ -66,7 +67,7 @@
     <!-- Google Site Verification (cambiar por tu código) -->
     <!-- <meta name="google-site-verification" content="TU_CODIGO_AQUI" /> -->
 
-    <title>Tuna Rosa LGTBIQA+ en Alicante | Tuna Inclusiva en España</title>
+    <title>Tuna Rosa | Agrupación musical LGTBIQA+ en Alicante</title>
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
@@ -77,57 +78,80 @@
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@type": "Organization",
-        "name": "Tuna Rosa LGTBIQA+",
-        "alternateName": "Tuna Rosa",
-        "url": "https://tunarosa.es",
-        "logo": "https://tunarosa.es/images/logo.png",
-        "description": "Una tuna musical inclusiva donde todas las personas tienen cabida. Celebramos la diversidad, el feminismo, la visibilidad y el amor.",
-        "foundingDate": "2025",
-        "areaServed": "ES",
-        "audience": {
-          "@type": "Audience",
-          "name": "LGTBIQA+ community and allies"
-        },
-        "knowsAbout": [
-          "Música tradicional",
-          "Tuna estudiantil",
-          "Inclusión LGTBIQA+",
-          "Diversidad",
-          "Feminismo"
-        ],
-        "sameAs": [
-          "https://www.instagram.com/tunarosalgtbiqaplus/",
-          "https://www.youtube.com/@TunaRosaLgtbiqaplus"
-        ],
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "General",
-          "email": "tunarosalgtbiqaplus@gmail.com",
-          "availableLanguage": [
-            "Spanish",
-            "Catalan",
-            "Galician",
-            "Basque",
-            "Portuguese",
-            "English",
-            "French"
-          ]
-        }
-      }
-    </script>
-    <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "Tuna Rosa LGTBIQA+",
-        "url": "https://tunarosa.es",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://tunarosa.es/?s={search_term_string}",
-          "query-input": "required name=search_term_string"
-        },
-        "inLanguage": ["es", "ca", "gl", "eu", "pt", "en", "fr"]
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://tunarosa.es/#website",
+            "name": "Tuna Rosa LGTBIQA+",
+            "url": "https://tunarosa.es",
+            "inLanguage": ["es", "ca", "gl", "eu", "pt", "en", "fr"],
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://tunarosa.es/?s={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
+          },
+          {
+            "@type": "MusicGroup",
+            "@id": "https://tunarosa.es/#musicgroup",
+            "name": "Tuna Rosa LGTBIQA+",
+            "alternateName": "Tuna Rosa",
+            "url": "https://tunarosa.es",
+            "logo": "https://tunarosa.es/images/logo.png",
+            "image": "https://tunarosa.es/images/inauguracion.jpg",
+            "description": "Agrupación musical de tuna inclusiva con base en Alicante. Celebramos la diversidad, el feminismo, la visibilidad y el amor a través de la música.",
+            "disambiguatingDescription": "Tuna Rosa es una agrupación musical LGTBIQA+, no un fruto.",
+            "genre": [
+              "Música de tuna",
+              "Música tradicional",
+              "Música en directo"
+            ],
+            "foundingDate": "2025",
+            "areaServed": "ES",
+            "sameAs": [
+              "https://www.instagram.com/tunarosalgtbiqaplus/",
+              "https://www.youtube.com/@TunaRosaLgtbiqaplus"
+            ],
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "contactType": "General",
+              "email": "tunarosalgtbiqaplus@gmail.com",
+              "availableLanguage": [
+                "Spanish",
+                "Catalan",
+                "Galician",
+                "Basque",
+                "Portuguese",
+                "English",
+                "French"
+              ]
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://tunarosa.es/#webpage",
+            "url": "https://tunarosa.es/",
+            "name": "Tuna Rosa | Agrupación musical LGTBIQA+ en Alicante",
+            "isPartOf": {
+              "@id": "https://tunarosa.es/#website"
+            },
+            "about": {
+              "@id": "https://tunarosa.es/#musicgroup"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://tunarosa.es/images/inauguracion.jpg#primary"
+            },
+            "description": "Web oficial de la agrupación musical Tuna Rosa LGTBIQA+ en Alicante y España."
+          },
+          {
+            "@type": "ImageObject",
+            "@id": "https://tunarosa.es/images/inauguracion.jpg#primary",
+            "url": "https://tunarosa.es/images/inauguracion.jpg",
+            "contentUrl": "https://tunarosa.es/images/inauguracion.jpg",
+            "caption": "Tuna Rosa, agrupación musical LGTBIQA+, durante una actuación en Alicante",
+            "representativeOfPage": true
+          }
+        ]
       }
     </script>
   </head>
@@ -375,7 +399,10 @@
           <div class="instruments-slider">
             <div class="instrument-card">
               <div class="instrument-image">
-                <img src="images/instruments/pandereta.jpg" alt="Pandereta" />
+                <img
+                  src="images/instruments/pandereta.jpg"
+                  alt="Pandereta usada por Tuna Rosa en actuaciones musicales"
+                />
               </div>
               <h3 data-i18n="instrumentoPandereta">Pandereta</h3>
               <p data-i18n="instrumentoPanderetaDesc">
@@ -386,7 +413,10 @@
 
             <div class="instrument-card">
               <div class="instrument-image">
-                <img src="images/instruments/ukelele.jpg" alt="Ukelele" />
+                <img
+                  src="images/instruments/ukelele.jpg"
+                  alt="Ukelele del repertorio de Tuna Rosa"
+                />
               </div>
               <h3 data-i18n="instrumentoUkelele">Ukelele</h3>
               <p data-i18n="instrumentoUkeleleDesc">
@@ -399,7 +429,7 @@
               <div class="instrument-image">
                 <img
                   src="images/instruments/cuatro-venezolano.jpg"
-                  alt="Cuatro Venezolano"
+                  alt="Cuatro venezolano tocado en Tuna Rosa"
                 />
               </div>
               <h3 data-i18n="instrumentoCuatroVenezolano">Cuatro Venezolano</h3>
@@ -411,7 +441,10 @@
 
             <div class="instrument-card">
               <div class="instrument-image">
-                <img src="images/instruments/bandurria.jpg" alt="Bandurria" />
+                <img
+                  src="images/instruments/bandurria.jpg"
+                  alt="Bandurria en una actuación de Tuna Rosa"
+                />
               </div>
               <h3 data-i18n="instrumentoBandurria">Bandurria</h3>
               <p data-i18n="instrumentoBandurriaDesc">
@@ -422,7 +455,10 @@
 
             <div class="instrument-card">
               <div class="instrument-image">
-                <img src="images/instruments/requinto.jpg" alt="Requinto" />
+                <img
+                  src="images/instruments/requinto.jpg"
+                  alt="Requinto del grupo musical Tuna Rosa"
+                />
               </div>
               <h3 data-i18n="instrumentoRequinto">Requinto</h3>
               <p data-i18n="instrumentoRequintoDesc">
@@ -435,7 +471,7 @@
               <div class="instrument-image">
                 <img
                   src="images/instruments/cuatro-boliviano.jpg"
-                  alt="Cuatro Boliviano"
+                  alt="Cuatro boliviano interpretado por Tuna Rosa"
                 />
               </div>
               <h3 data-i18n="instrumentoCuatroBoliviano">Cuatro Boliviano</h3>
@@ -447,7 +483,10 @@
 
             <div class="instrument-card">
               <div class="instrument-image">
-                <img src="images/instruments/guitarra.jpg" alt="Guitarra" />
+                <img
+                  src="images/instruments/guitarra.jpg"
+                  alt="Guitarra de Tuna Rosa en concierto"
+                />
               </div>
               <h3 data-i18n="instrumentoGuitarra">Guitarra</h3>
               <p data-i18n="instrumentoGuitarraDesc">
@@ -458,7 +497,10 @@
 
             <div class="instrument-card">
               <div class="instrument-image">
-                <img src="images/instruments/laud.jpg" alt="Laúd" />
+                <img
+                  src="images/instruments/laud.jpg"
+                  alt="Laúd de Tuna Rosa"
+                />
               </div>
               <h3 data-i18n="instrumentoLaud">Laúd</h3>
               <p data-i18n="instrumentoLaudDesc">
