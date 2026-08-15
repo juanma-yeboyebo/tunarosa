@@ -18,7 +18,7 @@ sudo apt-get install imagemagick
 ### Redimensionar todas las imágenes a la vez:
 
 ```bash
-cd /home/juanma/personal/tunarosa/images/instruments
+cd /home/juanma/personal/tunarosa/imagenes/instrumentos
 
 # Redimensionar manteniendo proporción (ancho máximo 700px)
 for img in *.jpg *.JPG *.jpeg *.JPEG 2>/dev/null; do
@@ -68,7 +68,7 @@ Asegúrate de que las imágenes tengan exactamente estos nombres:
 ## ✅ Verificar Tamaño Actual
 
 ```bash
-cd /home/juanma/personal/tunarosa/images/instruments
+cd /home/juanma/personal/tunarosa/imagenes/instrumentos
 ls -lh *.jpg
 ```
 
@@ -80,7 +80,7 @@ Si son más de 500 KB, deberías optimizar.
 Copia y pega esto en la terminal:
 
 ```bash
-cd /home/juanma/personal/tunarosa/images/instruments
+cd /home/juanma/personal/tunarosa/imagenes/instrumentos
 
 # Backup primero (por si acaso)
 mkdir -p ../instruments-backup

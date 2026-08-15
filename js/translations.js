@@ -41,16 +41,34 @@ window.TUNA_TRANSLATIONS = {
     totanaP2:
       "Tuna Rosa estuvo presente en la calle y en el escenario, aportando música, visibilidad y una defensa clara de la diversidad.",
     totanaMoreLink: "Crónica completa de Totana en Murcia",
+    alicantePrideTitle:
+      "Orgull Alacant 2026: pasabares del viernes 17 de julio",
+    alicantePrideAltCover: "Orgull Alacant 2026",
+    alicantePrideAlt1: "Pasabares de Tuna Rosa por Alicante",
+    alicantePrideAlt2: "Tuna Rosa cantando en el Orgull Alacant",
+    alicantePrideAlt3: "Público acompañando a Tuna Rosa en Alicante",
+    alicantePrideAlt4: "Actuación de Tuna Rosa en Alicante",
+    alicantePrideAlt5: "Celebración del Orgull Alacant 2026",
+    alicantePrideAlt6: "Tuna Rosa en el Casco Antiguo de Alicante",
+    alicantePrideAlt7: "Orgullo y música con Tuna Rosa en Alicante",
+    alicantePrideP1:
+      "Con motivo de la celebración del Orgullo 2026, la Tuna Rosa organizó un pasabares por el Casco Antiguo de Alicante. Visitamos varios locales, entre ellos Marimar, la calle Labradores, Menuda Lagarta y, finalmente, Caníbal en la Explanada.",
+    alicantePrideP2:
+      'En todos estos lugares pudimos cantar, junto a las personas que nos arropaban, nuestro repertorio LGTBIQA+: "A quién le importa", "Un mundo feliz", "Viaje con nosotres", "Sobreviviré" y muchas otras que nos pedisteis. Fue una noche llena de reivindicación y alegría de sentirnos parte de la sociedad española que visibiliza la igualdad, el respeto, la diversidad, el amor y el orgullo.',
+    alicantePrideP3:
+      "Gracias a todes por hacernos sentir tan queridos, por juntaros a cantar y disfrutar con nosotros del primer Orgullo como Tuna Rosa LGTBIQA+. Os queremos, Aúpa Tuna Rosa!",
 
     // Hero
-    heroTitle: "Bienvenidos/as/es a la Tuna Rosa LGTBIQA+",
+    heroTitle: "Bienvenides a la Tuna Rosa LGTBIQA+",
     heroSubtitle:
       "Un espacio musical inclusivo donde todas las personas tienen cabida",
     heroIntro: '¡Hola! Soy Isidoro, también conocido como "Bruja" o "Looky"',
     heroP1:
-      "Soy el Coordinador de la asociación Tuna Rosa, y una de las cabezas visibles de este nuevo proyecto junto a otros hombres, mujeres, trans, queers y personas que no se identifican con los patrones tradicionales de heterosexualidad.",
+      "Coordino la asociación Tuna Rosa y soy una de las personas visibles de este proyecto, junto a personas trans, queers y otras personas que no se identifican con los patrones tradicionales de heterosexualidad.",
     heroP2:
-      "Nuestro grupo es una nueva propuesta de diversión a través de la música donde todas las personas tengan cabida, el único requisito para pertenecer a él es el respeto y el cariño entre nosotras/os/es y hacia la sociedad.",
+      "Nuestro grupo es una propuesta de diversión a través de la música donde todas las personas tienen cabida; el único requisito para pertenecer es el respeto y el cariño hacia todas las personas.",
+    grupoEstudiantes:
+      "Tuna Rosa está formada por estudiantes y antiguas personas estudiantes, tanto universitarias como de otros ciclos formativos. El único requisito para pertenecer es respetar a todas las personas, especialmente a las personas LGTBIQA+.",
 
     // Valores
     valoresTitle: "Nuestros Valores",
@@ -141,10 +159,10 @@ window.TUNA_TRANSLATIONS = {
     // Únete CTA en home
     uneteTitle: "¡Únete a nuestra Tuna Rosa!",
     uneteP1:
-      'Nuestra invitación es internacional; puede asociarse toda persona que quiera cantar, tocar y aportar su "buen rollo" al grupo. Únicamente estarán vetadas las personas que intenten separar, ridiculizar, humillar o transmitir odio.',
-    uneteBtn: "Hazte socio/a/e",
+      'Nuestra invitación es internacional; puede unirse cualquier persona que quiera cantar, tocar y aportar su "buen rollo" al grupo. Solo quedarán fuera quienes intenten separar, ridiculizar, humillar o transmitir odio.',
+    uneteBtn: "Únete a Tuna Rosa",
     uneteP2:
-      "Os esperamos a todas/es/os los que queráis participar de nuestra Tuna Rosa Lgtbiqa+; bien haciéndoos socias/es/os (sin ninguna aportación económica) o bien, simplemente uniéndoos a cantar donde nos encontréis.",
+      "Esperamos a todas las personas que queráis participar en nuestra Tuna Rosa LGTBIQA+, ya sea como parte de la asociación, sin aportación económica, o simplemente uniéndoos a cantar donde nos encontréis.",
 
     // Footer
     contacto: "Contacto",
@@ -396,6 +414,21 @@ window.TUNA_TRANSLATIONS = {
     totanaP2:
       "Tuna Rosa was present in the streets and on stage, bringing music, visibility and a clear defense of diversity.",
     totanaMoreLink: "Full Totana chronicle in Murcia",
+    alicantePrideTitle: "Orgull Alacant 2026: pub crawl on Friday, July 17",
+    alicantePrideAltCover: "Orgull Alacant 2026",
+    alicantePrideAlt1: "Tuna Rosa pub crawl through Alicante",
+    alicantePrideAlt2: "Tuna Rosa singing at Orgull Alacant",
+    alicantePrideAlt3: "Audience joining Tuna Rosa in Alicante",
+    alicantePrideAlt4: "Tuna Rosa performance in Alicante",
+    alicantePrideAlt5: "Orgull Alacant 2026 celebration",
+    alicantePrideAlt6: "Tuna Rosa in Alicante's Old Town",
+    alicantePrideAlt7: "Pride and music with Tuna Rosa in Alicante",
+    alicantePrideP1:
+      "As part of Pride 2026, Tuna Rosa organized a pub crawl through Alicante's Old Town. We visited several venues, including Marimar, Labradores street, Menuda Lagarta and finally Caníbal on the Explanada.",
+    alicantePrideP2:
+      'At all these places we sang our LGTBIQA+ repertoire alongside the people who supported us: "A quién le importa", "Un mundo feliz", "Viaje con nosotres", "Sobreviviré" and many other songs you requested. It was a night full of advocacy and the joy of feeling part of Spanish society as it makes equality, respect, diversity, love and pride visible.',
+    alicantePrideP3:
+      "Thank you all for making us feel so loved, for joining us to sing and enjoy our first Pride as Tuna Rosa LGTBIQA+. We love you. Aupa Tuna Rosa!",
 
     heroTitle: "Welcome to Tuna Rosa LGTBIQA+",
     heroSubtitle: "An inclusive musical space where everyone has a place",
@@ -404,6 +437,8 @@ window.TUNA_TRANSLATIONS = {
       "I am the coordinator of the Tuna Rosa association, one of the visible heads of this new project alongside other men, women, trans, queers and people who do not identify with traditional heterosexual patterns.",
     heroP2:
       "Our group is a new proposal for fun through music where everyone has a place. The only requirement is respect and care among us and towards society.",
+    grupoEstudiantes:
+      "Tuna Rosa is made up of current and former students, from universities and other educational programs. The only requirement for joining is respect for everyone, especially LGTBIQA+ people.",
 
     valoresTitle: "Our Values",
     valoresIntro:
@@ -731,6 +766,22 @@ window.TUNA_TRANSLATIONS = {
     totanaP2:
       "Tuna Rosa va ser present al carrer i a l'escenari, aportant música, visibilitat i una defensa clara de la diversitat.",
     totanaMoreLink: "Crònica completa de Totana a Múrcia",
+    alicantePrideTitle:
+      "Orgull Alacant 2026: passabars del divendres 17 de juliol",
+    alicantePrideAltCover: "Orgull Alacant 2026",
+    alicantePrideAlt1: "Passabars de Tuna Rosa per Alacant",
+    alicantePrideAlt2: "Tuna Rosa cantant a l'Orgull Alacant",
+    alicantePrideAlt3: "Públic acompanyant Tuna Rosa a Alacant",
+    alicantePrideAlt4: "Actuació de Tuna Rosa a Alacant",
+    alicantePrideAlt5: "Celebració de l'Orgull Alacant 2026",
+    alicantePrideAlt6: "Tuna Rosa al Casc Antic d'Alacant",
+    alicantePrideAlt7: "Orgull i música amb Tuna Rosa a Alacant",
+    alicantePrideP1:
+      "Amb motiu de la celebració de l'Orgull 2026, Tuna Rosa va organitzar un passabars pel Casc Antic d'Alacant. Vam visitar diversos locals, entre ells Marimar, el carrer Labradores, Menuda Lagarta i, finalment, Caníbal a l'Esplanada.",
+    alicantePrideP2:
+      'En tots aquests llocs vam poder cantar, junt amb les persones que ens abrigaven, el nostre repertori LGTBIQA+: "A quién le importa", "Un mundo feliz", "Viaje con nosotres", "Sobreviviré" i moltes altres que ens vau demanar. Va ser una nit plena de reivindicació i alegria de sentir-nos part de la societat espanyola que fa visibles la igualtat, el respecte, la diversitat, l\'amor i l\'orgull.',
+    alicantePrideP3:
+      "Gràcies a tothom per fer-nos sentir tan estimats, per ajuntar-vos a cantar i gaudir amb nosaltres del primer Orgull com a Tuna Rosa LGTBIQA+. Us estimem, Aupa Tuna Rosa!",
 
     heroTitle: "Benvinguts/des a la Tuna Rosa LGTBIQA+",
     heroSubtitle: "Un espai musical inclusiu on tothom té cabuda",
@@ -739,6 +790,8 @@ window.TUNA_TRANSLATIONS = {
       "Sóc el coordinador de l'associació Tuna Rosa, una de les cares visibles d'aquest projecte amb altres homes, dones, persones trans i queer, i qui no s'identifica amb patrons heteronormatius.",
     heroP2:
       "La nostra proposta és divertir-nos amb la música on tothom hi tingui lloc; l'únic requisit és el respecte i l'afecte entre nosaltres i cap a la societat.",
+    grupoEstudiantes:
+      "Tuna Rosa està formada per estudiants i antigues persones estudiants, tant universitàries com d'altres cicles formatius. L'únic requisit per unir-s'hi és respectar totes les persones, especialment les persones LGTBIQA+.",
 
     valoresTitle: "Els nostres valors",
     valoresIntro:
@@ -1064,6 +1117,22 @@ window.TUNA_TRANSLATIONS = {
     totanaP2:
       "Tuna Rosa kalean eta agertokian egon zen, musika, ikusgarritasuna eta aniztasunaren aldeko defentsa argia eskainiz.",
     totanaMoreLink: "Totanako kronika osoa Murtzian",
+    alicantePrideTitle:
+      "Orgull Alacant 2026: uztailaren 17ko ostiraleko pasabarrak",
+    alicantePrideAltCover: "Orgull Alacant 2026",
+    alicantePrideAlt1: "Tuna Rosaren pasabarrak Alacanten",
+    alicantePrideAlt2: "Tuna Rosa Orgull Alacanten abesten",
+    alicantePrideAlt3: "Publikoa Tuna Rosarekin Alacanten",
+    alicantePrideAlt4: "Tuna Rosaren emanaldia Alacanten",
+    alicantePrideAlt5: "Orgull Alacant 2026 ospakizuna",
+    alicantePrideAlt6: "Tuna Rosa Alacanteko Alde Zaharrean",
+    alicantePrideAlt7: "Harrotasuna eta musika Tuna Rosarekin Alacanten",
+    alicantePrideP1:
+      "2026ko Harrotasunaren ospakizunaren harira, Tuna Rosak pasabarrak antolatu zituen Alacanteko Alde Zaharrean. Hainbat lokal bisitatu genituen, besteak beste Marimar, Labradores kalea, Menuda Lagarta eta, azkenik, Caníbal Explanadan.",
+    alicantePrideP2:
+      'Leku guztietan gure LGTBIQA+ errepertorioa abestu genuen babesa eman ziguten pertsonekin batera: "A quién le importa", "Un mundo feliz", "Viaje con nosotres", "Sobreviviré" eta eskatu zenizkiguten beste asko. Aldarrikapenez eta berdintasuna, errespetua, aniztasuna, maitasuna eta harrotasuna ikusarazten dituen Espainiako gizartearen parte izatearen pozez betetako gaua izan zen.',
+    alicantePrideP3:
+      "Eskerrik asko hain maitatuak sentiarazteagatik, gurekin abestera eta gozatzera elkartzeagatik eta Tuna Rosa LGTBIQA+ gisa izan dugun lehen Harrotasunaz gozatzeko. Maite zaituztegu, Aupa Tuna Rosa!",
 
     heroTitle: "Ongi etorri Tuna Rosa LGTBIQA+ra",
     heroSubtitle: "Musika gune inklusiboa non denek tokia duten",
@@ -1072,6 +1141,8 @@ window.TUNA_TRANSLATIONS = {
       "Tuna Rosa elkarteko koordinatzailea naiz, proiektu honen aurpegietako bat beste gizon, emakume, trans eta queer pertsonekin batera, eredue heteronormativoetatik kanpo.",
     heroP2:
       "Musikaren bidez gozatzeko proposamen berria gara; baldintza bakarra errespetua eta maitasuna da gure artean eta gizartearekiko.",
+    grupoEstudiantes:
+      "Tuna Rosa egungo eta lehengo ikasleek osatzen dute, unibertsitateetakoek zein beste prestakuntza-ziklo batzuetakoek. Bat egiteko baldintza bakarra pertsona guztiak errespetatzea da, bereziki LGTBIQA+ pertsonak.",
 
     valoresTitle: "Gure balioak",
     valoresIntro:
@@ -1401,6 +1472,22 @@ window.TUNA_TRANSLATIONS = {
     totanaP2:
       "A Tuna Rosa esteve na rua e no palco, levando musica, visibilidade e uma defesa clara da diversidade.",
     totanaMoreLink: "Cronica completa de Totana em Murcia",
+    alicantePrideTitle:
+      "Orgull Alacant 2026: pasabares de sexta-feira, 17 de julho",
+    alicantePrideAltCover: "Orgull Alacant 2026",
+    alicantePrideAlt1: "Pasabares da Tuna Rosa por Alicante",
+    alicantePrideAlt2: "Tuna Rosa a cantar no Orgull Alacant",
+    alicantePrideAlt3: "Publico a acompanhar a Tuna Rosa em Alicante",
+    alicantePrideAlt4: "Atuacao da Tuna Rosa em Alicante",
+    alicantePrideAlt5: "Celebracao do Orgull Alacant 2026",
+    alicantePrideAlt6: "Tuna Rosa no Centro Historico de Alicante",
+    alicantePrideAlt7: "Orgulho e musica com a Tuna Rosa em Alicante",
+    alicantePrideP1:
+      "Por ocasiao do Orgulho 2026, a Tuna Rosa organizou um pasabares pelo centro historico de Alicante. Visitamos varios locais, incluindo Marimar, a rua Labradores, Menuda Lagarta e, por fim, Canibal na Explanada.",
+    alicantePrideP2:
+      'Em todos estes lugares cantamos o nosso repertorio LGTBIQA+ com as pessoas que nos apoiaram: "A quién le importa", "Un mundo feliz", "Viaje con nosotres", "Sobreviviré" e muitas outras musicas que nos pediram. Foi uma noite de reivindicacao e alegria por nos sentirmos parte da sociedade espanhola que torna visiveis a igualdade, o respeito, a diversidade, o amor e o orgulho.',
+    alicantePrideP3:
+      "Obrigado a todas as pessoas por nos fazerem sentir tao queridos, por se juntarem a cantar e a desfrutar connosco do primeiro Orgulho como Tuna Rosa LGTBIQA+. Gostamos muito de voces, Aupa Tuna Rosa!",
 
     heroTitle: "Bem-vind@s a Tuna Rosa LGTBIQA+",
     heroSubtitle: "Um espaco musical inclusivo onde tod@s cabem",
@@ -1409,6 +1496,8 @@ window.TUNA_TRANSLATIONS = {
       "Sou coordenador da associacao Tuna Rosa, uma das cabecas visiveis deste projeto junto de homens, mulheres, pessoas trans e queer, e quem nao segue o padrao heteronormativo.",
     heroP2:
       "Somos uma proposta de diversao atraves da musica onde tod@s tem lugar; o unico requisito e respeito e carinho entre nos e com a sociedade.",
+    grupoEstudiantes:
+      "A Tuna Rosa e formada por estudantes atuais e antigos, tanto universitarios como de outros ciclos formativos. O unico requisito para pertencer e respeitar todas as pessoas, especialmente as pessoas LGTBIQA+.",
 
     valoresTitle: "Nossos valores",
     valoresIntro:
@@ -1735,6 +1824,22 @@ window.TUNA_TRANSLATIONS = {
     totanaP2:
       "Tuna Rosa a ete presente dans la rue et sur scene, en apportant musique, visibilite et une defense claire de la diversite.",
     totanaMoreLink: "Chronique complete de Totana a Murcia",
+    alicantePrideTitle:
+      "Orgull Alacant 2026 : pasabares du vendredi 17 juillet",
+    alicantePrideAltCover: "Orgull Alacant 2026",
+    alicantePrideAlt1: "Pasabares de Tuna Rosa a Alicante",
+    alicantePrideAlt2: "Tuna Rosa chante a l'Orgull Alacant",
+    alicantePrideAlt3: "Public accompagnant Tuna Rosa a Alicante",
+    alicantePrideAlt4: "Prestation de Tuna Rosa a Alicante",
+    alicantePrideAlt5: "Celebration de l'Orgull Alacant 2026",
+    alicantePrideAlt6: "Tuna Rosa dans la vieille ville d'Alicante",
+    alicantePrideAlt7: "Fierte et musique avec Tuna Rosa a Alicante",
+    alicantePrideP1:
+      "A l'occasion de la Pride 2026, Tuna Rosa a organise un pasabares dans la vieille ville d'Alicante. Nous avons visite plusieurs etablissements, notamment Marimar, la rue Labradores, Menuda Lagarta et enfin Canibal sur l'Explanada.",
+    alicantePrideP2:
+      'Dans tous ces lieux, nous avons chante notre repertoire LGTBIQA+ avec les personnes qui nous soutenaient : "A quién le importa", "Un mundo feliz", "Viaje con nosotres", "Sobreviviré" et beaucoup d\'autres chansons que vous nous avez demandees. Ce fut une nuit de revendication et de joie de nous sentir membres de la societe espagnole qui rend visibles l\'egalite, le respect, la diversite, l\'amour et la fierte.',
+    alicantePrideP3:
+      "Merci a toutes et tous de nous avoir fait sentir si aimes, de vous etre reunis pour chanter et profiter avec nous de la premiere Pride de Tuna Rosa LGTBIQA+. Nous vous aimons, Aupa Tuna Rosa !",
 
     heroTitle: "Bienvenue a la Tuna Rosa LGTBIQA+",
     heroSubtitle: "Un espace musical inclusif ou chacun a sa place",
@@ -1743,6 +1848,8 @@ window.TUNA_TRANSLATIONS = {
       "Je suis coordinateur de l'association Tuna Rosa, l'un des visages de ce projet avec d'autres hommes, femmes, personnes trans et queer en dehors des normes heteronormatives.",
     heroP2:
       "Nous sommes une proposition de loisir par la musique ou tout le monde a sa place; la seule condition est le respect et l'affection entre nous et envers la societe.",
+    grupoEstudiantes:
+      "Tuna Rosa est composee d'etudiants actuels et anciens, issus des universites et d'autres formations. La seule condition pour nous rejoindre est de respecter tout le monde, en particulier les personnes LGTBIQA+.",
 
     valoresTitle: "Nos valeurs",
     valoresIntro:
@@ -2069,6 +2176,21 @@ window.TUNA_TRANSLATIONS = {
     totanaP2:
       "Tuna Rosa estivo presente na rúa e no escenario, achegando música, visibilidade e unha defensa clara da diversidade.",
     totanaMoreLink: "Crónica completa de Totana en Murcia",
+    alicantePrideTitle: "Orgull Alacant 2026: pasabares do venres 17 de xullo",
+    alicantePrideAltCover: "Orgull Alacant 2026",
+    alicantePrideAlt1: "Pasabares de Tuna Rosa por Alacante",
+    alicantePrideAlt2: "Tuna Rosa cantando no Orgull Alacant",
+    alicantePrideAlt3: "Público acompañando a Tuna Rosa en Alacante",
+    alicantePrideAlt4: "Actuación de Tuna Rosa en Alacante",
+    alicantePrideAlt5: "Celebración do Orgull Alacant 2026",
+    alicantePrideAlt6: "Tuna Rosa no Casco Antigo de Alacante",
+    alicantePrideAlt7: "Orgullo e música con Tuna Rosa en Alacante",
+    alicantePrideP1:
+      "Con motivo da celebración do Orgullo 2026, Tuna Rosa organizou un pasabares polo Casco Antigo de Alacante. Visitamos varios locais, entre eles Marimar, a rúa Labradores, Menuda Lagarta e, finalmente, Caníbal na Explanada.",
+    alicantePrideP2:
+      'En todos estes lugares puidemos cantar, xunto ás persoas que nos apoiaban, o noso repertorio LGTBIQA+: "A quién le importa", "Un mundo feliz", "Viaje con nosotres", "Sobreviviré" e moitas outras que nos pedistes. Foi unha noite chea de reivindicación e alegría de sentirnos parte da sociedade española que visibiliza a igualdade, o respecto, a diversidade, o amor e o orgullo.',
+    alicantePrideP3:
+      "Grazas a todas as persoas por facernos sentir tan queridas, por xuntárdesvos a cantar e gozar connosco do primeiro Orgullo como Tuna Rosa LGTBIQA+. Querémosvos, Aúpa Tuna Rosa!",
 
     // Hero
     heroTitle: "Benvid@s a Tuna Rosa LGTBIQA+",
@@ -2078,6 +2200,8 @@ window.TUNA_TRANSLATIONS = {
       "Son o coordinador da asociación Tuna Rosa, e unha das caras visibles deste novo proxecto xunto a outros homes, mulleres, trans, queers e persoas que non se identifican cos patróns tradicionais de heterosexualidade.",
     heroP2:
       "O noso grupo é unha nova proposta de diversión a través da música onde todxs teñan cabida, o único requisito para pertencer a el é o respeto e o cariño entre nós/as/es e cara á sociedade.",
+    grupoEstudiantes:
+      "Tuna Rosa está formada por estudantes actuais e antigos, tanto universitarios como doutros ciclos formativos. O único requisito para pertencer é respectar todas as persoas, especialmente as persoas LGTBIQA+.",
 
     // Valores
     valoresTitle: "Os nosos Valores",
