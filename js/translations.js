@@ -66,7 +66,7 @@ window.TUNA_TRANSLATIONS = {
     heroP1:
       "Coordino la asociación Tuna Rosa y soy una de las personas visibles de este proyecto, junto a personas trans, queers y otras personas que no se identifican con los patrones tradicionales de heterosexualidad.",
     heroP2:
-      "Nuestro grupo es una propuesta de diversión a través de la música donde todas las personas tienen cabida; el único requisito para pertenecer es el respeto y el cariño hacia todas las personas.",
+      "Nuestro grupo es una propuesta de diversión a través de la música donde todas las personas tienen cabida; el único requisito para pertenecer es el respeto y el cariño hacia todas las personas, especialmente a las personas LGTBIQA+.",
     grupoEstudiantes:
       "Tuna Rosa está formada por estudiantes y antiguos estudiantes, tanto universitarios como de otros ciclos formativos. El único requisito para pertenecer es respetar a todas las personas, especialmente a las personas LGTBIQA+.",
 
