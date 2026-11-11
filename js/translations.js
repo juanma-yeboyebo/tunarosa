@@ -726,6 +726,43 @@ window.TUNA_TRANSLATIONS = {
     faqUQ3: "Where do we rehearse?",
     faqUA3:
       "Rehearsals take place at [LOCATION] on [DAYS AND HOURS]. Contact us for details!",
+
+    // Fiat Lux Event (English)
+    fiatLuxMetaTitle: "Fiat Lux | Book presentation with Lydia Na in Alicante",
+    fiatLuxMetaDescription:
+      "Presentation of the book 'Fiat Lux: Trans identities in the light of history, legend and philosophy' by Lydia Na. Event at Fahrenheit 451 Bookstore, Alicante, October 16, 2026.",
+    fiatLuxOgTitle: "Fiat Lux | Book presentation by Lydia Na",
+    fiatLuxOgDescription:
+      "Presentation of 'Fiat Lux: Trans identities in the light of history, legend and philosophy' with author Lydia Na at Fahrenheit 451 Bookstore in Alicante.",
+    fiatLuxPageTitle: "Fiat Lux: Book presentation in Alicante",
+    fiatLuxPageIntro:
+      "On October 16, 2026, Tuna Rosa participated in the presentation of Lydia Na's book 'Fiat Lux' at Fahrenheit 451 Bookstore in Alicante, an event celebrating trans history, identity and philosophy.",
+    fiatLuxHeadline: "Fiat Lux: Trans identities in the light of history, legend and philosophy",
+    fiatLuxAuthor: "Lydia Na (Lydia Dols del Corral)",
+    fiatLuxAuthorDesc:
+      "Writer, communicator and trans activist. Author of the first trans history written by a trans person who exists.",
+    fiatLuxAboutTitle: "About the book",
+    fiatLuxAboutP1:
+      "'Fiat Lux' is a work that explores trans identities from multiple perspectives: history, legend and philosophy. Lydia Na offers a profound look at trans experience, transcending conventional views to present an analysis that honors the complexity, dignity and existence of trans people in our society.",
+    fiatLuxAboutP2:
+      "This book represents an important milestone: it is the first trans history written by a trans person who exists, a testimony that from first-person perspective, lived experience and reflection, contributes to knowledge and visibility of trans identities.",
+    fiatLuxAboutP3:
+      "For Tuna Rosa, participating in this event was an honor. The music and art we shared in the presentation reaffirmed our commitment to trans visibility, inclusive culture and support for initiatives that celebrate and dignify our community.",
+    fiatLuxEventTitle: "Presentation at Fahrenheit 451 Bookstore",
+    fiatLuxEventDate: "October 16, 2026",
+    fiatLuxEventLocation: "Fahrenheit 451 Bookstore, Alicante",
+    fiatLuxEventP1:
+      "The presentation brought together a diverse audience interested in literature, philosophy and trans activism. In a welcoming atmosphere, Lydia Na shared reflections about her work and the creative process behind 'Fiat Lux'.",
+    fiatLuxEventP2:
+      "Tuna Rosa brought music, songs and the warmth of our community to the event. It was a moment of encounter where literature, music and LGTBIQA+ activism intertwined in defense of the dignity and existence of trans people.",
+    fiatLuxEventP3:
+      "We thank Lydia Na for her courage in writing and sharing her story, Fahrenheit 451 Bookstore for welcoming us, and all the people who attended and showed that trans visibility is an act of justice and love.",
+    fiatLuxGalleryTitle: "Photo gallery",
+    fiatLuxAltGroup: "Tuna Rosa team and friends at Fahrenheit 451 Bookstore",
+    fiatLuxAltLydia: "Lydia Na with the Fiat Lux book",
+    fiatLuxAltMusicians1: "Musical performance at Fiat Lux book presentation",
+    fiatLuxAltMusicians2: "Tuna Rosa playing at the book presentation",
+    fiatLuxBackHome: "Back to Home",
   },
 
   cat: {
@@ -1077,6 +1114,43 @@ window.TUNA_TRANSLATIONS = {
     faqUQ3: "On assagem?",
     faqUA3:
       "Assagem a [LOCALITZACIÓ] els [DIES I HORES]. Contacta'ns per detalls!",
+
+    // Fiat Lux Event (Catalan)
+    fiatLuxMetaTitle: "Fiat Lux | Presentació del llibre amb Lydia Na a Alacant",
+    fiatLuxMetaDescription:
+      "Presentació del llibre 'Fiat Lux: Les identitats trans a la llum de la història, la llegenda i la filosofia' de Lydia Na. Acte a la Libreria Fahrenheit 451, Alacant, 16 d'octubre de 2026.",
+    fiatLuxOgTitle: "Fiat Lux | Presentació del llibre de Lydia Na",
+    fiatLuxOgDescription:
+      "Presentació de 'Fiat Lux: Les identitats trans a la llum de la història, la llegenda i la filosofia' amb l'autora Lydia Na a la Libreria Fahrenheit 451 d'Alacant.",
+    fiatLuxPageTitle: "Fiat Lux: Presentació del llibre a Alacant",
+    fiatLuxPageIntro:
+      "El 16 d'octubre de 2026, Tuna Rosa va participar en la presentació del llibre 'Fiat Lux' de Lydia Na a la Libreria Fahrenheit 451 d'Alacant, un acte que celebrava la història, la identitat trans i la filosofia.",
+    fiatLuxHeadline: "Fiat Lux: Les identitats trans a la llum de la història, la llegenda i la filosofia",
+    fiatLuxAuthor: "Lydia Na (Lydia Dols del Corral)",
+    fiatLuxAuthorDesc:
+      "Escriptora, comunicadora i activista trans. Autora de la primera història trans escrita per una persona trans que existeix.",
+    fiatLuxAboutTitle: "Sobre el llibre",
+    fiatLuxAboutP1:
+      "'Fiat Lux' és una obra que explora les identitats trans des de múltiples perspectives: la història, la llegenda i la filosofia. Lydia Na ofereix una mirada profunda sobre l'experiència trans, transcendint la visió convencional per presentar una anàlisi que honora la complexitat, la dignitat i l'existència de les persones trans a la nostra societat.",
+    fiatLuxAboutP2:
+      "Aquest llibre representa un fita important: és la primera història trans escrita per una persona trans que existeix, un testimoni que des de la perspectiva de la primera persona, l'experiència viscuda i la reflexió, contribueix al coneixement i la visibilitat de les identitats trans.",
+    fiatLuxAboutP3:
+      "Per a Tuna Rosa, participar en aquest acte va ser un honor. La música i l'art que vam compartir en la presentació van reafirmar el nostre compromís amb la visibilitat trans, la cultura inclusiva i el suport a iniciatives que celebren i dignifiquen la nostra comunitat.",
+    fiatLuxEventTitle: "Presentació a la Libreria Fahrenheit 451",
+    fiatLuxEventDate: "16 d'octubre de 2026",
+    fiatLuxEventLocation: "Libreria Fahrenheit 451, Alacant",
+    fiatLuxEventP1:
+      "La presentació va reunir un públic variat interessat en literatura, filosofia i activisme trans. En un ambient acollidor, Lydia Na va compartir reflexions sobre la seva obra i el procés creatiu darrere de 'Fiat Lux'.",
+    fiatLuxEventP2:
+      "Tuna Rosa va aportar música, cançons i la calidesa de la nostra comunitat a l'acte. Va ser un moment de trobada on la literatura, la música i l'activisme LGTBIQA+ s'entrellaçaven en defensa de la dignitat i l'existència de les persones trans.",
+    fiatLuxEventP3:
+      "Agrair a Lydia Na per la seva valentia al escriure i compartir la seva història, a la Libreria Fahrenheit 451 per acollir-nos, i a totes les persones que van assistir i van demostrar que la visibilitat trans és un acte de justícia i amor.",
+    fiatLuxGalleryTitle: "Galeria de fotos",
+    fiatLuxAltGroup: "Equip de Tuna Rosa i amics a la Libreria Fahrenheit 451",
+    fiatLuxAltLydia: "Lydia Na amb el llibre Fiat Lux",
+    fiatLuxAltMusicians1: "Actuació musical en la presentació de Fiat Lux",
+    fiatLuxAltMusicians2: "Tuna Rosa tocant en la presentació del llibre",
+    fiatLuxBackHome: "Tornar a Inici",
   },
 
   eus: {
@@ -1432,6 +1506,43 @@ window.TUNA_TRANSLATIONS = {
     faqUQ3: "Non entseatzen dugu?",
     faqUA3:
       "Entseguak [KOKAPENA]n egiten ditugu [EGUNAK ETA ORDUAK]; jarri gurekin harremanetan xehetasunetarako!",
+
+    // Fiat Lux Event (Basque)
+    fiatLuxMetaTitle: "Fiat Lux | Lydia Na-ren liburuaren aurkezpena Alacanten",
+    fiatLuxMetaDescription:
+      "'Fiat Lux: Identitate transak historia, leyenda eta filosofiaren argiaren argitan' liburuaren aurkezpena. Ekitaldia Fahrenheit 451 Liburudendean, Alacanten, 2026ko urriaren 16an.",
+    fiatLuxOgTitle: "Fiat Lux | Lydia Na-ren liburuaren aurkezpena",
+    fiatLuxOgDescription:
+      "'Fiat Lux: Identitate transak historia, leyenda eta filosofiaren argiaren argitan' egilea Lydia Narekin Fahrenheit 451 Liburudendean Alacanten.",
+    fiatLuxPageTitle: "Fiat Lux: Liburuaren aurkezpena Alacanten",
+    fiatLuxPageIntro:
+      "2026ko urriaren 16an, Tuna Rosa Lydia Na-ren 'Fiat Lux' liburuaren aurkezpenean parte hartu zuen Fahrenheit 451 Liburudendean Alacanten, identitate trans, historia eta filosofia ospatzen zuen ekitaldian.",
+    fiatLuxHeadline: "Fiat Lux: Identitate transak historia, leyenda eta filosofiaren argiaren argitan",
+    fiatLuxAuthor: "Lydia Na (Lydia Dols del Corral)",
+    fiatLuxAuthorDesc:
+      "Idazlea, komunikatzailea eta aktibista trans. Existitzen duten pertsona trans batek idatzitako lehen historia trans-aren egilea.",
+    fiatLuxAboutTitle: "Liburuari buruz",
+    fiatLuxAboutP1:
+      "'Fiat Lux' identitate transak hainbat perspektibatik aztertzen duen obra da: historia, leyenda eta filosofia. Lydia Na begirada sakona ematen du trans esperientziari, ohiko ikuspegia gainditu eta gure gizartean trans pertsonek duten existentzia, konplexutasuna eta duintasuna onhoratu eta aztertzen du.",
+    fiatLuxAboutP2:
+      "Liburu honek milestone garrantzitsua adierazten du: existitzen duten pertsona trans batek idatzitako lehen historia trans-aren obra da. Lehenengo pertsonan, bizi-esperientzian eta ispilutzean oinarritutako testigua, identitate transaren ezagutzaren eta ikusgarritasunaren aldera kontribuituz.",
+    fiatLuxAboutP3:
+      "Tuna Rosaren eskaerara, ekitaldia honetan parte hartzea onore izan zen. Aurkezpenean partekatutako musika eta artea gure konpromisoa indartu zuen: trans ikusgarritasuna, kultur inklusiboa eta gure komunitatea ospatzen eta duintzen duten inisiatibak.",
+    fiatLuxEventTitle: "Fahrenheit 451 Liburudendean aurkezpena",
+    fiatLuxEventDate: "2026ko urriaren 16a",
+    fiatLuxEventLocation: "Fahrenheit 451 Liburudendea, Alacante",
+    fiatLuxEventP1:
+      "Aurkezpenak literatura, filosofia eta aktibismoa trans erakusle interesdun audientziak bildu zituen. Inguru onetan, Lydia Na bere lana eta 'Fiat Lux'-aren sorkuntzaren prozesua hausnarketa egin zituen.",
+    fiatLuxEventP2:
+      "Tuna Rosa musika, kanten eta gure komunitatea emakumak aporta zuen ekitaldian. Literaturaren, musikaren eta LGTBIQA+ aktibitazmoaren tartean trans pertsonak osatzen dute justizia eta maitasunaren defentsaren unea da.",
+    fiatLuxEventP3:
+      "Eskerrak Lydia Nari bere historia idatzi eta partekatzeko kurajearekin, Fahrenheit 451 Liburudendea ospitalean hartzeagatik, eta asistitu zuten eta trans ikusgarritasuna justizia eta maitasunaren akto dela adierazten zuten pertsona guztiei.",
+    fiatLuxGalleryTitle: "Argazki galeria",
+    fiatLuxAltGroup: "Tuna Rosa taldea eta lagunak Fahrenheit 451 Liburudendean",
+    fiatLuxAltLydia: "Lydia Na eta Fiat Lux liburua",
+    fiatLuxAltMusicians1: "Musika emanaldi Fiat Lux aurkezpenean",
+    fiatLuxAltMusicians2: "Tuna Rosa liburuaren aurkezpenean jotzen",
+    fiatLuxBackHome: "Hasierara bueltatu",
   },
 
   pt: {
@@ -1784,6 +1895,43 @@ window.TUNA_TRANSLATIONS = {
     faqUQ3: "Onde ensaiamos?",
     faqUA3:
       "Ensaiamos em [LOCALIZACAO] nos [DIAS E HORAS]. Contacta-nos para detalhes!",
+
+    // Fiat Lux Event (Portuguese)
+    fiatLuxMetaTitle: "Fiat Lux | Apresentacao do livro com Lydia Na em Alicante",
+    fiatLuxMetaDescription:
+      "Apresentacao do livro 'Fiat Lux: As identidades trans a luz da historia, lenda e filosofia' de Lydia Na. Evento na Livraria Fahrenheit 451, Alicante, 16 de outubro de 2026.",
+    fiatLuxOgTitle: "Fiat Lux | Apresentacao do livro de Lydia Na",
+    fiatLuxOgDescription:
+      "Apresentacao de 'Fiat Lux: As identidades trans a luz da historia, lenda e filosofia' com a autora Lydia Na na Livraria Fahrenheit 451 em Alicante.",
+    fiatLuxPageTitle: "Fiat Lux: Apresentacao do livro em Alicante",
+    fiatLuxPageIntro:
+      "Em 16 de outubro de 2026, Tuna Rosa participou na apresentacao do livro 'Fiat Lux' de Lydia Na na Livraria Fahrenheit 451 em Alicante, um evento que celebrava a historia, a identidade trans e a filosofia.",
+    fiatLuxHeadline: "Fiat Lux: As identidades trans a luz da historia, lenda e filosofia",
+    fiatLuxAuthor: "Lydia Na (Lydia Dols del Corral)",
+    fiatLuxAuthorDesc:
+      "Escritora, comunicadora e ativista trans. Autora do primeiro livro de historia trans escrito por uma pessoa trans que existe.",
+    fiatLuxAboutTitle: "Sobre o livro",
+    fiatLuxAboutP1:
+      "'Fiat Lux' e uma obra que explora as identidades trans a partir de multiplas perspectivas: historia, lenda e filosofia. Lydia Na oferece um olhar profundo sobre a experiencia trans, transcendendo a visao convencional para apresentar uma analise que honra a complexidade, a dignidade e a existencia de pessoas trans em nossa sociedade.",
+    fiatLuxAboutP2:
+      "Este livro representa um marco importante: e o primeiro livro de historia trans escrito por uma pessoa trans que existe, um testemunho que a partir da perspectiva em primeira pessoa, da experiencia vivida e da reflexao, contribui para o conhecimento e a visibilidade das identidades trans.",
+    fiatLuxAboutP3:
+      "Para Tuna Rosa, participar neste evento foi uma honra. A musica e a arte que compartilhamos na apresentacao reafirmaram nosso compromisso com a visibilidade trans, a cultura inclusiva e o apoio a iniciativas que celebram e dignificam nossa comunidade.",
+    fiatLuxEventTitle: "Apresentacao na Livraria Fahrenheit 451",
+    fiatLuxEventDate: "16 de outubro de 2026",
+    fiatLuxEventLocation: "Livraria Fahrenheit 451, Alicante",
+    fiatLuxEventP1:
+      "A apresentacao reuniu um publico diverso interessado em literatura, filosofia e ativismo trans. Num ambiente acolhedor, Lydia Na compartilhou reflexoes sobre seu trabalho e o processo criativo por tras de 'Fiat Lux'.",
+    fiatLuxEventP2:
+      "Tuna Rosa trouxe musica, cancoes e o calor de nossa comunidade para o evento. Foi um momento de encontro onde a literatura, a musica e o ativismo LGTBIQA+ se entrelaçaram em defesa da dignidade e da existencia de pessoas trans.",
+    fiatLuxEventP3:
+      "Agradecemos a Lydia Na pela sua coragem ao escrever e compartilhar sua historia, a Livraria Fahrenheit 451 por nos receber, e a todas as pessoas que compareceram e demostraram que a visibilidade trans e um ato de justica e amor.",
+    fiatLuxGalleryTitle: "Galeria de fotos",
+    fiatLuxAltGroup: "Equipe de Tuna Rosa e amigos na Livraria Fahrenheit 451",
+    fiatLuxAltLydia: "Lydia Na com o livro Fiat Lux",
+    fiatLuxAltMusicians1: "Apresentacao musical na apresentacao de Fiat Lux",
+    fiatLuxAltMusicians2: "Tuna Rosa tocando na apresentacao do livro",
+    fiatLuxBackHome: "Voltar ao Inicio",
   },
 
   fr: {
@@ -2135,6 +2283,43 @@ window.TUNA_TRANSLATIONS = {
     faqUQ3: "Ou repetons-nous?",
     faqUA3:
       "Repetitions a [LIEU] les [JOURS ET HEURES]. Contacte-nous pour les details !",
+
+    // Fiat Lux Event (French)
+    fiatLuxMetaTitle: "Fiat Lux | Presentation du livre avec Lydia Na a Alicante",
+    fiatLuxMetaDescription:
+      "Presentation du livre 'Fiat Lux: Les identites trans a la lumiere de l'histoire, la legende et la philosophie' de Lydia Na. Evenement a la Librairie Fahrenheit 451, Alicante, 16 octobre 2026.",
+    fiatLuxOgTitle: "Fiat Lux | Presentation du livre de Lydia Na",
+    fiatLuxOgDescription:
+      "Presentation de 'Fiat Lux: Les identites trans a la lumiere de l'histoire, la legende et la philosophie' avec l'auteure Lydia Na a la Librairie Fahrenheit 451 d'Alicante.",
+    fiatLuxPageTitle: "Fiat Lux: Presentation du livre a Alicante",
+    fiatLuxPageIntro:
+      "Le 16 octobre 2026, Tuna Rosa a participe a la presentation du livre 'Fiat Lux' de Lydia Na a la Librairie Fahrenheit 451 d'Alicante, un evenement celebrant l'histoire, l'identite trans et la philosophie.",
+    fiatLuxHeadline: "Fiat Lux: Les identites trans a la lumiere de l'histoire, la legende et la philosophie",
+    fiatLuxAuthor: "Lydia Na (Lydia Dols del Corral)",
+    fiatLuxAuthorDesc:
+      "Ecrivaine, communicatrice et activiste trans. Auteure du premier livre d'histoire trans ecrit par une personne trans qui existe.",
+    fiatLuxAboutTitle: "A propos du livre",
+    fiatLuxAboutP1:
+      "'Fiat Lux' est une œuvre qui explore les identites trans sous de multiples perspectives : l'histoire, la legende et la philosophie. Lydia Na offre un regard profond sur l'experience trans, transcendant la vision conventionnelle pour presenter une analyse qui honore la complexite, la dignite et l'existence des personnes trans dans notre societe.",
+    fiatLuxAboutP2:
+      "Ce livre represente un jalon important : c'est le premier livre d'histoire trans ecrit par une personne trans qui existe, un temoignage qui, a partir d'une perspective a la premiere personne, de l'experience vecue et de la reflexion, contribue a la connaissance et a la visibilite des identites trans.",
+    fiatLuxAboutP3:
+      "Pour Tuna Rosa, participer a cet evenement a ete un honneur. La musique et l'art que nous avons partages lors de la presentation ont renforce notre engagement envers la visibilite trans, la culture inclusive et le soutien aux initiatives qui celebrent et dignifient notre communaute.",
+    fiatLuxEventTitle: "Presentation a la Librairie Fahrenheit 451",
+    fiatLuxEventDate: "16 octobre 2026",
+    fiatLuxEventLocation: "Librairie Fahrenheit 451, Alicante",
+    fiatLuxEventP1:
+      "La presentation a reuni un public divers interesse par la litterature, la philosophie et l'activisme trans. Dans une atmosphere accueillante, Lydia Na a partage des reflexions sur son œuvre et le processus creatif derriee 'Fiat Lux'.",
+    fiatLuxEventP2:
+      "Tuna Rosa a apporte la musique, les chansons et la chaleur de notre communaute a l'evenement. Ce fut un moment de rencontre ou la litterature, la musique et l'activisme LGTBIQA+ se sont entrelaces en defense de la dignite et de l'existence des personnes trans.",
+    fiatLuxEventP3:
+      "Nous remercions Lydia Na pour son courage d'ecrire et de partager son histoire, la Librairie Fahrenheit 451 pour nous accueillir, et toutes les personnes qui ont participe et ont demontre que la visibilite trans est un acte de justice et d'amour.",
+    fiatLuxGalleryTitle: "Galerie de photos",
+    fiatLuxAltGroup: "Equipe de Tuna Rosa et amis a la Librairie Fahrenheit 451",
+    fiatLuxAltLydia: "Lydia Na avec le livre Fiat Lux",
+    fiatLuxAltMusicians1: "Performance musicale a la presentation de Fiat Lux",
+    fiatLuxAltMusicians2: "Tuna Rosa jouant a la presentation du livre",
+    fiatLuxBackHome: "Retour a l'accueil",
   },
 
   gal: {
@@ -2500,6 +2685,43 @@ window.TUNA_TRANSLATIONS = {
     faqUQ3: "¿Onde ensaiamos?",
     faqUA3:
       "Os ensaios realízanse en [LOCALIZACIÓN] os [DÍAS Y HORAS]. ¡Ponte en contacto para máis detalles!",
+
+    // Fiat Lux Event
+    fiatLuxMetaTitle: "Fiat Lux | Presentación del libro con Lydia Na en Alicante",
+    fiatLuxMetaDescription:
+      "Presentación del libro 'Fiat Lux: Las identidades trans a la luz de la historia, la leyenda y la filosofía' de Lydia Na. Evento en Librería Fahrenheit 451, Alicante, 16 de octubre de 2026.",
+    fiatLuxOgTitle: "Fiat Lux | Presentación del libro de Lydia Na",
+    fiatLuxOgDescription:
+      "Presentación de 'Fiat Lux: Las identidades trans a la luz de la historia, la leyenda y la filosofía' con la autora Lydia Na en Librería Fahrenheit 451 de Alicante.",
+    fiatLuxPageTitle: "Fiat Lux: Presentación del Libro en Alicante",
+    fiatLuxPageIntro:
+      "El 16 de octubre de 2026, Tuna Rosa participó en la presentación del libro 'Fiat Lux' de Lydia Na en la Librería Fahrenheit 451 de Alicante, un evento que celebraba la historia, la identidad trans y la filosofía.",
+    fiatLuxHeadline: "Fiat Lux: Las identidades trans a la luz de la historia, la leyenda y la filosofía",
+    fiatLuxAuthor: "Lydia Na (Lydia Dols del Corral)",
+    fiatLuxAuthorDesc:
+      "Escritora, comunicadora y activista trans. Autora de la primera historia trans escrita por una persona trans que existe.",
+    fiatLuxAboutTitle: "Sobre el libro",
+    fiatLuxAboutP1:
+      "'Fiat Lux' es una obra que explora las identidades trans desde múltiples perspectivas: la historia, la leyenda y la filosofía. Lydia Na ofrece una mirada profunda sobre la experiencia trans, trascendiendo la visión convencional para presentar un análisis que honra la complejidad, la dignidad y la existencia de las personas trans en nuestra sociedad.",
+    fiatLuxAboutP2:
+      "Este libro representa un hito importante: es la primera historia trans escrita por una persona trans que existe, un testimonio que desde la primera persona, la vivencia y la reflexión, contribuye al conocimiento y la visibilidad de las identidades trans.",
+    fiatLuxAboutP3:
+      "Para Tuna Rosa, participar en este acto fue un honor. La música y el arte que compartimos en la presentación reafirmaron nuestro compromiso con la visibilidad trans, la cultura inclusiva y el apoyo a iniciativas que celebran y dignifican a nuestra comunidad.",
+    fiatLuxEventTitle: "Presentación en Librería Fahrenheit 451",
+    fiatLuxEventDate: "16 de octubre de 2026",
+    fiatLuxEventLocation: "Librería Fahrenheit 451, Alicante",
+    fiatLuxEventP1:
+      "La presentación reunió a un público variado interesado en literatura, filosofía y activismo trans. En un ambiente acogedor, Lydia Na compartió reflexiones sobre su obra y el proceso creativo detrás de 'Fiat Lux'.",
+    fiatLuxEventP2:
+      "Tuna Rosa aportó música, canciones y la calidez de nuestra comunidad al acto. Fue un momento de encuentro donde la literatura, la música y la militancia LGTBIQA+ se entrelazaron en defensa de la dignidad y la existencia de las personas trans.",
+    fiatLuxEventP3:
+      "Agradecemos a Lydia Na por su coraje al escribir y compartir su historia, a la Librería Fahrenheit 451 por acogernos, y a todas las personas que asistieron y demostraron que la visibilidad trans es un acto de justicia y amor.",
+    fiatLuxGalleryTitle: "Galería de fotos",
+    fiatLuxAltGroup: "Equipo de Tuna Rosa y amigos en Librería Fahrenheit 451",
+    fiatLuxAltLydia: "Lydia Na con el libro Fiat Lux",
+    fiatLuxAltMusicians1: "Actuación musical en la presentación de Fiat Lux",
+    fiatLuxAltMusicians2: "Tuna Rosa tocando en la presentación del libro",
+    fiatLuxBackHome: "Volver a Inicio",
   },
 };
 
